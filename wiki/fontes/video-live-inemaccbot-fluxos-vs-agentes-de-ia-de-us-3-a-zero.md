@@ -1,11 +1,11 @@
-# LIVE： INEMACCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
+# LIVE： ARCKHÉCCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
 
 - Tipo: video
 - Origem: https://www.youtube.com/watch?v=axMCHVuSu0M
-- Arquivo: raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt
+- Arquivo: raw/videos/live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt
 
 ## Resumo
-Aula-live do curso sobre a arquitetura do INEMA CC Bot: gateway/validador, fila durável em SQLite, workers com controle atômico, roteador que decide entre skill direta, agente com skill ou fluxo multi-etapas, e entrega. O ponto central é fluxo vs agente. O pipeline "promo avatar" feito com agentes custava cerca de US$ 3 por vídeo e levava horas, por causa de releitura de cache e scripts recriados a cada execuçêo. Ele mediu tokens e ferramentas, achou os gargalos e trocou etapas de agente por funções determinísticas (o "estúdio" que pilota o navegador, CTA fixo colado com FFmpeg). O custo caiu para US$ 0,50, depois 0,18, e chegou a zero. Em seguida instala o bot numa VPS limpa ao vivo e depura os caminhos errados no .env até o ping responder. Explica harness vs LLM, a estrutura de "domínios" (flow.json, prompts, templates, CTA, help) e o valor de validar o pedido e recusar cedo.
+Aula-live do curso sobre a arquitetura do ARCKHÉ CC Bot: gateway/validador, fila durável em SQLite, workers com controle atômico, roteador que decide entre skill direta, agente com skill ou fluxo multi-etapas, e entrega. O ponto central é fluxo vs agente. O pipeline "promo avatar" feito com agentes custava cerca de US$ 3 por vídeo e levava horas, por causa de releitura de cache e scripts recriados a cada execuçêo. Ele mediu tokens e ferramentas, achou os gargalos e trocou etapas de agente por funções determinísticas (o "estúdio" que pilota o navegador, CTA fixo colado com FFmpeg). O custo caiu para US$ 0,50, depois 0,18, e chegou a zero. Em seguida instala o bot numa VPS limpa ao vivo e depura os caminhos errados no .env até o ping responder. Explica harness vs LLM, a estrutura de "domínios" (flow.json, prompts, templates, CTA, help) e o valor de validar o pedido e recusar cedo.
 
 ## Ideias centrais
 - Agente tem custo e nêo é exato; script repete igual: "que vai ser rodado igual sempre. Quando" (@00:06:52)

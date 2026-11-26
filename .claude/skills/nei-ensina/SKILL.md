@@ -1,6 +1,6 @@
 ---
 name: nei-ensina
-description: "Ensina algo construindo junto, no método de Nei Maldaner (INEMA) — chama o subagente nei-mentor e confere a resposta regra por regra. Use com '/nei-ensina <dúvida>' ou 'me ensina X construindo'."
+description: "Ensina algo construindo junto, no método de Nei Maldaner (ARCKHÉ) — chama o subagente nei-mentor e confere a resposta regra por regra. Use com '/nei-ensina <dúvida>' ou 'me ensina X construindo'."
 ---
 
 # Ensinar

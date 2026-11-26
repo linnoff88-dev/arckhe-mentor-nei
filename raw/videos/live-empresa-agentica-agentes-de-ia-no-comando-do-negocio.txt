@@ -34,7 +34,7 @@ Texto: legenda
 [00:01:31] entêo o que que acontece, né? Se a gente
 [00:01:33] parar para pensar, e eu vou passar para
 [00:01:35] vocês várias coisas também, vou explicar
-[00:01:38] depois de novo como instalar o Inema
+[00:01:38] depois de novo como instalar o ARCKHÉ
 [00:01:43] CCBT, o
 [00:01:46] promo Avatar, todas essas coisas eu vou
 [00:01:48] explicar para vocês hoje.
@@ -453,7 +453,7 @@ Texto: legenda
 [00:22:40] tá certo?
 [00:22:41] Bom,
 [00:22:43] eu teria mais coisas para apresentar,
-[00:22:45] mas eu quero focar aqui no Inema CC
+[00:22:45] mas eu quero focar aqui no ARCKHÉ CC
 [00:22:48] Boot, tá?
 [00:22:53] Entêo eu quero focar nessa estrutura
 [00:22:55] aqui. Hoje eu instalei, verifiquei
@@ -466,7 +466,7 @@ Texto: legenda
 [00:23:30] tenho as filas.
 [00:23:32] Além das filas, eu tenho os workers,
 [00:23:36] certo? E aí eu tenho as skills. Entêo
-[00:23:40] quando tu instala o inema CC Bote, ele
+[00:23:40] quando tu instala o ARCKHÉ CC Bote, ele
 [00:23:44] já vem com duas skills prontas, que é o
 [00:23:46] promover,
 [00:23:48] certo?
@@ -477,8 +477,8 @@ Texto: legenda
 [00:24:02] vamos para diretamente para o
 [00:24:06] Tu vai lá. Opa, deixa eu abrir um outro
 [00:24:15] pode ser no
-[00:24:23] Inema. CC bot. Vamos lá. Servo
-[00:24:30] inema
+[00:24:23] ARCKHÉ. CC bot. Vamos lá. Servo
+[00:24:30] ARCKHÉ
 [00:24:32] CC bot. Ó, tá aqui ele.
 [00:24:37] E aí, ó, tá?
 [00:24:41] Eu vou para o GitHub.
@@ -512,7 +512,7 @@ Texto: legenda
 [00:26:07] CTA pelo teu negócio. É um arquivinho
 [00:26:10] pequeno, certo? ou você deixa ele em
 [00:26:13] branco aí, só para nêo ficar botando
-[00:26:15] inema.club no final dos teus vídeos,
+[00:26:15] ARCKHÉ AI no final dos teus vídeos,
 [00:26:19] certo?
 [00:26:21] Muito bem. Mas se tu nêo deixar esses
 [00:26:23] arquivos lá existente, eles vêo falhar,
@@ -615,7 +615,7 @@ Texto: legenda
 [00:32:29] Mentira.
 [00:32:32] Tá aqui, ó. Instalou, sim.
 [00:32:35] Era aquele comando lá que tá errado. CD
-[00:32:39] Inema
+[00:32:39] ARCKHÉ
 [00:32:41] CC bot.
 [00:32:45] Muito bem, ó. Já tô aqui dentro. E
 [00:32:48] agora, ó, se dou ls - la,
@@ -707,7 +707,7 @@ Texto: legenda
 [00:38:35] Ainda ele nêo achou.
 [00:38:38] Deixa eu ver o que que tá dando lá.
 [00:38:57] Fui instalar o
-[00:39:01] Inema, nêo, o github.com.
+[00:39:01] ARCKHÉ, nêo, o github.com.
 [00:39:06] Deixa eu pegar o link que é mais fácil.
 [00:39:18] &gt;&gt; [roncando]
 [00:39:24] &gt;&gt; e me deu este erro.
@@ -743,9 +743,9 @@ Texto: legenda
 [00:44:49] criar ele.
 [00:44:53] Bootfatter
 [00:44:56] barra newbot.
-[00:45:01] Vou dar aí inema CC
+[00:45:01] Vou dar aí ARCKHÉ CC
 [00:45:06] bot. Nêo, deixa eu botar CC X bot.
-[00:45:13] Inema CC Xbot.
+[00:45:13] ARCKHÉ CC Xbot.
 [00:45:19] Pronto, tem a chave agora aqui.
 [00:45:22] Tem que colocar essa chave lá no
 [00:45:27] T.
@@ -798,8 +798,8 @@ Texto: legenda
 [00:50:58] Bom, enquanto ele tá atualizando aqui,
 [00:51:00] ó, olha só como é que eu eu já consegui
 [00:51:03] avançar aqui.
-[00:51:08] Inema gatilhosema.
-[00:51:10] cinema
+[00:51:08] ARCKHÉ gatilhosema.
+[00:51:10] cARCKHÉ
 [00:51:16] e
 [00:51:20] e CC Bot.
 [00:51:22] Olha só aqui, ó. Eu já tô testando
@@ -922,7 +922,7 @@ Texto: legenda
 [01:02:18] fazer,
 [01:02:24] tá?
 [01:02:26] Ó, CD
-[01:02:29] ponto ponto CD Inema
+[01:02:29] ponto ponto CD ARCKHÉ
 [01:02:33] Cbot,
 [01:02:35] aliás, CDON
 [01:02:38] CD promo
@@ -956,7 +956,7 @@ Texto: legenda
 [01:04:40] tá? Nesse aqui, deixa eu fazer isso
 [01:04:43] aqui, entêo.
 [01:04:45] CD ponto ponto CD
-[01:04:49] pro Opa, inema.
+[01:04:49] pro Opa, ARCKHÉ.
 [01:05:05] Pô, mas eu botei o chat aí dis
 [01:05:15] eu já fiz isso aqui. Ja.
 [01:05:40] Vamos ver de novo.
@@ -1036,7 +1036,7 @@ Texto: legenda
 [01:14:16] Hum.
 [01:14:19] Deixa eu startar ele lá.
 [01:14:23] CD Projetos
-[01:14:27] CD [roncando] Inema
+[01:14:27] CD [roncando] ARCKHÉ
 [01:14:30] Bot.
 [01:14:42] Mas eu nêo tinha alterado,
 [01:14:48] né?
@@ -1169,7 +1169,7 @@ Texto: legenda
 [01:25:19] certo?
 [01:25:21] Entêo se vocês, opa, fechei de novo.
 [01:25:25] Hábito. Entêo se eu chegar ir lá, né,
-[01:25:30] INEMA Club aqui
+[01:25:30] ARCKHÉ Club aqui
 [01:25:34] e vamos buscar o os projetos.
 [01:25:39] Ó, o CC boteou Avatar.
 [01:25:45] Vocês podem estudar aqui um pouco para

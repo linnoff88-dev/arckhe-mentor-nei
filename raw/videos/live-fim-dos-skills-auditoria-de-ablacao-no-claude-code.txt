@@ -154,8 +154,8 @@ Texto: legenda
 [00:07:34] pegou e fez uma análise nessa 114 e ó,
 [00:07:37] me chamou de lixo mesmo. Certo? Entêo o
 [00:07:40] que que eu fiz? Eu peguei para vocês
-[00:07:43] aqui, ó, e tá lá no Inema Club, certo?
-[00:07:47] Se vocês entrarem no Inema Club aqui, ó,
+[00:07:43] aqui, ó, e tá lá no ARCKHÉ Club, certo?
+[00:07:47] Se vocês entrarem no ARCKHÉ Club aqui, ó,
 [00:07:50] descerem lá últimos projetos, tá aqui
 [00:07:53] audit
 [00:07:55] ablaçêo CC, ó, auditoria de ablaçêo do
@@ -290,10 +290,10 @@ Texto: legenda
 [00:14:32] auditoria
 [00:14:34] punk aqui para mim, certo? Entêo
 [00:14:38] pessoal, esse conteúdo tá disponível
-[00:14:40] para vocês, só ir lá no inema.club,
+[00:14:40] para vocês, só ir lá no ARCKHÉ AI,
 [00:14:43] baixar o auditoria. Vou repetir lá para
 [00:14:47] vocês verem aonde que está,
-[00:14:50] certo? Você vai lá pra página do Inema
+[00:14:50] certo? Você vai lá pra página do ARCKHÉ
 [00:14:52] Club
 [00:14:55] direto na internet, lembra? Desce aqui.
 [00:14:59] Depois dos cursos básicos, tem aqui
@@ -434,7 +434,7 @@ Texto: legenda
 [00:22:14] de uma página web e nêo mais talvez até
 [00:22:17] pode ser via CLI,
 [00:22:21] certo? Entêo era isso, tá aqui, ó. Eu
-[00:22:24] coloquei isso dentro do grupo do Inema
+[00:22:24] coloquei isso dentro do grupo do ARCKHÉ
 [00:22:27] que é conceitos que explica esse tipo de
 [00:22:30] coisa.
 [00:22:31] Tá
@@ -449,8 +449,8 @@ Texto: legenda
 [00:22:56] fácil de todo mundo acessar, tá certo?
 [00:23:00] Entêo, ó, por exemplo, se tu vi aqui,
 [00:23:03] né, e observar aqui, ó, né, Vibecode do
-[00:23:07] zero, aonde que ele tá? No grupo Inema
-[00:23:10] Dev. Entêo, se tu for aqui no Inema Dev,
+[00:23:07] zero, aonde que ele tá? No grupo ARCKHÉ
+[00:23:10] Dev. Entêo, se tu for aqui no ARCKHÉ Dev,
 [00:23:15] ó, nós temos aqui vibe code do zero, tá?
 [00:23:20] Até deixa eu deletar isso aqui que nêo
 [00:23:22] precisa mais. Certo? Aqui tá os cursos,
@@ -509,15 +509,15 @@ Texto: legenda
 [00:26:46] um Verscel. Deixa eu ver se tem aqui um
 [00:26:48] Versel. Tem, por exemplo, aqui, ó, a
 [00:26:50] gente tava descarte, a gente tava
-[00:26:53] criando esse inema DLP,
+[00:26:53] criando esse ARCKHÉ DLP,
 [00:26:56] certo? Entêo eu criei um DLP e tudo e eu
 [00:27:00] queria no domínio tá criando, certo? Uma
-[00:27:06] um em vez de chamar inema dlpversel.app,
-[00:27:10] eu quero que seja dlpinema.club
+[00:27:06] um em vez de chamar ARCKHÉ dlpversel.app,
+[00:27:10] eu quero que seja dlpARCKHÉ AI
 [00:27:14] ou dlp2,
 [00:27:16] certo? Entêo simplesmente eu venho aqui
 [00:27:19] e crio. Poderia ser, né?
-[00:27:23] CF.inema.club.
+[00:27:23] CF.ARCKHÉ AI.
 [00:27:27] Entêo, quando eu fizer isso, eu adiciono
 [00:27:30] o domínio,
 [00:27:32] ó, ele vai ficar em vermelho aqui.
@@ -558,7 +558,7 @@ Texto: legenda
 [00:29:17] dar um refresh, vai levar um tempinho
 [00:29:19] até ele tá no ar.
 [00:29:22] Ó, já tá aqui. Se alguém chegar e
-[00:29:25] escrever agora cfinema.club, do club vai
+[00:29:25] escrever agora cfARCKHÉ AI, do club vai
 [00:29:29] chegar nessa página do Vercelo aqui que
 [00:29:32] é o DLP, tá? Que é um teste que a gente
 [00:29:36] fez hoje durante o dia.
@@ -659,7 +659,7 @@ Texto: legenda
 [00:34:55] já olho as mensagens, tá pessoal?
 [00:34:58] Ó, ele botou aqui, ó, o corvo tá no ar e
 [00:35:01] agora o 4174
-[00:35:04] é o Inema Club. Vamos ver o que que ele
+[00:35:04] é o ARCKHÉ Club. Vamos ver o que que ele
 [00:35:06] me fez,
 [00:35:09] tá?
 [00:35:10] Vamos ver.
@@ -700,7 +700,7 @@ Texto: legenda
 [00:37:46] Humum.
 [00:37:50] Bom,
 [00:38:02] entêo vamos lá para o
-[00:38:05] Inema CCB.
+[00:38:05] ARCKHÉ CCB.
 [00:38:08] Pessoal, a máquina nêo para de produzir.
 [00:38:12] Ô Tiza, olha aqui, ó. 63.
 [00:38:17] Tá vendo? Tudo isso aqui é vídeo
@@ -718,7 +718,7 @@ Texto: legenda
 [00:38:58] E eu passo aquela ideia aqui que eu
 [00:39:00] quero do assunto e ele transforma isso
 [00:39:03] em vídeo, certo? naquela ferramenta
-[00:39:06] gratuita que é o Inema CCBT.
+[00:39:06] gratuita que é o ARCKHÉ CCBT.
 [00:39:10] Pessoal, qual é a vantagem de usar o
 [00:39:12] CCB?
 [00:39:14] É que nós transformamos aquilo daquele
@@ -765,7 +765,7 @@ Texto: legenda
 [00:41:36] Entêo, o que que acontece? E hoje o que
 [00:41:38] que eu queria mostrar para vocês? Uma
 [00:41:40] evoluçêo.
-[00:41:41] Se a gente olhar aqui, tá? Inema CCBOT,
+[00:41:41] Se a gente olhar aqui, tá? ARCKHÉ CCBOT,
 [00:41:48] tá? ele aqui. Git
 [00:41:52] atualizaçêo. Atualizaçêo,
 [00:41:56] né?
@@ -990,7 +990,7 @@ Texto: legenda
 [00:53:42] Oi, tudo bem pessoal? Oi, Víor,
 [00:53:45] tudo bem? Tempo no Sul, como é que tá
 [00:53:48] pessoal? Ó, eu do TikTok, vocês têm que
-[00:53:51] ir lá pro Inema, pro Inema TDS do
+[00:53:51] ir lá pro ARCKHÉ, pro ARCKHÉ TDS do
 [00:53:54] YouTube,
 [00:53:56] porque quando eu transmito aqui no
 [00:53:58] TikTok, logo ele me bane porque vocês
@@ -1029,7 +1029,7 @@ Texto: legenda
 [00:55:38] entregando aos poucos. Tô vendo o
 [00:55:40] crescimento disso. Certo?
 [00:55:45] Entêo é por isso que a gente tem esse
-[00:55:47] aí, o Inema CCBOT é o gerenciador das
+[00:55:47] aí, o ARCKHÉ CCBOT é o gerenciador das
 [00:55:52] filas
 [00:55:54] via Telegram, certo? E aí os skills que
 [00:55:57] tu colocar lá dentro vêo fazer o que tu
@@ -1171,17 +1171,17 @@ Texto: legenda
 [01:04:32] aqui que eu quero estudar
 [01:04:36] aqui. É o
 [01:04:39] Ah, sim. Vamos falar um pouquinho do
-[01:04:41] Inema Pro,
+[01:04:41] ARCKHÉ Pro,
 [01:04:46] certo? Nem pro aqui.
 [01:04:53] Olha só, pessoal.
 [01:04:55] Entêo, de novo, tô colocando aqui os
 [01:04:58] conteúdos
 [01:05:00] e se nós entrar aqui no acervo,
 [01:05:03] pessoal, já tem 17.000 conteúdos dentro
-[01:05:07] do nosso sistema do Inema Pro, cada vez
+[01:05:07] do nosso sistema do ARCKHÉ Pro, cada vez
 [01:05:11] mais arredondado, né? Tudo que a gente
 [01:05:15] publica nas comunidades aí dentro do
-[01:05:18] Inema VIP, vem para cá consolidado como
+[01:05:18] ARCKHÉ VIP, vem para cá consolidado como
 [01:05:20] um cérebro, tá? Entêo se tu vi aqui
 [01:05:24] procurar, né, todo o conteúdo de
 [01:05:27] madrugada ele atualiza. Eu nêo tô
@@ -1196,7 +1196,7 @@ Texto: legenda
 [01:05:53] eu mandei publicar, né, alguma coisa no
 [01:05:56] portal,
 [01:05:58] ele atualiza lá no portal, por exemplo,
-[01:06:01] no Inema Club.
+[01:06:01] no ARCKHÉ Club.
 [01:06:03] Certo?
 [01:06:05] Deixa eu ver
 [01:06:08] mais para cima. Tem que ser,
@@ -1216,7 +1216,7 @@ Texto: legenda
 [01:07:03] Entêo dentro dessa base de dados mais
 [01:07:05] dessa de base de dados depois é levado
 [01:07:09] para dentro, né, do sistema, né, do
-[01:07:13] Inema Pro. Entêo você faz uma escada de
+[01:07:13] ARCKHÉ Pro. Entêo você faz uma escada de
 [01:07:17] informaçêo,
 [01:07:19] tá? A mesma coisa eu posso mostrar para
 [01:07:22] vocês aqui, ó.
@@ -1260,7 +1260,7 @@ Texto: legenda
 [01:09:20] Entêo o que que ele faz aí a de
 [01:09:22] madrugada consolida tudo que nem ontem.
 [01:09:26] Ontem ele ela tinha mais de 2.000
-[01:09:28] informações novas para dentro do Inema
+[01:09:28] informações novas para dentro do ARCKHÉ
 [01:09:31] Pro, certo? Entêo, e aqui eu posso estar
 [01:09:35] olhando isso aqui, ó, de vários
 [01:09:37] formatos, por lista, por cartões, certo?
@@ -1596,14 +1596,14 @@ Texto: legenda
 [01:34:16] Oi, tudo bem?
 [01:34:18] Thago tá procurando API de geraçêo de
 [01:34:22] vídeo para vender em site de geraçêo em
-[01:34:24] grande escala. Olha lá no inema.Club.
+[01:34:24] grande escala. Olha lá no ARCKHÉ AI.
 [01:34:29] Tenho, tenho tem vários várias
 [01:34:32] ferramentas já pronta praticamente para
 [01:34:34] fazer isso. Única coisa tu tem que
 [01:34:36] configurar,
 [01:34:39] [roncando] tá? Dá uma olhada no
-[01:34:42] inema.club, Club. Tem o o Inema CC Boot,
-[01:34:49] tem o Inema,
+[01:34:42] ARCKHÉ AI, Club. Tem o o ARCKHÉ CC Boot,
+[01:34:49] tem o ARCKHÉ,
 [01:34:52] ê, o YouTube
 [01:34:56] Pub
 [01:34:58] Live X.
@@ -1714,7 +1714,7 @@ Texto: legenda
 [01:40:57] Nêo sei se vocês viram. Negócio de uma
 [01:40:59] pessoa só. Como construir em 2026,
 [01:41:02] certo?
-[01:41:05] Aqui eu tenho um conteúdo lá no Inema,
+[01:41:05] Aqui eu tenho um conteúdo lá no ARCKHÉ,
 [01:41:08] ê,
 [01:41:10] TDS. Tá aqui, ó,
 [01:41:14] que tem todo o passo a passo para que se

@@ -1,6 +1,6 @@
 # MakeShorts — Fábrica de Shorts com IA
 
-Origem: https://inematds.github.io/makeshorts/guia/
+Origem: https://linnoff88-dev.github.io/arckhe-/guia/
 
 O que é
 
@@ -10,7 +10,7 @@ MakeShorts é uma skill ( /makeshorts ) com scripts de apoio. Você entrega um t
 
 ### 🧩 Orquestra, nêo reinventa
 
-Chama o que já funciona: HyperFrames para editar, inemavox para voz e transcriçêo, HeyGen para avatar, Metricool para agendar.
+Chama o que já funciona: HyperFrames para editar, ARCKHÉvox para voz e transcriçêo, HeyGen para avatar, Metricool para agendar.
 
 ### 📐 Fórmula fixa, tema variável
 
@@ -56,7 +56,7 @@ Pré-requisitos
 
 ## O que precisa estar na máquina
 
-O básico roda em qualquer Linux ou Mac. GPU e inemavox sêo opcionais: sem eles, troque os backends por API (veja VPS ).
+O básico roda em qualquer Linux ou Mac. GPU e ARCKHÉvox sêo opcionais: sem eles, troque os backends por API (veja VPS ).
 
 ### Claude Code
 
@@ -95,7 +95,7 @@ Cinco passos. Os comandos sêo os do repositório, prontos para copiar.
 O instalador confere dependências, liga a skill em ~/.claude/skills/makeshorts (symlink) e cria o .env .
 
 ```
-git clone https://github.com/inematds/makeshorts.git && cd makeshorts
+git clone https://github.com/linnoff88-dev/makeshorts.git && cd makeshorts
 bash scripts/instalar.sh --check   # só confere
 bash scripts/instalar.sh           # instala a skill + cria .env
 ```
@@ -107,8 +107,8 @@ bash scripts/instalar.sh           # instala a skill + cria .env
 Uma linha por etapa. Na máquina com GPU fica tudo local; em outro lugar, troque por API.
 
 ```
-MS_VOZ=inemavox          # inemavox | edge | openai | elevenlabs
-MS_TRANSCRICAO=inemavox  # inemavox | groq | openai
+MS_VOZ=ARCKHÉvox          # ARCKHÉvox | edge | openai | elevenlabs
+MS_TRANSCRICAO=ARCKHÉvox  # ARCKHÉvox | groq | openai
 MS_IMAGEM=flux-local     # flux-local | nenhuma
 MS_AVATAR=nenhum         # heygen | nenhum
 MS_PUBLICAR=metricool   # metricool | manual
@@ -161,7 +161,7 @@ Nenhum código muda. Os scripts voz.py e transcreve.py leem o backend do .env e 
 
 ### 🖥️ Máquina com GPU
 
-Voz: inemavox (chatterbox, voz clonada local) · Transcriçêo: inemavox (Whisper large-v3) · Imagem: flux-local .
+Voz: ARCKHÉvox (chatterbox, voz clonada local) · Transcriçêo: ARCKHÉvox (Whisper large-v3) · Imagem: flux-local .
 
 ### ☁️ VPS
 

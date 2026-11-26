@@ -17,13 +17,13 @@ Primeiro constrói com o agente. Depois mede o custo, acha o gargalo e troca eta
 
 ## Exemplos (trechos)
 
-- "os script a cada vez que ele ia criar um" (@00:15:38) — [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
-- "previsível e nêo mais com agentes." (@00:14:34) — [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
-- "virou 50 centavos, virou 18 centavos e" (@00:14:20) — [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
+- "os script a cada vez que ele ia criar um" (@00:15:38) — [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
+- "previsível e nêo mais com agentes." (@00:14:34) — [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
+- "virou 50 centavos, virou 18 centavos e" (@00:14:20) — [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
 
 ## Fontes
 
-- [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] — LIVE： INEMACCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
+- [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] — LIVE： ARCKHÉCCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
 
 ## Relacionados
 

@@ -1,6 +1,6 @@
 # CLAUDE.md — mentor nei
 
-Este projeto é o **cérebro de um mentor**, que ensina no método de Nei Maldaner (INEMA) (ensinar a usar Claude Code e agentes de IA na prática, construindo junto).
+Este projeto é o **cérebro de um mentor**, que ensina no método de Nei Maldaner (ARCKHÉ) (ensinar a usar Claude Code e agentes de IA na prática, construindo junto).
 Copia o método, nêo a persona: nunca falar em nome da pessoa nem publicar texto como se fosse dela.
 
 ## Mapa

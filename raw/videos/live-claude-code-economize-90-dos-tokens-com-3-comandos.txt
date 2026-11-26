@@ -64,9 +64,9 @@ Texto: legenda
 [00:04:48] ambiente do ponto ENV, como é que tu
 [00:04:50] pode importar isso? né, o domínio
 [00:04:53] personalizado. Entêo, em vez de ficar
-[00:04:55] lá, né, inema.
+[00:04:55] lá, né, ARCKHÉ.
 [00:04:58] Eu posso criar um domínio chamado
-[00:05:01] inema.club, por exemplo, certo? E depois
+[00:05:01] ARCKHÉ AI, por exemplo, certo? E depois
 [00:05:05] disso, como é que tu configura isso? Tu
 [00:05:08] pode ser no teu DNS ou usar o Cloudfir,
 [00:05:11] certo? Para poder fazer isso. E por
@@ -170,7 +170,7 @@ Texto: legenda
 [00:10:38] Sim, eu estou logado. Entêo vamos só ver
 [00:10:40] uma coisa aqui.
 [00:10:45] Ô Tiza, olha só, já deu 2.500 pessoas
-[00:10:48] aqui, ó, no Inema. Por isso que ele tá
+[00:10:48] aqui, ó, no ARCKHÉ. Por isso que ele tá
 [00:10:51] sobrecarregando aqui.
 [00:10:56] Deixa eu testar aqui de novo que um
 [00:10:58] teste
@@ -186,7 +186,7 @@ Texto: legenda
 [00:11:47] de redirect sem acesso para todo mundo
 [00:11:49] confinando. Tê,
 [00:11:52] é o comportamento correto.
-[00:12:04] Corrigido nos três repos. Causa. O Inema
+[00:12:04] Corrigido nos três repos. Causa. O ARCKHÉ
 [00:12:07] responde com 308. Como consulta, usa o
 [00:12:10] redirect manual. e só aceita 200. O 308
 [00:12:14] era lido como sem acesso e o gate
@@ -217,9 +217,9 @@ Texto: legenda
 [00:13:35] cadê você?
 [00:13:40] Deixa eu só ver se ele aceita aqui.
 [00:13:45] Tá, funcionou, voltou aqui. Você vai pro
-[00:13:48] inema.Club,
+[00:13:48] ARCKHÉ AI,
 [00:13:51] certo?
-[00:13:53] No Inemacub, procura em buscas e aqui tu
+[00:13:53] No ARCKHÉcub, procura em buscas e aqui tu
 [00:13:57] vai botar hand.
 [00:14:00] Ó, hand off, na verdade, ó, hand h A n
 [00:14:05] d. Você vai achar esse é cara aqui, ó.
@@ -325,7 +325,7 @@ Texto: legenda
 [00:19:22] continua logo em todas as fases. É a
 [00:19:24] variável deliberadamente
 [00:19:28] nêo testada, né? Os dois casamentos,
-[00:19:32] né? O que que é disso aqui? É o inema
+[00:19:32] né? O que que é disso aqui? É o ARCKHÉ
 [00:19:35] CCBT. É onde eu tô trabalhando aqui,
 [00:19:39] tá? memória, reiniciar o serviço, mata o
 [00:19:43] render em voo, tá? Entêo ele tá me dando
@@ -681,7 +681,7 @@ Texto: legenda
 [00:38:17] eu já consertei aqui. Entêo deixa eu só
 [00:38:20] fechar isso aqui,
 [00:38:24] tá? Que vai abrindo as telas.
-[00:38:28] Bom, pessoal, dentro do INEMA Pro agora
+[00:38:28] Bom, pessoal, dentro do ARCKHÉ Pro agora
 [00:38:31] vocês têm uma área chamado biblioteca.
 [00:38:34] Tem biblioteca aqui, certo? Mas eu botei
 [00:38:37] um lib aqui, tá? Entêo esse lib, tá? Eu
@@ -720,7 +720,7 @@ Texto: legenda
 [00:40:35] o prompt bem curtinho aqui. E vamos ver.
 [00:40:52] Ó, 10 segundos, né? Foi feito em VFX,
 [00:40:58] né?
-[00:41:00] cinema fotor realista e tudo. A fórmula
+[00:41:00] cARCKHÉ fotor realista e tudo. A fórmula
 [00:41:03] 1 car pa pá explica aqui o prompt.
 [00:41:07] Tô botando só as lções, né?
 [00:41:11] Culinária aqui,
@@ -811,7 +811,7 @@ Texto: legenda
 [00:46:39] mostrar para vocês.
 [00:46:42] Outra coisa que
 [00:46:46] nós temos, quando a gente entrar aqui no
-[00:46:50] inema IA,
+[00:46:50] ARCKHÉ IA,
 [00:46:55] eu tenho um conteúdo e a sempre aqui é
 [00:46:57] quer dizer conceitos. Entêo eu tenho um
 [00:46:59] conteúdo muito bala aqui, pessoal, que
@@ -1326,7 +1326,7 @@ Texto: legenda
 [01:13:13] Entêo, quando eu falo isso, né, quanto
 [01:13:16] tempo atrás eu já tinha os cursos de
 [01:13:18] humanoides,
-[01:13:20] né? Entêo, se eu chegar lá no Inema Club
+[01:13:20] né? Entêo, se eu chegar lá no ARCKHÉ Club
 [01:13:26] e for lá em buscas,
 [01:13:30] vamos lá em cursos.
 [01:13:33] Humanoides.

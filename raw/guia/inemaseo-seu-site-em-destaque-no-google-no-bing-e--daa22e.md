@@ -1,6 +1,6 @@
-# inemaSEO — seu site em destaque no Google, no Bing e nas IAs
+# ARCKHÉSEO — seu site em destaque no Google, no Bing e nas IAs
 
-Origem: https://inematds.github.io/inemaseo-metodo/guia/
+Origem: https://linnoff88-dev.github.io/arckhe-/guia/
 
 O que é
 
@@ -98,7 +98,7 @@ openssl rand -hex 16
 git, curl, Python 3 e Node 18+. Um agente de IA (Claude Code ou Codex CLI) para as etapas de extraçêo e redaçêo.
 
 ```
-git clone https://github.com/inematds/inemaseo-metodo
+git clone https://github.com/linnoff88-dev/ARCKHÉseo-metodo
 ```
 
 Passo a passo
@@ -194,11 +194,11 @@ python3 tools/gsc_inspecionar.py sc-domain:seusite.com https://www.seusite.com/n
 # Enviada e indexada | rastreio 2026-10-01 | canônico Google ...
 ```
 
-Aplicado no INEMA
+Aplicado no ARCKHÉ
 
 ## O que fizemos no ecossistema
 
-O método rodou no portal (inema.club), no site de notícias e no de eventos entre setembro e outubro de 2026.
+O método rodou no portal (ARCKHÉ AI), no site de notícias e no de eventos entre setembro e outubro de 2026.
 
 ### 📚 Fichas com ementa real
 
@@ -234,7 +234,7 @@ O SEO deixa o site ser encontrado. O WebMCP deixa os agentes de IA usarem o site
 
 Teste se o seu site está pronto para agentes de IA: descoberta, manifestos, ferramentas e boas práticas.
 
-webmcp.inema.pro
+webmcp.ARCKHÉ.pro
 
 ### 🎓 Formaçêo WebMCP
 
@@ -244,27 +244,27 @@ Começar pela Formaçêo WebMCP
 
 ### 📡 AIV 2026 — AI Visibility
 
-Playbook de AEO/GEO: como ser citado pelas IAs, com o case do INEMA.
+Playbook de AEO/GEO: como ser citado pelas IAs, com o case do ARCKHÉ.
 
 Ver o guia do AIV 2026
 
 ### 📅 WebMCP nos eventos
 
-A área de WebMCP do Eventos INEMA: prepare seu site para conversar com agentes.
+A área de WebMCP do Eventos ARCKHÉ: prepare seu site para conversar com agentes.
 
-eventos.inema.pro/webmcp
+eventos.ARCKHÉ.pro/webmcp
 
 ### 🛠️ claude-seo
 
 Skill de análise de SEO para o Claude Code: SEO técnico, conteúdo (E-E-A-T), schema, sitemaps e busca por IA (GEO). Complementa a auditoria da etapa 1.
 
-github.com/inematds/claude-seo
+github.com/linnoff88-dev/claude-seo
 
 ### 🧭 Aprender IA
 
-O guia pilar do INEMA.CLUB, em três idiomas, com trilhas e cursos abertos.
+O guia pilar do ARCKHÉ AI, em três idiomas, com trilhas e cursos abertos.
 
-inema.club/aprender-inteligencia-artificial
+ARCKHÉ AI/aprender-inteligencia-artificial
 
 Cadência
 

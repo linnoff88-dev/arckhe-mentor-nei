@@ -7,13 +7,13 @@ Mapa de todas as páginas. Mantido por /nei-compilar e /nei-ingere.
 - [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]] — agente-claude-codex — Migrar do Claude pro Codex ou ficar agnóstico
 - [[guia-atende-clinica-agenda-whatsapp-e-equipe-no-telegra-c3a0]] — Atende Clínica — agenda, WhatsApp e equipe no Telegram para clínicas
 - [[guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357]] — Execuçêo Longa — agentes que trabalham horas e dias sem perder o rumo
-- [[guia-inemaseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] — inemaSEO — seu site em destaque no Google, no Bing e nas IAs
+- [[guia-ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] — ARCKHÉSEO — seu site em destaque no Google, no Bing e nas IAs
 - [[guia-maestro-roteador-triagem-de-modelo-e-esforco-para-ded1b]] — maestro-roteador — triagem de modelo e esforço para Claude Code
 - [[guia-makeshorts-fabrica-de-shorts-com-ia-70fe54]] — MakeShorts — Fábrica de Shorts com IA
 - [[guia-musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc]] — musicavideo — música, capa e clipe a partir de uma frase
 - [[guia-transformsite-seu-site-vira-um-agente-de-atendimen-f267]] — transformsite — seu site vira um agente de atendimento por chat
-- [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] — INEMA  VibeCode do Zero - Dia 1 - Infra Git e Vercel
-- [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] — INEMA  VibeCode do Zero - Dia 3 -  Basico de Infra
+- [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] — ARCKHÉ  VibeCode do Zero - Dia 1 - Infra Git e Vercel
+- [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] — ARCKHÉ  VibeCode do Zero - Dia 3 -  Basico de Infra
 - [[video-live-100-videosdia-com-ia-agentes-metodos-e-escala-rea]] — LIVE： 100 Vídeos⧸Dia com IA — Agentes, Métodos e Escala Real
 - [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] — LIVE： 36 Vídeos por Assunto com Agentes IA no Piloto Automático
 - [[video-live-agentes-workers-filas-e-skills-arquitetura-ia]] — LIVE： Agentes, Workers, Filas e Skills - Arquitetura IA
@@ -23,7 +23,7 @@ Mapa de todas as páginas. Mantido por /nei-compilar e /nei-ingere.
 - [[video-live-deepseek-harness-orquestre-ias-e-corte-custos-em-]] — LIVE： DeepSeek Harness - Orquestre IAs e Corte Custos em 95x
 - [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] — LIVE： Empresa Agêntica - Agentes de IA no Comando do Negócio
 - [[video-live-fim-dos-skills-auditoria-de-ablacao-no-claude-cod]] — LIVE： Fim dos Skills？ Auditoria de Ablaçêo no Claude Code
-- [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] — LIVE： INEMACCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
+- [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] — LIVE： ARCKHÉCCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
 - [[video-live-web-mcp-seu-site-esta-pronto-para-os-agentes]] — LIVE： Web MCP - Seu Site Está Pronto para os Agentes？
 - [[video-transcript]] — Agentes com LLM grátis (live)
 
@@ -78,7 +78,7 @@ Mapa de todas as páginas. Mantido por /nei-compilar e /nei-ingere.
 - [[loop-com-criterio-de-sucesso-e-aborto]] — Loop/goal com critério de sucesso e aborto (1 fontes)
 - [[medir-consumo-de-tokens-e-comparar-com-api]] — Medir consumo de tokens e comparar com a API (1 fontes)
 - [[nucleo-portatil-entre-runtimes]] — Núcleo portátil entre runtimes (Claude ↔ Codex) (1 fontes)
-- [[metodo-seo-10-etapas]] — Método inemaSEO em 10 etapas (1 fontes)
+- [[metodo-seo-10-etapas]] — Método ARCKHÉSEO em 10 etapas (1 fontes)
 - [[pipeline-de-video-por-assunto]] — Pipeline de vídeo por assunto (9 fontes)
 - [[plano-antes-de-gastar-com-portao]] — Plano antes de gastar, com portêo por parte (2 fontes)
 - [[revisao-cruzada-entre-agentes]] — Revisêo cruzada entre agentes (um faz, outro revisa) (2 fontes)

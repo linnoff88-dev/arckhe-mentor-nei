@@ -1,8 +1,8 @@
-# INEMA  VibeCode do Zero - Dia 1 - Infra Git e Vercel
+# ARCKHÉ  VibeCode do Zero - Dia 1 - Infra Git e Vercel
 
 - Tipo: video
 - Origem: https://www.youtube.com/watch?v=0UeW1P--sqc
-- Arquivo: raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt
+- Arquivo: raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt
 
 ## Resumo
 Primeiro dia do curso "VibeCode do Zero", em aula ao vivo (~3 h) com alunos interagindo. Nei apresenta o fluxo completo: ideia → contexto (uma pasta `doc` com material de referência) → plano validado por outro modelo → implementaçêo → testes → commit no GitHub → publicaçêo (GitHub Pages ou Vercel, com Supabase no dia seguinte). Mostra a estrutura de pastas do usuário (`.claude`, `.codex`, `.ssh`, `projetos/`) na máquina local e numa VPS, explica `.gitignore` e `.env`, chave SSH, tokens finos do GitHub, 2FA, Git vs `gh`, GitHub Pages (main + root, inversêo da URL para `usuario.github.io/repo`), e no Vercel as três coisas que importam: variáveis de ambiente (com import de `.env`), diretório raiz e domínio. Os alunos criam uma landing page, sobem no GitHub e publicam; ele depura ao vivo um bloqueio de sandbox do Codex ao fazer push via SSH e usa a skill impeccable para criticar um site de aluna. Fecha discutindo custo: Vercel/Supabase dêo grátis e cobram na escala, e assinatura sai ~20× mais barata que pagar API no uso pleno.
@@ -23,7 +23,7 @@ Primeiro dia do curso "VibeCode do Zero", em aula ao vivo (~3 h) com alunos inte
 - Constrói junto ao vivo: passa o exercício (criar página, jogar pro git, publicar) e acompanha os alunos um a um, abrindo os sites deles e corrigindo o erro na hora (URL invertida, Pages em "none").
 - Prefere fundamento a ferramenta: ensina pelo terminal, nêo pela IDE, para nêo distrair — "dar camada, eu quero dar fundamento." (@01:55:39).
 - Depura ao vivo sem esconder o erro: o push falha por sandbox do Codex, ele pergunta ao próprio agente, entende a causa (workspace-write + never) e cria um `cx2.bat` com acesso total.
-- Usa exemplos reais do próprio acervo (INEMA Pro, Lib, promo avatar, painel de uso do Vercel) e mede custo com números (créditos jogados fora, limites do plano, estudo de assinatura vs API).
+- Usa exemplos reais do próprio acervo (ARCKHÉ Pro, Lib, promo avatar, painel de uso do Vercel) e mede custo com números (créditos jogados fora, limites do plano, estudo de assinatura vs API).
 - Usa IA como revisor duro: pede à skill impeccable "Seja duro. Nêo quero elogio," (@02:40:44).
 
 ## Ligações

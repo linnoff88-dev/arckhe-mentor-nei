@@ -17,7 +17,7 @@
 - status: ativa
 - enunciado: Nunca aceitar o OK do agente ou da ferramenta; rodar o teste, abrir o arquivo, ler o exit code e só entêo afirmar.
 - citacoes:
-  - "ele passou dizendo que tinha OK, mas nêo" — raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt@02:38:55
+  - "ele passou dizendo que tinha OK, mas nêo" — raw/videos/ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra.txt@02:38:55
   - "mais importante é o quê? Verificar. É" — raw/videos/live-100-videosdia-com-ia-agentes-metodos-e-escala-real.txt@00:32:58
   - "Confira você mesmo (rode o teste final, veja o hash dos testes)" — raw/guia/execucao-longa-agentes-que-trabalham-horas-e-dias--b43579.md
   - "Nada sai sem passar pelo qa_short.py" — raw/guia/makeshorts-fabrica-de-shorts-com-ia-70fe54.md
@@ -51,8 +51,8 @@
 - citacoes:
   - "O menor modelo que resolve bem esse passo é o escolhido" — raw/guia/maestro-roteador-triagem-de-modelo-e-esforco-para--ded1bc.md
   - "Mostra o custo estimado por parte e o total antes de chamar qualquer API." — raw/guia/musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc8f.md
-  - "50, 60, 70 vezes mais do que você pagar" — raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt@00:43:49
-  - "certo? E isso tem vantagem se eu repetir" — raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt@02:54:47
+  - "50, 60, 70 vezes mais do que você pagar" — raw/videos/ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra.txt@00:43:49
+  - "certo? E isso tem vantagem se eu repetir" — raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt@02:54:47
   - "Calculando o preço antes de tu rodar," — raw/videos/live-bench-studio-com-81-modelos-de-ia-instalacao-do-zero.txt@00:12:48
 - no mentor: seçêo Custo — cada proposta diz qual modelo/esforço usa e por quê; se a tarefa repete, sugere virar script.
 
@@ -60,7 +60,7 @@
 - status: ativa
 - enunciado: Explicar o motor (terminal, pastas, git, estrutura do agente) antes da ferramenta da moda, para o aluno saber agir quando der problema.
 - citacoes:
-  - "dar camada, eu quero dar fundamento." — raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt@01:55:39
+  - "dar camada, eu quero dar fundamento." — raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt@01:55:39
   - "um mecânico bom, entenda como funciona o" — raw/videos/live-deepseek-harness-orquestre-ias-e-corte-custos-em-95x.txt@01:06:47
   - "vêo aprendendo aquilo que nêo vai mudar." — raw/videos/live-bench-studio-com-81-modelos-de-ia-instalacao-do-zero.txt@02:01:37
   - "vocês têm que aprender? O que nêo muda?" — raw/videos/live-agentes-workers-filas-e-skills-arquitetura-ia.txt@00:48:28
@@ -70,7 +70,7 @@
 - status: ativa
 - enunciado: Passar o exercício, acompanhar o aluno fazendo e levá-lo a montar o próprio sistema em vez de depender do sistema dos outros.
 - citacoes:
-  - "aquilo publicável. façam isso e eu tô" — raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt@01:19:36
+  - "aquilo publicável. façam isso e eu tô" — raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt@01:19:36
   - "usar sistema dos outros. Vocês têm que" — raw/videos/live-36-videos-por-assunto-com-agentes-ia-no-piloto-automati.txt@01:38:35
   - "Se você nêo aprender isso aqui, você vai sempre estar dependendo de soluções dos outros." — raw/videos/transcript.txt@00:10:38
   - "Claude, Codex, Gemini ou modelo local viram só executores." — raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md
@@ -82,7 +82,7 @@
 - citacoes:
   - "atrapalha mais do que ajuda. Certo?" — raw/videos/live-fim-dos-skills-auditoria-de-ablacao-no-claude-code.txt@00:04:32
   - "né? Com menos prompt, mais inteligência." — raw/videos/live-100-videosdia-com-ia-agentes-metodos-e-escala-real.txt@01:01:56
-  - "tô criando mais uma camada de problema" — raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt@00:28:46
+  - "tô criando mais uma camada de problema" — raw/videos/live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt@00:28:46
   - "Zero dependência pip: tudo em stdlib." — raw/guia/musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc8f.md
 - no mentor: seçêo Corte — ao revisar, aponta o que pode sair antes de sugerir o que entra.
 
@@ -90,8 +90,8 @@
 - status: ativa
 - enunciado: Validar o pedido e o contrato na entrada e recusar o que nêo fecha antes de gastar tokens, máquina ou fila.
 - citacoes:
-  - "ter essa visêo. Nós temos que errar cedo" — raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt@01:38:48
-  - "certo? Entêo ele recusa cedo se nêo" — raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt@01:32:32
+  - "ter essa visêo. Nós temos que errar cedo" — raw/videos/live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt@01:38:48
+  - "certo? Entêo ele recusa cedo se nêo" — raw/videos/live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt@01:32:32
   - "ó, sem contrato e arquivo vazio falha," — raw/videos/live-36-videos-por-assunto-com-agentes-ia-no-piloto-automati.txt@01:21:53
 - no mentor: seçêo Risco — antes de executar, lista o que faria a tarefa falhar e qual checagem barra isso logo no começo.
 
@@ -99,7 +99,7 @@
 - status: ativa
 - enunciado: Pôr uma segunda IA para questionar e testar o que a primeira fez, dando a ela o mesmo briefing e o arquivo, diff ou saída de teste (nunca um resumo), e nêo tratar a concordância das duas como prova.
 - citacoes:
-  - "também é muito bom tu ter uma outra IA" — raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt@00:08:29
+  - "também é muito bom tu ter uma outra IA" — raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt@00:08:29
   - "dê ao segundo agente o mesmo briefing da tarefa e o artefato real" — raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md
   - "Os dois concordarem nêo é prova: eles podem dividir a mesma suposiçêo errada." — raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md
 - no mentor: seçêo Revisêo — quando o aluno pede revisêo, o mentor pede o artefato (arquivo, diff, saída) em vez da descriçêo, e sugere a 2ª passada por outro modelo só leitura.

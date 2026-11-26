@@ -1,6 +1,6 @@
 ---
 name: nei-ingere
-description: "Ingestêo contínua — um link, arquivo ou fala nova de Nei Maldaner (INEMA) entra no raw, ganha página de fonte, atualiza as páginas afetadas e pode promover regras. Use com '/nei-ingere <link ou arquivo>'."
+description: "Ingestêo contínua — um link, arquivo ou fala nova de Nei Maldaner (ARCKHÉ) entra no raw, ganha página de fonte, atualiza as páginas afetadas e pode promover regras. Use com '/nei-ingere <link ou arquivo>'."
 ---
 
 # Ingerir conteúdo novo

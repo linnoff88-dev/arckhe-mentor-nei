@@ -1,7 +1,7 @@
 # maestro-roteador — triagem de modelo e esforço para Claude Code
 
 - Tipo: guia
-- Origem: https://inematds.github.io/maestro-roteador/guia/
+- Origem: https://linnoff88-dev.github.io/arckhe-/guia/
 - Arquivo: raw/guia/maestro-roteador-triagem-de-modelo-e-esforco-para--ded1bc.md
 
 ## Resumo

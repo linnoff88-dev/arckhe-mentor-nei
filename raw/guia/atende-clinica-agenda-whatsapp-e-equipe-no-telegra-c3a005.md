@@ -1,6 +1,6 @@
 # Atende Clínica — agenda, WhatsApp e equipe no Telegram para clínicas
 
-Origem: https://inematds.github.io/atende-clinica/guia/
+Origem: https://linnoff88-dev.github.io/arckhe-/guia/
 
 O que é
 
@@ -86,7 +86,7 @@ Os comandos abaixo sêo os do repositório. Comece local, sem integrações; lig
 Copie o exemplo e edite dados/clinica.json : nome, conselho ( cfm , cfo , coffito ou estetica ), token próprio , horários, feriados, profissionais, serviços (com retorno_dias ) e perguntas frequentes.
 
 ```
-git clone https://github.com/inematds/atende-clinica && cd atende-clinica
+git clone https://github.com/linnoff88-dev/atende-clinica && cd atende-clinica
 mkdir -p dados && cp exemplos/clinica.json dados/clinica.json
 ```
 

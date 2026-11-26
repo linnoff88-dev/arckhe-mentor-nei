@@ -1,4 +1,4 @@
-# INEMA  VibeCode do Zero - Dia 1 - Infra Git e Vercel
+# ARCKHÉ  VibeCode do Zero - Dia 1 - Infra Git e Vercel
 Origem: https://www.youtube.com/watch?v=0UeW1P--sqc
 Texto: legenda
 
@@ -309,7 +309,7 @@ Texto: legenda
 [00:16:09] projetos,
 [00:16:11] eu vou entrar nos projetos que ela tem.
 [00:16:13] Ela tem projetos de publicaçêo no
-[00:16:16] YouTube, ela tem o Inema Ref, né, que
+[00:16:16] YouTube, ela tem o ARCKHÉ Ref, né, que
 [00:16:20] teria que ver o que que é lá dentro. Ah,
 [00:16:23] deve ser criaçêo de vídeos e e
 [00:16:25] animações.
@@ -437,7 +437,7 @@ Texto: legenda
 [00:22:13] localizar isso aí. Certo? Tudo bem? ê,
 [00:22:21] ô Viana, tudo certo? Olha só, se tu
 [00:22:23] quiser interagir, tem um o link na
-[00:22:26] página lá no Inema
+[00:22:26] página lá no ARCKHÉ
 [00:22:29] VIP para tu poder interagir aí conosco,
 [00:22:32] tá bom? que tá assistindo pelo YouTube.
 [00:22:38] ê, deixa a pergunta aí, André Val,
@@ -477,10 +477,10 @@ Texto: legenda
 [00:24:15] que tu quer ver todos eles, ele fez
 [00:24:18] isso. Mas aqui dentro nêo está toda
 [00:24:23] todos os dados. Por quê? Porque eu disse
-[00:24:25] que esse aqui pertence ao Inema Pro.
-[00:24:29] Inema
-[00:24:32] Pro, certo? Que é esse aqui, Inema Pro.
-[00:24:37] E dentro do inema pro eu tenho
+[00:24:25] que esse aqui pertence ao ARCKHÉ Pro.
+[00:24:29] ARCKHÉ
+[00:24:32] Pro, certo? Que é esse aqui, ARCKHÉ Pro.
+[00:24:37] E dentro do ARCKHÉ pro eu tenho
 [00:24:39] aplicações. E aqui eu tenho o que se
 [00:24:41] chama LIB,
 [00:24:43] eu tenho CVIT, eh, CVIP, eu tenho clube,
@@ -499,7 +499,7 @@ Texto: legenda
 [00:25:26] mostrar um detalhe aqui. Se eu entrar
 [00:25:30] aqui, ó, e eu for aqui,
 [00:25:34] é, deixa eu entrar aqui para uma nova,
-[00:25:37] para INEMA Pro,
+[00:25:37] para ARCKHÉ Pro,
 [00:25:40] certo?
 [00:25:44] Opa, que que eu fiz?
 [00:25:47] de substituir o Higfield por uma skill
@@ -508,7 +508,7 @@ Texto: legenda
 [00:25:52] caro.
 [00:25:53] &gt;&gt; Nêo, nêo é isso que eu queria.
 [00:25:56] Ele entrou errado aqui. Deixa eu ver.
-[00:25:59] Inema Pro.
+[00:25:59] ARCKHÉ Pro.
 [00:26:05] Agora sim, eu digitei alguma coisa
 [00:26:07] errada. Quando nós temos aqui, ó,
 [00:26:10] biblioteca,
@@ -517,7 +517,7 @@ Texto: legenda
 [00:26:21] daquele repositório chamado e o projeto
 [00:26:25] chamado biblioteca.
 [00:26:29] Só que, por exemplo, ele tá integrado
-[00:26:31] aqui dentro do INEMA Pro por causa
+[00:26:31] aqui dentro do ARCKHÉ Pro por causa
 [00:26:34] daquela referência que nós fizemos aqui.
 [00:26:37] No caso aqui eu implementei essa noite
 [00:26:39] sêo 14, nêo sêo 100 promptes com vídeos
@@ -530,7 +530,7 @@ Texto: legenda
 [00:27:02] e deixei
 [00:27:04] dentro, né, do meu projeto lá, mas eu
 [00:27:08] vim e criei uma aplicaçêo chamado LIB.
-[00:27:11] Para quê? Porque o INEMA Pro incorporou
+[00:27:11] Para quê? Porque o ARCKHÉ Pro incorporou
 [00:27:15] o gerenciamento dela. Entêo eu nêo
 [00:27:17] preciso fazer login, nêo preciso fazer
 [00:27:20] pagamento, nada disso, porque o com isso
@@ -559,7 +559,7 @@ Texto: legenda
 [00:28:33] aquiema
 [00:28:35] pro.
 [00:28:37] Entrei noema pro, já ele caiu aqui, ó.
-[00:28:41] Caiu no Inema Pay
+[00:28:41] Caiu no ARCKHÉ Pay
 [00:28:44] de pagamento.
 [00:28:47] Vamos pegar um outro exemplo, ó. Eu vou
 [00:28:50] pegar aqui, deixa eu deixar pro lado. Eu
@@ -611,7 +611,7 @@ Texto: legenda
 [00:31:14] Porque o que que é um problema que você
 [00:31:16] tem? Eu tive um problema ontem, tá?
 [00:31:18] Naquele meu projeto aqui, ó. Deixa eu
-[00:31:23] ver se tá. É esse aqui, o Inema CC Bote
+[00:31:23] ver se tá. É esse aqui, o ARCKHÉ CC Bote
 [00:31:27] com,
 [00:31:28] ó,
 [00:31:31] nesse projeto aqui, o que que aconteceu?
@@ -640,7 +640,7 @@ Texto: legenda
 [00:32:39] para vocês aqui, tá? Do baixar
 [00:32:44] o promo avatar aqui, ó. T
 [00:32:48] tê.
-[00:32:50] Isso aqui, ó, do Inema aqui. Esse é o
+[00:32:50] Isso aqui, ó, do ARCKHÉ aqui. Esse é o
 [00:32:53] promo Avatar.
 [00:32:56] Daí o que que acontece? Eu eu tirei uma
 [00:32:59] cópia dele para chegar promovatar 3,
@@ -855,8 +855,8 @@ Texto: legenda
 [00:43:37] você queira. Entêo, cuidado para nêo
 [00:43:39] botar o nome. Isso aqui eu botei, né?
 [00:43:42] Mas vocês podem ver que tudo que nós
-[00:43:44] temos tá dentro do inema TDS, dentro do
-[00:43:47] inema, tal, né? E assim por diante, que
+[00:43:44] temos tá dentro do ARCKHÉ TDS, dentro do
+[00:43:47] ARCKHÉ, tal, né? E assim por diante, que
 [00:43:50] eu nêo coloquei no meu nome.
 [00:43:53] Essa parte aqui é mais do usuário do meu
 [00:43:56] nome que eu faço testes, etc. e tudo,
@@ -894,7 +894,7 @@ Texto: legenda
 [00:45:25] eu vou botar GitHub e botar aqui,
 [00:45:29] ê, nêo, vamos lá no no outro que fica
 [00:45:32] melhor.
-[00:45:35] Cinema TDS
+[00:45:35] CARCKHÉ TDS
 [00:45:39] ou FTD. Vamos ver pegar aqui. FtD.
 [00:45:43] Entrei no FTD. um outro usuário. Entêo,
 [00:45:46] github.com,
@@ -1052,7 +1052,7 @@ Texto: legenda
 [00:53:57] aquela página. E aí, certo? É a mesma
 [00:54:01] coisa que tu vem aqui, ó. Se tu vem
 [00:54:04] github
-[00:54:06] e aliáscom/inema
+[00:54:06] e aliáscom/ARCKHÉ
 [00:54:10] tds, é uma página minha, certo?
 [00:54:14] Você vê todos os repositórios que tem
 [00:54:17] públicos aqui, certo? No caso, eu tô com
@@ -1065,17 +1065,17 @@ Texto: legenda
 [00:54:40] o promo avatar, certo? E aí, seu
 [00:54:43] promovatar eu nêo tenho setting porque
 [00:54:46] eu nêo mando nele. Se eu entrasse lá no
-[00:54:49] Inema TDS, eu tenho setting,
+[00:54:49] ARCKHÉ TDS, eu tenho setting,
 [00:54:52] certo? E única coisa que eu preciso
 [00:54:54] dizer que é aonde que vai tá, né, o
 [00:54:58] index HTM. Ó, aqui nêo tem index HTM,
 [00:55:02] entêo será que, né, no aonde? No guia.
 [00:55:07] Ah, guia tem. Entêo, se eu entrasse lá
-[00:55:10] no Inema TDS, vamos pegar, olhar o Inema
-[00:55:13] TDS aqui para nós vermos. Inema TDS.
+[00:55:10] no ARCKHÉ TDS, vamos pegar, olhar o ARCKHÉ
+[00:55:13] TDS aqui para nós vermos. ARCKHÉ TDS.
 [00:55:17] Se eu for lá no Git, onde tem? Nêo tenho
 [00:55:20] o Git aqui, entêo vamos abrir
-[00:55:25] Inema, aliás, é Git Hubema, TDS.
+[00:55:25] ARCKHÉ, aliás, é Git Hubema, TDS.
 [00:55:31] Se eu for lá clicar agora aqui e for no
 [00:55:35] promo avatar, vai aparecer o setting
 [00:55:38] aqui. E aí eu posso clicar aqui, certo?
@@ -1085,7 +1085,7 @@ Texto: legenda
 [00:55:54] domínio, nêo tem nada. E ele colocou
 [00:55:57] aqui, né, alguma coisa de açêo,
 [00:56:01] ó. Ele botou aqui, ó,
-[00:56:04] ele colocou aqui inema TDS promo avatar,
+[00:56:04] ele colocou aqui ARCKHÉ TDS promo avatar,
 [00:56:11] certo?
 [00:56:13] Agora, se eu pegar numa outra, vamos dar
 [00:56:15] uma olhadinha num outro projeto
@@ -1107,13 +1107,13 @@ Texto: legenda
 [00:57:02] inverter, ó, tá vendo isso aqui, ó? Ele
 [00:57:05] inverte. Entêo eu copio aqui. Se a
 [00:57:09] inversêo ela é o quê? Eu primeiro dou o
-[00:57:12] nome do usuário, inema tds.github.io.
+[00:57:12] nome do usuário, ARCKHÉ tds.github.io.
 [00:57:19] Antes era github.com.
 [00:57:22] Eu invertei, inverti, eu botei que o o
 [00:57:26] github.com tava no início, certo? E
 [00:57:30] depois vinha meu usuário e daí vinha meu
 [00:57:32] meu meu curso. Agora inverteu
-[00:57:37] inematds.github.
+[00:57:37] linnoff88-dev.github.
 [00:57:41] E aí vem o nome do curso, né? No caso
 [00:57:45] aqui, ó, ele tá aqui um curso chamado
 [00:57:48] formaçêo IA para pessoas normais.
@@ -1193,7 +1193,7 @@ Texto: legenda
 [01:01:40] Eu tenho que dizer o nome dele. Entêo,
 [01:01:44] como nêo existe, esse nome é único no
 [01:01:47] Versel.
-[01:01:49] Entêo, se eu botei Inema Pro, existe?
+[01:01:49] Entêo, se eu botei ARCKHÉ Pro, existe?
 [01:01:51] Nêo. Entêo, é meu, certo? Se já existe,
 [01:01:54] eu nêo posso estar usando. E esse nome
 [01:01:57] do projeto vai ser esse nome pvversel.
@@ -1391,7 +1391,7 @@ Texto: legenda
 [01:12:28] total nas vozes e estilo.
 [01:12:34] Ó, entêo o que que ele vai pegar? Ele
 [01:12:37] vai pegar essa música que ele fez
-[01:12:38] download no meu Inema Vox, certo? e tá
+[01:12:38] download no meu ARCKHÉ Vox, certo? e tá
 [01:12:42] mandando lá pro pro eh K
 [01:12:47] o Cai, né? E aqui ele criou músicas
 [01:12:50] aqui,
@@ -1455,7 +1455,7 @@ Texto: legenda
 [01:15:43] adianta quem tá consumindo muito, se eu
 [01:15:46] pegar e olhar aonde que tá os consumos,
 [01:15:51] certo,
-[01:15:53] né? O Inema Pro, o Inema Lib aqui, aqui
+[01:15:53] né? O ARCKHÉ Pro, o ARCKHÉ Lib aqui, aqui
 [01:15:57] nós tivemos um período aqui que eu
 [01:15:59] divulguei, daí todo mundo foi lá e
 [01:16:02] testou, certo?
@@ -1826,7 +1826,7 @@ Texto: legenda
 [01:37:29] B, no caso do Windows e ps lá no Linux e
 [01:37:33] ele tem os parâmetros todos que eu
 [01:37:35] preciso tá configurado. Isso tá dentro
-[01:37:38] do inema
+[01:37:38] do ARCKHÉ
 [01:37:40] VIP lá da do Telegram. Tem lá ou senêo
 [01:37:44] vocês pedem ali que a Tisa te passe o
 [01:37:47] link.
@@ -1854,7 +1854,7 @@ Texto: legenda
 [01:39:22] E aqui eu diria assim:
 [01:39:25] Pesquise sobre a página
 [01:39:29] eventos.
-[01:39:34] Inema Pro
+[01:39:34] ARCKHÉ Pro
 [01:39:38] e me fale
 [01:39:43] sobre o curso
 [01:39:46] de Vibe Code,
@@ -2030,7 +2030,7 @@ Texto: legenda
 [01:50:46] botar dentro do diretório do,
 [01:50:49] usar esse diretório como fonte e dizer:
 [01:50:52] "Eu quero criar meu blog". Certo?
-[01:50:57] Inclusive lá dentro do inema Vibe tem aí
+[01:50:57] Inclusive lá dentro do ARCKHÉ Vibe tem aí
 [01:51:01] uns exemplos de criar blogs dessa
 [01:51:04] maneira. Sêo três exemplos que tem.
 [01:51:08] Responde ali o André da diferença de
@@ -2126,7 +2126,7 @@ Texto: legenda
 [01:56:29] atualize
 [01:56:32] no Git.
 [01:56:34] Daí o usuário que eu quero é
-[01:56:36] inemaftd@gmail.com.
+[01:56:36] ARCKHÉftd@gmail.com.
 [01:56:43] Você tem ssh.
 [01:56:47] Deixa eu ver o que mais.
 [01:56:49] E e o repo é o mesmo
@@ -2135,10 +2135,10 @@ Texto: legenda
 [01:57:27] no André,
 [01:57:30] ó. Enquanto o processo aqui, [roncando]
 [01:57:40] deixa eu só botar a conta é
-[01:57:45] inema FTD.
+[01:57:45] ARCKHÉ FTD.
 [01:57:49] Aliás, opa, e a conta, ó, o hábito, né,
 [01:57:54] da gente, a conta é
-[01:57:58] inema
+[01:57:58] ARCKHÉ
 [01:58:00] FTD.
 [01:58:03] Vamos ver se ele bota lá. Enquanto isso,
 [01:58:05] vamos olhar
@@ -2160,7 +2160,7 @@ Texto: legenda
 [01:58:46] já que é
 [01:58:49] André Val 74 e Nema Testes. Entêo, vai
 [01:58:54] ser André
-[01:58:56] Val.github.ioio/inema
+[01:58:56] Val.github.ioio/ARCKHÉ
 [01:59:04] testes. Eu acho que é isso aí.
 [01:59:09] Será que é teste? Entêo,
 [01:59:15] ó, é testes.
@@ -2225,7 +2225,7 @@ Texto: legenda
 [02:02:48] E aí vai atualizar
 [02:03:12] posso pegar e olhar aqui, ó. Se eu
 [02:03:14] chegar aqui no meu GitHub
-[02:03:16] do Inema TDS, ó, qualquer um que eu que
+[02:03:16] do ARCKHÉ TDS, ó, qualquer um que eu que
 [02:03:20] eu clicar aqui, que nêo for que for
 [02:03:22] público,
 [02:03:24] ó, CC bot aqui, ó.
@@ -2276,8 +2276,8 @@ Texto: legenda
 [02:05:58] 74.
 [02:06:01] GitHub.
 [02:06:07] O teste
-[02:06:10] inema
-[02:06:14] é testes inema ou teste?
+[02:06:10] ARCKHÉ
+[02:06:14] é testes ARCKHÉ ou teste?
 [02:06:23] Ah! Ah!
 [02:06:38] Ver que nós fiz.
 [02:06:43] &gt;&gt; O meu tá tá no O meu tá no ar. Ô net,
@@ -2289,7 +2289,7 @@ Texto: legenda
 [02:07:00] eu tô digitando errado. Oi. Oi, filho.
 [02:07:03] &gt;&gt; Que eu fiz agora.
 [02:07:04] &gt;&gt; Ah, nêo. Aqui eu botei ao contrário, ó.
-[02:07:06] Eu botei testes inema e é inema
+[02:07:06] Eu botei testes ARCKHÉ e é ARCKHÉ
 [02:07:10] teste.
 [02:07:12] Bingo
 [02:07:15] &gt;&gt; Paula, o André, o Daniel já passou por
@@ -2436,7 +2436,7 @@ Texto: legenda
 [02:14:02] Entêo tu configura aqui, certo? Entêo
 [02:14:06] ele tem muit opções que nem o Git. Qual
 [02:14:09] é o git que eu tô usando? Certo? Entêo
-[02:14:12] tu configura aqui, ó, inema TDS ser VIP,
+[02:14:12] tu configura aqui, ó, ARCKHÉ TDS ser VIP,
 [02:14:17] tá? É a conexêo é por aqui. É aqui que é
 [02:14:20] a importaçêo. Se eu quiser desconectar e
 [02:14:22] conectar de novo em outro caminho, em
@@ -2457,12 +2457,12 @@ Texto: legenda
 [02:15:12] domínio aqui, aonde que tá aqui. Entêo
 [02:15:14] eu posso vir e criar vários domínios
 [02:15:17] aqui. Eu poderia dizer que é
-[02:15:19] cerebro.inema.com,
+[02:15:19] cerebro.ARCKHÉ.com,
 [02:15:22] né, ppr.
 [02:15:24] E eu daria aqui, botaria ele cadastraria
 [02:15:28] aqui. Entêo eu poderia dar cérebro,
 [02:15:32] cerebro
-[02:15:36] pinema.pro.
+[02:15:36] pARCKHÉ.pro.
 [02:15:39] Se eu dou adicionar o domínio, certo?
 [02:15:43] Ah, ele disse que já tem, ó, já tem de
 [02:15:47] um outro cara aqui que é para trazer
@@ -2482,10 +2482,10 @@ Texto: legenda
 [02:16:37] App. Ah, mas ela queria que tivesse, né?
 [02:16:41] Imersêo.
 [02:16:43] Pro
-[02:16:45] Inema Pro.
+[02:16:45] ARCKHÉ Pro.
 [02:16:47] Ela tem que me dar isso aqui para mim
 [02:16:49] configurar para que aquilo apareça como
-[02:16:52] imersêo pinema pro.
+[02:16:52] imersêo pARCKHÉ pro.
 [02:16:57] Eu entendo um pouco direal com página,
 [02:16:59] né? Eh, páginas, né, no provedor e tudo
 [02:17:03] mais. Eh, isso aí é um pouco fácil. Por
@@ -2670,14 +2670,14 @@ Texto: legenda
 [02:33:47] pon.
 [02:33:53] Agora sim, vamos ver. Quero atualizar o
 [02:33:57] git para o
-[02:34:00] repo inema
+[02:34:00] repo ARCKHÉ
 [02:34:03] FTD
 [02:34:08] @ugmail.com
 [02:34:13] usuário e
 [02:34:15] userema
 [02:34:17] FTD.
 [02:34:53] Obrigado.
-[02:34:54] &gt;&gt; O repositório é cinema. Nêo,
+[02:34:54] &gt;&gt; O repositório é cARCKHÉ. Nêo,
 [02:35:00] testes um.
 [02:35:33] Que confusêo por causa de segurança
 [02:35:35] aqui.
@@ -2816,9 +2816,9 @@ Texto: legenda
 [02:44:12] &gt;&gt; [roncando]
 [02:44:13] &gt;&gt; e
 [02:44:15] sempre usar como referência. Tanto que
-[02:44:17] aqui no Inema, ó, deixa eu clicar aqui
-[02:44:21] no Inema Tools,
-[02:44:25] Inema
+[02:44:17] aqui no ARCKHÉ, ó, deixa eu clicar aqui
+[02:44:21] no ARCKHÉ Tools,
+[02:44:25] ARCKHÉ
 [02:44:28] Nema
 [02:44:31] Tools. Nós temos aqui, ó,
 [02:44:35] site L page. Tem vários sites aqui que

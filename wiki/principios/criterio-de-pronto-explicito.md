@@ -13,7 +13,7 @@ Dizer exatamente o que é pronto vale mais que esforço alto. Pronto = comando c
 - "Esforço nêo compensa especificaçêo vaga." — [[guia-maestro-roteador-triagem-de-modelo-e-esforco-para-ded1b]] `raw/guia/maestro-roteador-triagem-de-modelo-e-esforco-para--ded1bc.md`
 - "Seis fases, cada uma com comando próprio e critério de pronto medido." — [[guia-transformsite-seu-site-vira-um-agente-de-atendimen-f267]] `raw/guia/transformsite-seu-site-vira-um-agente-de-atendimen-f26733.md`
 - "93 testes de aceitaçêo congelados" — [[guia-atende-clinica-agenda-whatsapp-e-equipe-no-telegra-c3a0]] `raw/guia/atende-clinica-agenda-whatsapp-e-equipe-no-telegra-c3a005.md`
-- "ele vai gastar muitos tokens indo e" (@00:42:25) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "ele vai gastar muitos tokens indo e" (@00:42:25) — [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
 - "comandos cuja saída prova que terminou." — [[guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357]] `raw/guia/execucao-longa-agentes-que-trabalham-horas-e-dias--b43579.md`
 - "Bom critério: alguém de fora consegue checar sem confiar no agente, e o agente nêo consegue cumprir por atalho." — [[guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357]] `raw/guia/execucao-longa-agentes-que-trabalham-horas-e-dias--b43579.md`
 - "Fechar exige evidência (saída de teste, arquivo, hash de commit)" — [[guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357]] `raw/guia/execucao-longa-agentes-que-trabalham-horas-e-dias--b43579.md`
@@ -32,7 +32,7 @@ Dizer exatamente o que é pronto vale mais que esforço alto. Pronto = comando c
 - [[guia-makeshorts-fabrica-de-shorts-com-ia-70fe54]] — MakeShorts — Fábrica de Shorts com IA
 - [[guia-musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc]] — musicavideo — música, capa e clipe a partir de uma frase
 - [[guia-transformsite-seu-site-vira-um-agente-de-atendimen-f267]] — transformsite — seu site vira um agente de atendimento por chat
-- [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] — INEMA  VibeCode do Zero - Dia 1 - Infra Git e Vercel
+- [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] — ARCKHÉ  VibeCode do Zero - Dia 1 - Infra Git e Vercel
 - [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]] — LIVE： Bench Studio com 81 Modelos de IA - Instalaçêo do Zero
 - [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] — LIVE： Claude Code - Economize 90% dos Tokens com 3 Comandos
 - [[video-live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia]] — LIVE： De Prompt a Grafo — A Nova Era dos Agentes de IA

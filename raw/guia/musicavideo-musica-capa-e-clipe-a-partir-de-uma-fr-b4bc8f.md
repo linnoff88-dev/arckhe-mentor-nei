@@ -1,6 +1,6 @@
 # musicavideo — música, capa e clipe a partir de uma frase
 
-Origem: https://inematds.github.io/musicavideo/guia/
+Origem: https://linnoff88-dev.github.io/arckhe-/guia/
 
 PT EN ES
 
@@ -90,7 +90,7 @@ Comandos reais. O caminho normal é com portêo; no fim tem o atalho sem portêo
 Clone e pronto — nêo há build nem pip install .
 
 ```
-git clone https://github.com/inematds/musicavideo.git && cd musicavideo
+git clone https://github.com/linnoff88-dev/musicavideo.git && cd musicavideo
 ```
 
 2
@@ -234,7 +234,7 @@ kie:suno-v4.5 — ~US$ 0,08 por geraçêo, traz 2 faixas. A única parte paga ho
 
 ### 🖼️ Capa
 
-agnes:agnes-image-2.1-flash — US$ 0 . Alternativa: inemaimg:flux2-klein , servidor local no DGX.
+agnes:agnes-image-2.1-flash — US$ 0 . Alternativa: ARCKHÉimg:flux2-klein , servidor local no DGX.
 
 ### 🎬 Clipe
 

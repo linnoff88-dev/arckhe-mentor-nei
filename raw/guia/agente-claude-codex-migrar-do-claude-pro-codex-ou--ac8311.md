@@ -1,6 +1,6 @@
 # agente-claude-codex — Migrar do Claude pro Codex ou ficar agnóstico
 
-Origem: https://inematds.github.io/agente-claude-codex/guia/
+Origem: https://linnoff88-dev.github.io/arckhe-/guia/
 
 O que é
 
@@ -87,7 +87,7 @@ Cada passo é reversível. Instalar skill é prévia até você passar --apply, 
 Responde "meu ambiente está pronto?": git, python3, node, Claude Code, Codex CLI, sandbox, MCP, polyskill. Cada item sai como ok, aviso ou falta, com o comando pra resolver.
 
 ```
-git clone https://github.com/inematds/agente-claude-codex
+git clone https://github.com/linnoff88-dev/agente-claude-codex
 cd agente-claude-codex
 scripts/doctor.sh  # [ok] / [aviso] / [FALTA]
 ```
@@ -275,7 +275,7 @@ Exemplos
 
 A auditoria encontrou 89 skills só no Claude: 71 portáteis, 15 dependentes de MCP ou plugin, 2 de hook. O readback foi aprovado no Codex e no Claude, e o Codex ainda apontou três inconsistências no próprio repo, todas corrigidas.
 
-A ideia de origem: conhecimento portátil no meio, Claude e Codex nas bordas como executores. Capa oficial do projeto no catálogo INEMA.
+A ideia de origem: conhecimento portátil no meio, Claude e Codex nas bordas como executores. Capa oficial do projeto no catálogo ARCKHÉ.
 
 Roadmap
 
@@ -297,7 +297,7 @@ Handoff com histórico e uso conjunto prime só leitura e com caminhos validados
 
 Fase 3
 
-Projeto real Aplicar em um projeto INEMA com CLAUDE.md próprio e provar cópia isolada.
+Projeto real Aplicar em um projeto ARCKHÉ com CLAUDE.md próprio e provar cópia isolada.
 
 Fase 4
 

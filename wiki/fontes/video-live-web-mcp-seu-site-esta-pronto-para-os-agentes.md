@@ -5,7 +5,7 @@
 - Arquivo: raw/videos/live-web-mcp-seu-site-esta-pronto-para-os-agentes.txt
 
 ## Resumo
-Live sobre o Web MCP (rascunho do W3C de 26 de agosto): sites precisam atender pessoas e também agentes, que preferem quem já entrega dados prontos e funções (buscar produto, adicionar ao carrinho, calcular frete) em vez de ler o HTML. Ele mostra a formaçêo gratuita que montou durante a madrugada e o scanner que pontua sites em Web MCP, SEO, GEO e AEO. Testa ao vivo o inema.club (90), o Inema VIP (88), o Inema Pro (pior), Mercado Livre e Amazon, até estourar o limite de recursos do serviço. Depois entra no projeto Inema Pro com o Codex e manda "Nêo faça nada, só analise" com o prompt de auditoria. O relatório aponta nota 57, 4 bloqueadores e 15 alertas, e o agente avisa que a nota está inflada por causa de redirects. Lembra que o Git permite voltar atrás. No fim mostra dois projetos novos (Content2Video: link vira vídeo; Vídeo Sub: assunto vira vídeo com roteiro, voz, imagem e legenda pelo Agnes) e explica a economia de usar lipsync só nos trechos em que há fala.
+Live sobre o Web MCP (rascunho do W3C de 26 de agosto): sites precisam atender pessoas e também agentes, que preferem quem já entrega dados prontos e funções (buscar produto, adicionar ao carrinho, calcular frete) em vez de ler o HTML. Ele mostra a formaçêo gratuita que montou durante a madrugada e o scanner que pontua sites em Web MCP, SEO, GEO e AEO. Testa ao vivo o ARCKHÉ AI (90), o ARCKHÉ VIP (88), o ARCKHÉ Pro (pior), Mercado Livre e Amazon, até estourar o limite de recursos do serviço. Depois entra no projeto ARCKHÉ Pro com o Codex e manda "Nêo faça nada, só analise" com o prompt de auditoria. O relatório aponta nota 57, 4 bloqueadores e 15 alertas, e o agente avisa que a nota está inflada por causa de redirects. Lembra que o Git permite voltar atrás. No fim mostra dois projetos novos (Content2Video: link vira vídeo; Vídeo Sub: assunto vira vídeo com roteiro, voz, imagem e legenda pelo Agnes) e explica a economia de usar lipsync só nos trechos em que há fala.
 
 ## Ideias centrais
 - Agentes como novos visitantes: "nova era, a era onde que os agentes vêo" (@00:06:04)
@@ -21,7 +21,7 @@ Live sobre o Web MCP (rascunho do W3C de 26 de agosto): sites precisam atender p
 
 ## Como ele ensina aqui
 - Abre com o porquê (agentes vêo consultar sites no lugar das pessoas, exemplo da viagem para esquiar) antes do como.
-- Mede com uma ferramenta em sites reais, inclusive nos próprios sites mal avaliados (Inema Pro "pior ainda"), e usa a nota como ponto de partida.
+- Mede com uma ferramenta em sites reais, inclusive nos próprios sites mal avaliados (ARCKHÉ Pro "pior ainda"), e usa a nota como ponto de partida.
 - Mostra o prompt de auditoria que usou e o aplica num projeto real, pedindo primeiro só análise e proposta; deixa claro que ainda precisa ler o relatório com calma antes de aprovar.
 - Quando o serviço cai ao vivo (limite de recursos), investiga a causa na hora e diz o custo para resolver.
 - Calcula custo por trecho (lipsync só onde há fala próxima) e transforma isso no roadmap da próxima versêo.

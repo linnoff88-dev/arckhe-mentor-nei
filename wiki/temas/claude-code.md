@@ -13,7 +13,7 @@ O harness principal das lives e guias: CLAUDE.md e memória, skills e subagentes
 - Skills de produçêo (MakeShorts) rodando dentro do Claude Code [[guia-makeshorts-fabrica-de-shorts-com-ia-70fe54]]
 - Consumo medido e comparado com o preço de API (~95x) [[video-live-deepseek-harness-orquestre-ias-e-corte-custos-em-]]
 - Migrar para o Codex ou ficar agnóstico: AGENTS.md portátil, skills com fonte canônica, readback em sessêo nova, revisêo cruzada com o Codex [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]]
-- Vibe code do zero com agente no terminal [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]], [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]]
+- Vibe code do zero com agente no terminal [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]], [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]]
 
 ## Fontes
 
@@ -21,8 +21,8 @@ O harness principal das lives e guias: CLAUDE.md e memória, skills e subagentes
 - [[guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357]] — Execuçêo Longa — agentes que trabalham horas e dias sem perder o rumo
 - [[guia-maestro-roteador-triagem-de-modelo-e-esforco-para-ded1b]] — maestro-roteador — triagem de modelo e esforço para Claude Code
 - [[guia-makeshorts-fabrica-de-shorts-com-ia-70fe54]] — MakeShorts — Fábrica de Shorts com IA
-- [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] — INEMA  VibeCode do Zero - Dia 1 - Infra Git e Vercel
-- [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] — INEMA  VibeCode do Zero - Dia 3 -  Basico de Infra
+- [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] — ARCKHÉ  VibeCode do Zero - Dia 1 - Infra Git e Vercel
+- [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] — ARCKHÉ  VibeCode do Zero - Dia 3 -  Basico de Infra
 - [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] — LIVE： Claude Code - Economize 90% dos Tokens com 3 Comandos
 - [[video-live-deepseek-harness-orquestre-ias-e-corte-custos-em-]] — LIVE： DeepSeek Harness - Orquestre IAs e Corte Custos em 95x
 - [[video-live-fim-dos-skills-auditoria-de-ablacao-no-claude-cod]] — LIVE： Fim dos Skills？ Auditoria de Ablaçêo no Claude Code

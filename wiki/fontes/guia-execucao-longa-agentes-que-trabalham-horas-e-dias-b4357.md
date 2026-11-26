@@ -1,7 +1,7 @@
 # Execuçêo Longa — agentes que trabalham horas e dias sem perder o rumo
 
 - Tipo: guia
-- Origem: https://inematds.github.io/execucao-longa/guia/
+- Origem: https://linnoff88-dev.github.io/arckhe-/guia/
 - Arquivo: raw/guia/execucao-longa-agentes-que-trabalham-horas-e-dias--b43579.md
 
 ## Resumo

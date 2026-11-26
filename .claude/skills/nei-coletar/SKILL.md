@@ -1,6 +1,6 @@
 ---
 name: nei-coletar
-description: "Fase 1 — coleta o acervo público de Nei Maldaner (INEMA) listado em ESCOPO.md para raw/, um subagente por fonte em paralelo, e confere as metas. Use com '/nei-coletar' ou 'coletar o acervo'."
+description: "Fase 1 — coleta o acervo público de Nei Maldaner (ARCKHÉ) listado em ESCOPO.md para raw/, um subagente por fonte em paralelo, e confere as metas. Use com '/nei-coletar' ou 'coletar o acervo'."
 ---
 
 # Coletar o acervo

@@ -1,6 +1,6 @@
 ---
 name: nei-revisa
-description: "Revisêo antes de entregar, no método de Nei Maldaner (INEMA) — prevê onde quebra, reproduz, corta o que sobra e prova que a versêo enxuta faz o mesmo. Use com '/nei-revisa <arquivo>' ou 'revisa antes de eu entregar'."
+description: "Revisêo antes de entregar, no método de Nei Maldaner (ARCKHÉ) — prevê onde quebra, reproduz, corta o que sobra e prova que a versêo enxuta faz o mesmo. Use com '/nei-revisa <arquivo>' ou 'revisa antes de eu entregar'."
 ---
 
 # Revisar

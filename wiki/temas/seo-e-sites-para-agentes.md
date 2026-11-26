@@ -13,9 +13,9 @@ Ser encontrado no Google, no Bing e nas IAs (fundaçêo técnica, llms.txt, enti
 
 ## Trechos
 
-- "IndexNow e Bing a cada publicaçêo (o ChatGPT e o Copilot usam o índice do Bing)" — [[guia-inemaseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] `raw/guia/inemaseo-seu-site-em-destaque-no-google-no-bing-e--daa22e.md`
-- "Página sem link é página que quase nêo existe." — [[guia-inemaseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] `raw/guia/inemaseo-seu-site-em-destaque-no-google-no-bing-e--daa22e.md`
-- "Dez perguntas-alvo no ChatGPT e no Perplexity: o seu site é citado?" — [[guia-inemaseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] `raw/guia/inemaseo-seu-site-em-destaque-no-google-no-bing-e--daa22e.md`
+- "IndexNow e Bing a cada publicaçêo (o ChatGPT e o Copilot usam o índice do Bing)" — [[guia-ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] `raw/guia/ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e--daa22e.md`
+- "Página sem link é página que quase nêo existe." — [[guia-ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] `raw/guia/ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e--daa22e.md`
+- "Dez perguntas-alvo no ChatGPT e no Perplexity: o seu site é citado?" — [[guia-ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] `raw/guia/ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e--daa22e.md`
 - "nova era, a era onde que os agentes vêo" (@00:06:04) — [[video-live-web-mcp-seu-site-esta-pronto-para-os-agentes]] `raw/videos/live-web-mcp-seu-site-esta-pronto-para-os-agentes.txt`
 - "quem é que tá entregando já os dados" (@00:07:29) — [[video-live-web-mcp-seu-site-esta-pronto-para-os-agentes]] `raw/videos/live-web-mcp-seu-site-esta-pronto-para-os-agentes.txt`
 - "que ele vai atender pessoas e agentes." (@00:08:39) — [[video-live-web-mcp-seu-site-esta-pronto-para-os-agentes]] `raw/videos/live-web-mcp-seu-site-esta-pronto-para-os-agentes.txt`
@@ -23,7 +23,7 @@ Ser encontrado no Google, no Bing e nas IAs (fundaçêo técnica, llms.txt, enti
 
 ## Fontes
 
-- [[guia-inemaseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] — inemaSEO — seu site em destaque no Google, no Bing e nas IAs
+- [[guia-ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] — ARCKHÉSEO — seu site em destaque no Google, no Bing e nas IAs
 - [[guia-transformsite-seu-site-vira-um-agente-de-atendimen-f267]] — transformsite — seu site vira um agente de atendimento por chat
 - [[video-live-web-mcp-seu-site-esta-pronto-para-os-agentes]] — LIVE： Web MCP - Seu Site Está Pronto para os Agentes？
 

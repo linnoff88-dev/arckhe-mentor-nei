@@ -8,14 +8,14 @@ Canal → validador → fila durável (SQLite) → workers → roteador (skill, 
 
 ### Por fonte (o que cada lote observou)
 
-- **Filas, workers e o INEMA CC Bot** — Arquitetura canal → gateway/validador → fila durável (SQLite) → workers com controle atômico → roteador (skill, agente ou fluxo) → entrega. Permite mandar trabalho e deixar produzindo de noite.
+- **Filas, workers e o ARCKHÉ CC Bot** — Arquitetura canal → gateway/validador → fila durável (SQLite) → workers com controle atômico → roteador (skill, agente ou fluxo) → entrega. Permite mandar trabalho e deixar produzindo de noite.
 - **Filas, workers e a divisêo LLM planeja / worker executa** — Agente é programa com IA, worker é programa sem IA, fila é base de dados e skill é uma receita. Tarefas entram numa fila, workers puxam e disparam agentes; a LLM fica no planejamento e na validaçêo, a execuçêo fica com os workers.
 
 ## Trechos
 
 - "fila é têo importante? Porque eu quero" (@00:26:50) — [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] `raw/videos/live-36-videos-por-assunto-com-agentes-ia-no-piloto-automati.txt`
 - "36 vídeos antes de eu ir dormir e ele" (@01:03:20) — [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] `raw/videos/live-36-videos-por-assunto-com-agentes-ia-no-piloto-automati.txt`
-- "no meu sistema, vai ser um novo domínio." (@01:22:49) — [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
+- "no meu sistema, vai ser um novo domínio." (@01:22:49) — [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
 - "O worker é um programa sem IA." (@00:34:39) — [[video-live-agentes-workers-filas-e-skills-arquitetura-ia]] `raw/videos/live-agentes-workers-filas-e-skills-arquitetura-ia.txt`
 - "A fila é uma base de dados." (@00:34:43) — [[video-live-agentes-workers-filas-e-skills-arquitetura-ia]] `raw/videos/live-agentes-workers-filas-e-skills-arquitetura-ia.txt`
 - "execuçêo tu deixa nos worker, tá legal?" (@00:51:08) — [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] `raw/videos/live-claude-code-economize-90-dos-tokens-com-3-comandos.txt`
@@ -29,7 +29,7 @@ Canal → validador → fila durável (SQLite) → workers → roteador (skill, 
 - [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]] — LIVE： Bench Studio com 81 Modelos de IA - Instalaçêo do Zero
 - [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] — LIVE： Claude Code - Economize 90% dos Tokens com 3 Comandos
 - [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] — LIVE： Empresa Agêntica - Agentes de IA no Comando do Negócio
-- [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] — LIVE： INEMACCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
+- [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] — LIVE： ARCKHÉCCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
 - [[video-transcript]] — Agentes com LLM grátis (live)
 
 ## Relacionados

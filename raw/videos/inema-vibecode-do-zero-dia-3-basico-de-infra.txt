@@ -1,4 +1,4 @@
-# INEMA  VibeCode do Zero - Dia 3 -  Basico de Infra
+# ARCKHÉ  VibeCode do Zero - Dia 3 -  Basico de Infra
 Origem: https://www.youtube.com/watch?v=SgVhktUzuFM
 Texto: legenda
 
@@ -474,7 +474,7 @@ Texto: legenda
 [00:24:54] Aí [roncando] você dá o contexto para
 [00:24:56] ele. Se esse conteúdo xx pode ser um
 [00:25:00] link, né? Eu poderia dizer assim, sobre
-[00:25:03] o inema.Club,
+[00:25:03] o ARCKHÉ AI,
 [00:25:07] certo?
 [00:25:08] Podia ser ah, sobre o Pro, mas ele vai
 [00:25:12] conseguir acessar nêo. Entêo eu podia
@@ -506,7 +506,7 @@ Texto: legenda
 [00:26:39] eu tenho Codex, ó. Se nós vamos descer
 [00:26:43] aqui, tem codex aqui para baixo. Entêo
 [00:26:46] eu já escrevo aqui Codex.
-[00:26:49] Entêo, ó, Inema Codex. Aqui eu tenho
+[00:26:49] Entêo, ó, ARCKHÉ Codex. Aqui eu tenho
 [00:26:53] menu de links, instalando e iniciando.
 [00:26:57] Entêo, nesses três lugares que vocês
 [00:27:00] acham toda a informaçêo, certo? Entêo,
@@ -870,7 +870,7 @@ Texto: legenda
 [00:48:35] passou.
 [00:48:40] Tá. Escolhe uma conta.
 [00:48:43] Escolhei a conta.
-[00:48:46] Espaço cinema. Continuar.
+[00:48:46] Espaço cARCKHÉ. Continuar.
 [00:49:00] Deixa eu ver por que o meu tá dando erro
 [00:49:02] aqui.
 [00:49:16] depois
@@ -1070,7 +1070,7 @@ Texto: legenda
 [01:03:42] projetos,
 [01:03:44] certo? LS - LA, que permite ver os
 [01:03:49] arquivos escondidos. Entêo, se eu entrar
-[01:03:51] aqui ninema CC
+[01:03:51] aqui nARCKHÉ CC
 [01:03:54] CC
 [01:03:56] bot,
 [01:03:59] né? Se eu der um LS, ele vai exibir
@@ -1108,7 +1108,7 @@ Texto: legenda
 [01:05:36] dizer, eu tenho aqui, ó, para VPS do
 [01:05:39] Eliseu, para mim nêo precisar botar
 [01:05:41] senha, eu criei uma chave pública,
-[01:05:44] certo? A mesma coisa, né? Inema Club tem
+[01:05:44] certo? A mesma coisa, né? ARCKHÉ Club tem
 [01:05:49] uma chave pública, a privada tá aqui.
 [01:05:52] Essa chave pública eu vou criar e depois
 [01:05:55] eu vou copiar pro meu destino,
@@ -1325,7 +1325,7 @@ Texto: legenda
 [01:22:02] git, por exemplo, eu chegar git, pegar
 [01:22:05] aqui, ó,
 [01:22:08] pegar esse carro aqui, ó. Eu tô num
-[01:22:10] usuário do Inema TDS. Entêo, se eu
+[01:22:10] usuário do ARCKHÉ TDS. Entêo, se eu
 [01:22:14] chegar aqui Git e botar meu usuário
 [01:22:18] depois do Git, ele vai ter todo o meu
 [01:22:22] ambiente de projetos. Entêo eu venho
@@ -1357,8 +1357,8 @@ Texto: legenda
 [01:23:51] eu tenho aqui da VPS, eu tenho a TISA
 [01:23:54] VPS, entêo eu tenho o NEO aqui, ou seja,
 [01:23:58] uma série de SSHs para vir acessar o
-[01:24:03] INEMA TDS. Entêo a TISA da VPS pode vir
-[01:24:08] acessar o Inema TDS porque tem uma
+[01:24:03] ARCKHÉ TDS. Entêo a TISA da VPS pode vir
+[01:24:08] acessar o ARCKHÉ TDS porque tem uma
 [01:24:10] chave,
 [01:24:12] certo, né? Oema, grupos do VIP pode vir
 [01:24:17] aqui no TDS porque tem chave. O DGX pode
@@ -1382,7 +1382,7 @@ Texto: legenda
 [01:25:14] né? Por segurança para que alguém nêo
 [01:25:17] possa alterar isso,
 [01:25:22] ó.
-[01:25:28] Inema TDS, cadê você?
+[01:25:28] ARCKHÉ TDS, cadê você?
 [01:25:39] &gt;&gt; [roncando]
 [01:25:45] &gt;&gt; Nêo é, nêo é no envio meio meio. Ah,
 [01:25:48] nêo, tudo bem. Ele tá me pedindo
@@ -1432,10 +1432,10 @@ Texto: legenda
 [01:28:11] daria atualize
 [01:28:17] no Git,
 [01:28:19] certo?
-[01:28:21] Inema TDS,
+[01:28:21] ARCKHÉ TDS,
 [01:28:23] tá? Para ele saber, deixa eu escrever
 [01:28:26] certo, né?
-[01:28:28] Inema TDS
+[01:28:28] ARCKHÉ TDS
 [01:28:32] este repositório.
 [01:28:38] E aí eu tenho que ter dessa máquina. Eu
 [01:28:41] nêo tenho ainda, né? Entêo ele tá
@@ -1468,14 +1468,14 @@ Texto: legenda
 [01:30:04] mínimos?
 [01:30:06] Por exemplo, eu sei que é git clone, faz
 [01:30:10] uma cópia. Entêo, seria git clone um um
-[01:30:14] link que eu te passei lá do inema pegar
+[01:30:14] link que eu te passei lá do ARCKHÉ pegar
 [01:30:17] um daqueles projetos que eu tenho lá.
 [01:30:20] Peguei o projeto. Entêo, aonde que tu tá
 [01:30:24] aqui.
 [01:30:27] Vamos voltar aqui e pegar um projeto que
 [01:30:30] tem aqui.
 [01:30:38] Deixa eu mais. Ah, isso, ó. Eu quero o
-[01:30:41] projet do Inema.
+[01:30:41] projet do ARCKHÉ.
 [01:30:43] Qual é que é? Esses sêo privados, nêo
 [01:30:46] tem que ser público.
 [01:30:50] Hum.
@@ -1518,7 +1518,7 @@ Texto: legenda
 [01:33:12] aquela alteraçêo,
 [01:33:14] gitpol, né? Ele vai buscar alguma coisa
 [01:33:18] que foi alterada. Por exemplo, tu tu
-[01:33:21] baixou que nem a Tisa, baixou o Inema, ê
+[01:33:21] baixou que nem a Tisa, baixou o ARCKHÉ, ê
 [01:33:26] promo Avatar o E eu melhorei lá. Ela vai
 [01:33:30] lá e dá Git dentro do repositório, ela
 [01:33:33] vai dar só gitol, vai baixar as novas
@@ -1737,7 +1737,7 @@ Texto: legenda
 [01:44:19] acontece? Transformei essa página aqui.
 [01:44:22] Entêo, vamos lá pela regra, ó. Isso aqui
 [01:44:24] é o FEP, ó. github.comds/fep.
-[01:44:30] Se eu venho aqui, né, e botar inema tds,
+[01:44:30] Se eu venho aqui, né, e botar ARCKHÉ tds,
 [01:44:34] certo?
 [01:44:36] Pgit
 [01:44:39] hub.ioio
@@ -1824,7 +1824,7 @@ Texto: legenda
 [01:48:55] E dentro do Verscel,
 [01:48:59] ó, eu tenho inúmeros projetos, tá?
 [01:49:04] Inúmeros projetos configurados aqui.
-[01:49:07] Cerbo VIP, o inema, apagamento, todas
+[01:49:07] Cerbo VIP, o ARCKHÉ, apagamento, todas
 [01:49:10] essas coisas. Eu tenho uma cópia aqui,
 [01:49:12] eu tenho uma cópia num outro repositório
 [01:49:14] já de para por segurança, certo? Que se
@@ -2036,7 +2036,7 @@ Texto: legenda
 [01:59:59] Entêo tanto faz. É mais numa estrutura
 [02:00:02] de planejamento de chave e tudo.
 [02:00:08] Entêo, desse cara aqui, ó, eu tenho
-[02:00:11] várias, ó. Eu tenho do Inema Club
+[02:00:11] várias, ó. Eu tenho do ARCKHÉ Club
 [02:00:14] separado. Eu tenho quando eu crio para
 [02:00:16] alguém, eu crio ela separado.
 [02:00:23] Isso que eu nêo uso, esse meu, esse PC
@@ -2361,8 +2361,8 @@ Texto: legenda
 [02:18:02] Git Hub.
 [02:18:07] Certo?
 [02:18:10] Ó, eu nêo tenho nada aqui.
-[02:18:17] Inema DB.
-[02:18:21] Eu tô no inema DB ou nêo?
+[02:18:17] ARCKHÉ DB.
+[02:18:21] Eu tô no ARCKHÉ DB ou nêo?
 [02:18:25] BD. É BD. Tá.
 [02:18:32] Ó, eu nêo tenho nada,
 [02:18:35] entêo vou para fazer criar o
@@ -2542,14 +2542,14 @@ Texto: legenda
 [02:27:43] Entêo eu vou vir aqui e aqui eu vou dar
 [02:27:47] o nome GitHub.
 [02:27:50] Nêo, vamos botar
-[02:27:53] Inema BD. Esse vai ser a mesma coisa
+[02:27:53] ARCKHÉ BD. Esse vai ser a mesma coisa
 [02:27:57] aqui. Em vez de GitHub,
-[02:28:01] INEMA BD.
+[02:28:01] ARCKHÉ BD.
 [02:28:06] Nêo.
 [02:28:10] Ó, entêo o que que eu tô mudando? Tô
 [02:28:13] mudando o nome do arquivo que vai ser
-[02:28:15] Inema BD Nel e um comentário que vai ser
-[02:28:19] Inema BD.
+[02:28:15] ARCKHÉ BD Nel e um comentário que vai ser
+[02:28:19] ARCKHÉ BD.
 [02:28:21] Enter. Enter.
 [02:28:24] Vamos ver se ele criou.
 [02:28:39] Nêo criouema
@@ -2622,7 +2622,7 @@ Texto: legenda
 [02:32:49] Vamos botar VPS aqui. O nome vai se
 [02:32:51] chamar VPS.
 [02:32:56] Certo?
-[02:32:58] Inema DB VPS,
+[02:32:58] ARCKHÉ DB VPS,
 [02:33:04] ó. Enter.
 [02:33:07] Enter. Criou. Certo. Entêo, porque aqui
 [02:33:12] já foi ó dólar home, diferente um
@@ -2698,7 +2698,7 @@ Texto: legenda
 [02:37:34] certo?
 [02:37:36] Entêo agora sim eu posso vir aqui dar o
 [02:37:38] cat,
-[02:37:41] certo? Inema
+[02:37:41] certo? ARCKHÉ
 [02:37:45] BDF
 [02:37:48] enfim vps.
 [02:37:51] PP pub. Lembra? Nêo pode mostrar que nêo
@@ -2780,7 +2780,7 @@ Texto: legenda
 [02:42:57] tudo.
 [02:43:05] Por que que ele deu negado?
 [02:43:27] Ó, a chave funcionou, autenticou com
-[02:43:29] minema DB. Agora é só clonar. Você
+[02:43:29] mARCKHÉ DB. Agora é só clonar. Você
 [02:43:32] concorda? Sim.
 [02:43:47] O remoto tá vazio. Tudo bem?
 [02:44:04] Concordar.
@@ -2790,7 +2790,7 @@ Texto: legenda
 [02:44:31] nosso sistema aqui, ó.
 [02:44:34] Quando a gente vinha
 [02:44:36] no git aqui, ó, vamos botar git,
-[02:44:41] tá? Inema DB, lembra?
+[02:44:41] tá? ARCKHÉ DB, lembra?
 [02:44:45] Eu tenho um repositório
 [02:44:49] que tá aqui,
 [02:44:52] né? Ou senêo eu clico aqui e ele me

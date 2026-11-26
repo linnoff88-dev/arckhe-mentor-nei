@@ -1,6 +1,6 @@
 # maestro-roteador — triagem de modelo e esforço para Claude Code
 
-Origem: https://inematds.github.io/maestro-roteador/guia/
+Origem: https://linnoff88-dev.github.io/arckhe-/guia/
 
 PT EN ES
 
@@ -140,7 +140,7 @@ Instalaçêo por symlink (pra receber atualizações do repo automaticamente) e 
 Baixa a skill.
 
 ```
-git clone https://github.com/inematds/maestro-roteador.git
+git clone https://github.com/linnoff88-dev/maestro-roteador.git
 ```
 
 2
@@ -226,7 +226,7 @@ Roadmap
 
 ## Estado atual e limite conhecido
 
-Projeto de pesquisa/educaçêo INEMA — sem roadmap formal de features; o que existe hoje e o limite documentado da skill.
+Projeto de pesquisa/educaçêo ARCKHÉ — sem roadmap formal de features; o que existe hoje e o limite documentado da skill.
 
 Hoje
 

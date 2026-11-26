@@ -1,7 +1,7 @@
 # musicavideo — música, capa e clipe a partir de uma frase
 
 - Tipo: guia
-- Origem: https://inematds.github.io/musicavideo/guia/
+- Origem: https://linnoff88-dev.github.io/arckhe-/guia/
 - Arquivo: raw/guia/musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc8f.md
 
 ## Resumo

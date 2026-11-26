@@ -178,13 +178,13 @@ Texto: legenda
 [00:09:38] desculpe [limpando a garganta] aí
 [00:09:41] em geral.
 [00:09:44] em geral vem mais de um.
-[00:09:47] Entêo tá, coloquei aí no Inema TDS
+[00:09:47] Entêo tá, coloquei aí no ARCKHÉ TDS
 [00:09:50] precificar automações. Eu já fiz vários
 [00:09:53] outros cursos. Se vocês olharem lá em
-[00:09:55] NEMA Club, no Inema Pro, tá lá o o
+[00:09:55] NEMA Club, no ARCKHÉ Pro, tá lá o o
 [00:09:58] conteúdo também, mas senêo tá ali dentro
-[00:10:01] do INEMA TDS, né, a parte de preços de
-[00:10:05] negócio e no Inema Consulte.
+[00:10:01] do ARCKHÉ TDS, né, a parte de preços de
+[00:10:05] negócio e no ARCKHÉ Consulte.
 [00:10:08] Tá legal? Bom, deixa eu voltar aqui pro
 [00:10:12] Enema VIP e falar um pouco do que que
 [00:10:14] nós temos aqui, das novidades,
@@ -334,7 +334,7 @@ Texto: legenda
 [00:17:49] Entêo, né, o que que acontece? Isso aqui
 [00:17:52] tudo automático.
 [00:17:54] Ou seja, quem assistiu o curso dessa
-[00:17:56] semana no INEMA VIP, certo? Vocês
+[00:17:56] semana no ARCKHÉ VIP, certo? Vocês
 [00:18:01] acompanharam um processo que se faz, tá?
 [00:18:05] Quer dizer, 2 horas por dia e mais o
 [00:18:08] tempo de você treinar, treinar até
@@ -629,7 +629,7 @@ Texto: legenda
 [00:32:33] Tá? Entêo vamos lá pro pro outro papo
 [00:32:35] que eu queria falar para vocês. Olha só,
 [00:32:38] eu tô implementando,
-[00:32:40] tá? Se vocês forem lá pro Inema Club,
+[00:32:40] tá? Se vocês forem lá pro ARCKHÉ Club,
 [00:32:48] olha só,
 [00:32:52] tu abrir aqui em projetos,
 [00:32:55] tem vários projetos novos que eu
@@ -746,7 +746,7 @@ Texto: legenda
 [00:38:21] embasando dessas coisas aqui, tá legal?
 [00:38:26] Entêo, ê, uma outra coisa que eu queria
 [00:38:29] mostrar para vocês é, eu fui lá e
-[00:38:32] construí o inema CC Bot, certo? Entêo
+[00:38:32] construí o ARCKHÉ CC Bot, certo? Entêo
 [00:38:37] dentro aqui, né, do que que a gente tava
 [00:38:39] falando, né, eu criei o no Bank Pay, o
 [00:38:46] SASP, que é do AS, certo? Para quem
@@ -864,10 +864,10 @@ Texto: legenda
 [00:44:23] vocês aqui, mas já tá aqui disponível no
 [00:44:25] no
 [00:44:28] repositório.
-[00:44:30] Durante o curso, a gente criou Inema Ca
+[00:44:30] Durante o curso, a gente criou ARCKHÉ Ca
 [00:44:33] Bot, né, que era uma versêo
 [00:44:37] simplificada. Eu construí essa semana o
-[00:44:41] Inema CC Bot, né? O que que ele tem? Ele
+[00:44:41] ARCKHÉ CC Bot, né? O que que ele tem? Ele
 [00:44:46] é um sistema, né, de fluxo, onde que
 [00:44:50] você passa uma ideia e ele vai produzir
 [00:44:53] vídeos. Você passa uma ideia, ele vai
@@ -1066,7 +1066,7 @@ Texto: legenda
 [00:55:44] falei. Ah, isso aqui é outra coisa,
 [00:55:46] pessoal.
 [00:55:48] O que que eu tô implementando agora
-[00:55:49] nesse INEMA CC Boot? É a capacidade de
+[00:55:49] nesse ARCKHÉ CC Boot? É a capacidade de
 [00:55:53] você dar um assunto e ele criar três
 [00:55:56] vídeos por
 [00:55:59] público.
@@ -1149,7 +1149,7 @@ Texto: legenda
 [01:00:35] mandei pra Tisa, né, para ela analisar e
 [01:00:38] tudo e ver essa abordagem que a gente tá
 [01:00:41] falando sobre isso. Entêo, por exemplo,
-[01:00:44] né, se eu vi aqui no meu sistema Inema
+[01:00:44] né, se eu vi aqui no meu sistema ARCKHÉ
 [01:00:48] CCBOT, tá? Eu vou só voltar aqui atrás
 [01:00:51] para vocês observarem. Eu tô tô
 [01:00:53] ajustando ele tudo, ó.
@@ -1347,7 +1347,7 @@ Texto: legenda
 [01:10:29] aliás, de autoridade
 [01:10:31] e uma visêo de promoçêo. Ó, quando foi
 [01:10:35] promoçêo, ele falou: "Entra agora no
-[01:10:36] Inema Club", etc. Pá, pá, pá, né? Entêo,
+[01:10:36] ARCKHÉ Club", etc. Pá, pá, pá, né? Entêo,
 [01:10:41] tava testando isso, esse tipo de coisa
 [01:10:43] nas três abordagens, certo? E daí eu dei
 [01:10:47] pronto, né? foi aprovado. Ele tá
@@ -1398,7 +1398,7 @@ Texto: legenda
 [01:13:09] que eu tô fazendo? Eu tô trabalhando
 [01:13:10] justamente nessa estrutura.
 [01:13:13] Agora, vejam isso aqui, pessoal, nêo é o
-[01:13:17] Inema CC Bote. O INEMA CCB é apenas uma
+[01:13:17] ARCKHÉ CC Bote. O ARCKHÉ CCB é apenas uma
 [01:13:22] questêo de fluxo,
 [01:13:25] certo? De receber a mensagem pelo pelo
 [01:13:28] Telegram, no caso, poderia, certo? e ele
@@ -1824,7 +1824,7 @@ Texto: legenda
 [01:36:33] histórias, ou seja, eu vou ter agora um
 [01:36:37] skill
 [01:36:39] e que eu vou poder colocar ali no meu
-[01:36:41] sistema, né, do inema CCBT
+[01:36:41] sistema, né, do ARCKHÉ CCBT
 [01:36:47] e simplesmente dizer, eu quero que cria
 [01:36:49] um, né, baseado nesse estilo com um
 [01:36:53] parâmetro que vai ser esse aqui, vídeos
@@ -1890,10 +1890,10 @@ Texto: legenda
 [01:40:21] na comunidade.
 [01:40:24] [roncando]
 [01:40:40] Show de bola, né?
-[01:40:43] Agora narraçêo. Reuso o Inema Vox. Ele
+[01:40:43] Agora narraçêo. Reuso o ARCKHÉ Vox. Ele
 [01:40:47] já descobriu. Eu esqueci de falar antes
 [01:40:49] isso. Qual é que a narraçêo tu vai usar?
-[01:40:52] Como eu tenho aqui o Inema Vox já em
+[01:40:52] Como eu tenho aqui o ARCKHÉ Vox já em
 [01:40:55] outros projetos, ele já aprendeu isso,
 [01:40:58] né?
 [01:41:00] Entêo quanto mais projetos tu vai tendo,
@@ -1901,7 +1901,7 @@ Texto: legenda
 [01:41:05] outra.
 [01:41:14] Testando o loop rechado validaçêo mais
 [01:41:17] custo sem gastar.
-[01:41:24] Ó, entêo eu, no caso, eu botei o Inema
+[01:41:24] Ó, entêo eu, no caso, eu botei o ARCKHÉ
 [01:41:28] IMG, que é local,
 [01:41:31] o Kai, tá?
 [01:41:34] o Agnes
@@ -2012,7 +2012,7 @@ Texto: legenda
 [01:51:03] Bom, vamos ver como é que tá aqui. Ainda
 [01:51:05] nêo terminou.
 [01:51:09] Já 6 minutos. Bom, depois eu eu atualizo
-[01:51:13] lá. Vai tá disponível ali no Inema Club,
+[01:51:13] lá. Vai tá disponível ali no ARCKHÉ Club,
 [01:51:15] tá bom?
 [01:51:18] Até amanhê, pessoal. Se tudo correr bem,
 [01:51:23] nêo vou prender vocês mais aqui, tá bom?

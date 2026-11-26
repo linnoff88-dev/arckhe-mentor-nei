@@ -2,7 +2,7 @@
   {
     "id": "guia-maestro-roteador-triagem-de-modelo-e-esforco-para-ded1b",
     "tipo": "guia",
-    "url": "https://inematds.github.io/maestro-roteador/guia/",
+    "url": "https://linnoff88-dev.github.io/arckhe-/guia/",
     "titulo": "maestro-roteador — triagem de modelo e esforço para Claude Code",
     "arquivo": "raw/guia/maestro-roteador-triagem-de-modelo-e-esforco-para--ded1bc.md",
     "coletado_em": "2026-10-05",
@@ -12,7 +12,7 @@
   {
     "id": "guia-makeshorts-fabrica-de-shorts-com-ia-70fe54",
     "tipo": "guia",
-    "url": "https://inematds.github.io/makeshorts/guia/",
+    "url": "https://linnoff88-dev.github.io/arckhe-/guia/",
     "titulo": "MakeShorts — Fábrica de Shorts com IA",
     "arquivo": "raw/guia/makeshorts-fabrica-de-shorts-com-ia-70fe54.md",
     "coletado_em": "2026-10-05",
@@ -22,7 +22,7 @@
   {
     "id": "guia-atende-clinica-agenda-whatsapp-e-equipe-no-telegra-c3a0",
     "tipo": "guia",
-    "url": "https://inematds.github.io/atende-clinica/guia/",
+    "url": "https://linnoff88-dev.github.io/arckhe-/guia/",
     "titulo": "Atende Clínica — agenda, WhatsApp e equipe no Telegram para clínicas",
     "arquivo": "raw/guia/atende-clinica-agenda-whatsapp-e-equipe-no-telegra-c3a005.md",
     "coletado_em": "2026-10-05",
@@ -32,7 +32,7 @@
   {
     "id": "guia-transformsite-seu-site-vira-um-agente-de-atendimen-f267",
     "tipo": "guia",
-    "url": "https://inematds.github.io/transformsite/guia/",
+    "url": "https://linnoff88-dev.github.io/arckhe-/guia/",
     "titulo": "transformsite — seu site vira um agente de atendimento por chat",
     "arquivo": "raw/guia/transformsite-seu-site-vira-um-agente-de-atendimen-f26733.md",
     "coletado_em": "2026-10-05",
@@ -40,11 +40,11 @@
     "sha256": "f61646e639513f3c9c32ba482d5312d9552d3ae1256a6642d911e4876ae1fa08"
   },
   {
-    "id": "guia-inemaseo-seu-site-em-destaque-no-google-no-bing-e-daa22",
+    "id": "guia-ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e-daa22",
     "tipo": "guia",
-    "url": "https://inematds.github.io/inemaseo-metodo/guia/",
-    "titulo": "inemaSEO — seu site em destaque no Google, no Bing e nas IAs",
-    "arquivo": "raw/guia/inemaseo-seu-site-em-destaque-no-google-no-bing-e--daa22e.md",
+    "url": "https://linnoff88-dev.github.io/arckhe-/guia/",
+    "titulo": "ARCKHÉSEO — seu site em destaque no Google, no Bing e nas IAs",
+    "arquivo": "raw/guia/ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e--daa22e.md",
     "coletado_em": "2026-10-05",
     "palavras": 1427,
     "sha256": "bb12938ce79d31ed880405322ad8a9bd41e474e5f727b99020592a0b5d513528"
@@ -52,7 +52,7 @@
   {
     "id": "guia-musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc",
     "tipo": "guia",
-    "url": "https://inematds.github.io/musicavideo/guia/",
+    "url": "https://linnoff88-dev.github.io/arckhe-/guia/",
     "titulo": "musicavideo — música, capa e clipe a partir de uma frase",
     "arquivo": "raw/guia/musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc8f.md",
     "coletado_em": "2026-10-05",
@@ -100,11 +100,11 @@
     "sha256": "ebca7755fac7978c25499c1f61b65f74de098fb7457f2c7d51799aba3fc4e5b0"
   },
   {
-    "id": "video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero",
+    "id": "video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero",
     "tipo": "video",
     "url": "https://www.youtube.com/watch?v=axMCHVuSu0M",
-    "titulo": "LIVE： INEMACCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo",
-    "arquivo": "raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt",
+    "titulo": "LIVE： ARCKHÉCCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo",
+    "arquivo": "raw/videos/live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt",
     "coletado_em": "2026-10-05",
     "palavras": 13957,
     "sha256": "dfb0e26b942f427431fbfec26d2b417ace4da5c4db6159962243eed0d7bdb23a"
@@ -150,21 +150,21 @@
     "sha256": "1d068249b2fa5b30be32070de305beef12c44af16c0637e0e31f9bfc90d19b25"
   },
   {
-    "id": "video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel",
+    "id": "video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel",
     "tipo": "video",
     "url": "https://www.youtube.com/watch?v=0UeW1P--sqc",
-    "titulo": "INEMA  VibeCode do Zero - Dia 1 - Infra Git e Vercel",
-    "arquivo": "raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt",
+    "titulo": "ARCKHÉ  VibeCode do Zero - Dia 1 - Infra Git e Vercel",
+    "arquivo": "raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt",
     "coletado_em": "2026-10-05",
     "palavras": 22822,
     "sha256": "9cbc7505e1e07bb1a3db7e4739dcf7313279b276469cedaa4bdd3ccbca8638a3"
   },
   {
-    "id": "video-inema-vibecode-do-zero-dia-3-basico-de-infra",
+    "id": "video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra",
     "tipo": "video",
     "url": "https://www.youtube.com/watch?v=SgVhktUzuFM",
-    "titulo": "INEMA  VibeCode do Zero - Dia 3 -  Basico de Infra",
-    "arquivo": "raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt",
+    "titulo": "ARCKHÉ  VibeCode do Zero - Dia 3 -  Basico de Infra",
+    "arquivo": "raw/videos/ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra.txt",
     "coletado_em": "2026-10-05",
     "palavras": 21385,
     "sha256": "c13937343c0e98cfb0a89a9912c5a959b9bdf153d6164bb3ee69c4d6db9293d2"
@@ -192,7 +192,7 @@
   {
     "id": "guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357",
     "tipo": "guia",
-    "url": "https://inematds.github.io/execucao-longa/guia/",
+    "url": "https://linnoff88-dev.github.io/arckhe-/guia/",
     "titulo": "Execuçêo Longa — agentes que trabalham horas e dias sem perder o rumo",
     "arquivo": "raw/guia/execucao-longa-agentes-que-trabalham-horas-e-dias--b43579.md",
     "coletado_em": "2026-10-05",
@@ -212,7 +212,7 @@
   {
     "id": "guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831",
     "tipo": "guia",
-    "url": "https://inematds.github.io/agente-claude-codex/guia/",
+    "url": "https://linnoff88-dev.github.io/arckhe-/guia/",
     "titulo": "agente-claude-codex — Migrar do Claude pro Codex ou ficar agnóstico",
     "arquivo": "raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md",
     "coletado_em": "2026-10-05",

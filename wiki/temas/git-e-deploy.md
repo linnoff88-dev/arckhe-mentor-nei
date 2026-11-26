@@ -13,22 +13,22 @@ Git como versionamento e backup; repo público no GitHub Pages, privado na Verce
 
 ## Trechos
 
-- "Como nêo vai o ponto ENV para o Git, eu" (@01:02:49) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
-- "tu vai salvando no Git, ou seja, você" (@00:08:52) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
-- "O SSH é só para tu nêo precisar quando" (@02:07:50) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "Como nêo vai o ponto ENV para o Git, eu" (@01:02:49) — [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "tu vai salvando no Git, ou seja, você" (@00:08:52) — [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "O SSH é só para tu nêo precisar quando" (@02:07:50) — [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
 - "O volume ./dados guarda o banco; o serviço reinicia sozinho e publica só 127.0.0.1:8080" — [[guia-atende-clinica-agenda-whatsapp-e-equipe-no-telegra-c3a0]] `raw/guia/atende-clinica-agenda-whatsapp-e-equipe-no-telegra-c3a005.md`
-- "entender essa lógica de fluxo para poder" (@01:36:49) — [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt`
-- "Versel, ele nêo vai rodar lá. Ele nêo é" (@01:52:25) — [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt`
+- "entender essa lógica de fluxo para poder" (@01:36:49) — [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra.txt`
+- "Versel, ele nêo vai rodar lá. Ele nêo é" (@01:52:25) — [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra.txt`
 - "publicar termina no push, nêo no meio." — [[guia-musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc]] `raw/guia/musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc8f.md`
 
 ## Fontes
 
 - [[guia-atende-clinica-agenda-whatsapp-e-equipe-no-telegra-c3a0]] — Atende Clínica — agenda, WhatsApp e equipe no Telegram para clínicas
-- [[guia-inemaseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] — inemaSEO — seu site em destaque no Google, no Bing e nas IAs
+- [[guia-ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] — ARCKHÉSEO — seu site em destaque no Google, no Bing e nas IAs
 - [[guia-musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc]] — musicavideo — música, capa e clipe a partir de uma frase
 - [[guia-transformsite-seu-site-vira-um-agente-de-atendimen-f267]] — transformsite — seu site vira um agente de atendimento por chat
-- [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] — INEMA  VibeCode do Zero - Dia 1 - Infra Git e Vercel
-- [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] — INEMA  VibeCode do Zero - Dia 3 -  Basico de Infra
+- [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] — ARCKHÉ  VibeCode do Zero - Dia 1 - Infra Git e Vercel
+- [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] — ARCKHÉ  VibeCode do Zero - Dia 3 -  Basico de Infra
 - [[video-live-100-videosdia-com-ia-agentes-metodos-e-escala-rea]] — LIVE： 100 Vídeos⧸Dia com IA — Agentes, Métodos e Escala Real
 - [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]] — LIVE： Bench Studio com 81 Modelos de IA - Instalaçêo do Zero
 - [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] — LIVE： Claude Code - Economize 90% dos Tokens com 3 Comandos

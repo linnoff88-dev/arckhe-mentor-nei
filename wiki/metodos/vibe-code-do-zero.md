@@ -18,14 +18,14 @@ O fluxo que ele ensina para construir com IA: estruturar a ideia como contexto n
 
 ## Exemplos (trechos)
 
-- "todo. Entêo, o processo é você ter uma" (@00:01:51) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
-- "plano, validar de novo para outros" (@00:07:30) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
-- "joga pro git, certo? E transforma aquilo" (@01:19:28) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
-- "Tu pega o plano e leva no Codex." (@02:49:42) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "todo. Entêo, o processo é você ter uma" (@00:01:51) — [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "plano, validar de novo para outros" (@00:07:30) — [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "joga pro git, certo? E transforma aquilo" (@01:19:28) — [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "Tu pega o plano e leva no Codex." (@02:49:42) — [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
 
 ## Fontes
 
-- [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] — INEMA  VibeCode do Zero - Dia 1 - Infra Git e Vercel
+- [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] — ARCKHÉ  VibeCode do Zero - Dia 1 - Infra Git e Vercel
 
 ## Relacionados
 

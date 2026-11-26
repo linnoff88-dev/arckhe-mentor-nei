@@ -1,11 +1,11 @@
 # MakeShorts — Fábrica de Shorts com IA
 
 - Tipo: guia
-- Origem: https://inematds.github.io/makeshorts/guia/
+- Origem: https://linnoff88-dev.github.io/arckhe-/guia/
 - Arquivo: raw/guia/makeshorts-fabrica-de-shorts-com-ia-70fe54.md
 
 ## Resumo
-Guia da skill `/makeshorts`, uma fábrica de shorts dentro do Claude Code: recebe um tema, link ou clipe gravado e devolve o short editado, conferido e pronto para agendar. Orquestra ferramentas já existentes (HyperFrames para ediçêo, inemavox para voz e transcriçêo, HeyGen para avatar, Metricool para agendamento). Segue sete etapas (roteiro → voz/avatar → b-roll real → ediçêo 9:16 → QA → agendar → funil de DM), cada uma também usável sozinha em cinco modos. Todo short segue a mesma fórmula (gancho → gancho secundário → 3 passos → CTA), e nada sai sem passar pelo portêo `qa_short.py`. Os backends trocam por `.env` (local com GPU ou API numa VPS) sem mudar código. Etapas que custam ou publicam pedem confirmaçêo.
+Guia da skill `/makeshorts`, uma fábrica de shorts dentro do Claude Code: recebe um tema, link ou clipe gravado e devolve o short editado, conferido e pronto para agendar. Orquestra ferramentas já existentes (HyperFrames para ediçêo, ARCKHÉvox para voz e transcriçêo, HeyGen para avatar, Metricool para agendamento). Segue sete etapas (roteiro → voz/avatar → b-roll real → ediçêo 9:16 → QA → agendar → funil de DM), cada uma também usável sozinha em cinco modos. Todo short segue a mesma fórmula (gancho → gancho secundário → 3 passos → CTA), e nada sai sem passar pelo portêo `qa_short.py`. Os backends trocam por `.env` (local com GPU ou API numa VPS) sem mudar código. Etapas que custam ou publicam pedem confirmaçêo.
 
 ## Ideias centrais
 - "Orquestra, nêo reinventa" — chama o que já funciona em vez de reconstruir.

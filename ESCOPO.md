@@ -1,7 +1,7 @@
 # Escopo do mentor nei
 
 ## Especialista
-Nei Maldaner (INEMA). Conteúdo público do próprio canal e dos guias publicados. Piloto do kit mentor-especialista.
+Nei Maldaner (ARCKHÉ). Conteúdo público do próprio canal e dos guias publicados. Piloto do kit mentor-especialista.
 
 ## Domínio (uma frase, estreita)
 Ensinar a usar Claude Code e agentes de IA na prática, construindo junto.
@@ -28,12 +28,12 @@ Ensinar a usar Claude Code e agentes de IA na prática, construindo junto.
 | video | https://www.youtube.com/watch?v=pqa_KO5Wegk | coletar_video.py | Vídeos por assunto com agentes |
 | video | https://www.youtube.com/watch?v=tfLpUHmpvFk | coletar_video.py | Instalaçêo do zero |
 | video | https://www.youtube.com/watch?v=Zb8TRf97zt8 | coletar_video.py | Agentes com LLM grátis |
-| guia | https://inematds.github.io/maestro-roteador/guia/ | coletar_web.py --tipo guia | |
-| guia | https://inematds.github.io/makeshorts/guia/ | coletar_web.py --tipo guia | |
-| guia | https://inematds.github.io/atende-clinica/guia/ | coletar_web.py --tipo guia | |
-| guia | https://inematds.github.io/transformsite/guia/ | coletar_web.py --tipo guia | |
-| guia | https://inematds.github.io/inemaseo-metodo/guia/ | coletar_web.py --tipo guia | |
-| guia | https://inematds.github.io/musicavideo/guia/ | coletar_web.py --tipo guia | |
+| guia | https://linnoff88-dev.github.io/arckhe-/guia/ | coletar_web.py --tipo guia | |
+| guia | https://linnoff88-dev.github.io/arckhe-/guia/ | coletar_web.py --tipo guia | |
+| guia | https://linnoff88-dev.github.io/arckhe-/guia/ | coletar_web.py --tipo guia | |
+| guia | https://linnoff88-dev.github.io/arckhe-/guia/ | coletar_web.py --tipo guia | |
+| guia | https://linnoff88-dev.github.io/arckhe-/guia/ | coletar_web.py --tipo guia | |
+| guia | https://linnoff88-dev.github.io/arckhe-/guia/ | coletar_web.py --tipo guia | |
 
 ## Fora do escopo
 - Opiniões pessoais e políticas, vida privada.

@@ -1,6 +1,6 @@
 ---
 name: nei-regras
-description: "Fase 3 — extrai da wiki as regras de conduta de Nei Maldaner (INEMA), cada uma com citaçêo + localizador, e valida contra o raw. Use com '/nei-regras' ou 'extrair as regras'."
+description: "Fase 3 — extrai da wiki as regras de conduta de Nei Maldaner (ARCKHÉ), cada uma com citaçêo + localizador, e valida contra o raw. Use com '/nei-regras' ou 'extrair as regras'."
 ---
 
 # Extrair as regras

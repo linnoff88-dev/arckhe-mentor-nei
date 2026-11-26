@@ -36,10 +36,10 @@ Erro em aula é material de ensino: ele deixa quebrar na frente da turma, leva a
 
 ## Exemplos (trechos)
 
-- "Por isso que eu gosto que dá erro, né?" (@00:58:41) — [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt`
-- "um procedimento para resolver os erros." (@02:37:09) — [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt`
-- "problema quando dá, levam pro chat e às" (@02:54:17) — [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt`
-- "usa o SSH, usa o SSH para você" (@02:45:21) — [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt`
+- "Por isso que eu gosto que dá erro, né?" (@00:58:41) — [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra.txt`
+- "um procedimento para resolver os erros." (@02:37:09) — [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra.txt`
+- "problema quando dá, levam pro chat e às" (@02:54:17) — [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra.txt`
+- "usa o SSH, usa o SSH para você" (@02:45:21) — [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra.txt`
 - "ó, que que eu sugiro sempre fazer? Marca" (@01:01:32) — [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]] `raw/videos/live-bench-studio-com-81-modelos-de-ia-instalacao-do-zero.txt`
 - "causa raiz confirmada. O concerto é" (@00:24:17) — [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]] `raw/videos/live-bench-studio-com-81-modelos-de-ia-instalacao-do-zero.txt`
 - "Agora anote que fiz isso e o teu comando" (@01:31:45) — [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]] `raw/videos/live-bench-studio-com-81-modelos-de-ia-instalacao-do-zero.txt`
@@ -48,17 +48,17 @@ Erro em aula é material de ensino: ele deixa quebrar na frente da turma, leva a
 - "para mim identificar os erros, senêo o" (@01:03:48) — [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] `raw/videos/live-empresa-agentica-agentes-de-ia-no-comando-do-negocio.txt`
 - "Por isso é bom ter duas, três VPS é pra" (@00:55:51) — [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] `raw/videos/live-empresa-agentica-agentes-de-ia-no-comando-do-negocio.txt`
 - "Vou melhorar essa instalaçêo. Vou criar" (@00:37:18) — [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] `raw/videos/live-empresa-agentica-agentes-de-ia-no-comando-do-negocio.txt`
-- "Corrigido nos três repos. Causa. O Inema" (@00:12:04) — [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] `raw/videos/live-claude-code-economize-90-dos-tokens-com-3-comandos.txt`
+- "Corrigido nos três repos. Causa. O ARCKHÉ" (@00:12:04) — [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] `raw/videos/live-claude-code-economize-90-dos-tokens-com-3-comandos.txt`
 
 ## Fontes
 
-- [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] — INEMA  VibeCode do Zero - Dia 1 - Infra Git e Vercel
-- [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] — INEMA  VibeCode do Zero - Dia 3 -  Basico de Infra
+- [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] — ARCKHÉ  VibeCode do Zero - Dia 1 - Infra Git e Vercel
+- [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] — ARCKHÉ  VibeCode do Zero - Dia 3 -  Basico de Infra
 - [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]] — LIVE： Bench Studio com 81 Modelos de IA - Instalaçêo do Zero
 - [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] — LIVE： Claude Code - Economize 90% dos Tokens com 3 Comandos
 - [[video-live-deepseek-harness-orquestre-ias-e-corte-custos-em-]] — LIVE： DeepSeek Harness - Orquestre IAs e Corte Custos em 95x
 - [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] — LIVE： Empresa Agêntica - Agentes de IA no Comando do Negócio
-- [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] — LIVE： INEMACCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
+- [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] — LIVE： ARCKHÉCCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
 
 ## Relacionados
 

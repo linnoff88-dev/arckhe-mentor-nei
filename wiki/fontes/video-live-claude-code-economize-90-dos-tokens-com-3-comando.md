@@ -21,7 +21,7 @@ Live depois de um dia do curso Vibe Code (pastas, contexto, Git/GitHub, SSH, Ver
 
 ## Como ele ensina aqui
 - Mede antes e depois na tela: lê o % de contexto, roda o comando e mostra o número cair (74%→6%), convertendo em tokens por chamada.
-- Roda a ferramenta no próprio projeto real (inemaccbot) e lê o diagnóstico em voz alta, inclusive as falhas dele (15 decisões duráveis que nunca chegaram à memória).
+- Roda a ferramenta no próprio projeto real (ARCKHÉccbot) e lê o diagnóstico em voz alta, inclusive as falhas dele (15 decisões duráveis que nunca chegaram à memória).
 - Bug ao vivo: abre o site, vê que o portêo bloqueia, manda o agente achar a causa (308 tratado como sem acesso) e lê em voz alta o agente admitindo que errou ao dizer que os dois compilavam — confere o que o agente afirma.
 - Responde as perguntas do chat aplicando a regra na hora (contexto em 75% → mostra o comando; skill global ou de projeto → explica o critério de manutençêo).
 - Põe o custo de hospedagem na conta antes de publicar (12 GB de vídeo no Hugging Face, só prompts e interface no Vercel).

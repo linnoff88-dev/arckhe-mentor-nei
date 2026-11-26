@@ -8,14 +8,14 @@ Ensina fazendo junto: passa o exercício, acompanha cada aluno e corrige na hora
 
 ## Trechos
 
-- "aquilo publicável. façam isso e eu tô" (@01:19:36) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
-- "dar camada, eu quero dar fundamento." (@01:55:39) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
-- "você pode estar em qualquer ambiente que" (@01:54:36) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "aquilo publicável. façam isso e eu tô" (@01:19:36) — [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "dar camada, eu quero dar fundamento." (@01:55:39) — [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "você pode estar em qualquer ambiente que" (@01:54:36) — [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
 
 ## Fontes
 
-- [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] — INEMA  VibeCode do Zero - Dia 1 - Infra Git e Vercel
-- [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] — INEMA  VibeCode do Zero - Dia 3 -  Basico de Infra
+- [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] — ARCKHÉ  VibeCode do Zero - Dia 1 - Infra Git e Vercel
+- [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] — ARCKHÉ  VibeCode do Zero - Dia 3 -  Basico de Infra
 - [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]] — LIVE： Bench Studio com 81 Modelos de IA - Instalaçêo do Zero
 - [[video-live-deepseek-harness-orquestre-ias-e-corte-custos-em-]] — LIVE： DeepSeek Harness - Orquestre IAs e Corte Custos em 95x
 - [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] — LIVE： Empresa Agêntica - Agentes de IA no Comando do Negócio

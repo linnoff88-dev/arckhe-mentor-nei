@@ -1,7 +1,7 @@
 # Atende Clínica — agenda, WhatsApp e equipe no Telegram para clínicas
 
 - Tipo: guia
-- Origem: https://inematds.github.io/atende-clinica/guia/
+- Origem: https://linnoff88-dev.github.io/arckhe-/guia/
 - Arquivo: raw/guia/atende-clinica-agenda-whatsapp-e-equipe-no-telegra-c3a005.md
 
 ## Resumo

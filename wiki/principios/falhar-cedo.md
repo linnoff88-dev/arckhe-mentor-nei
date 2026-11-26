@@ -8,15 +8,15 @@ Validar o pedido na entrada e recusar o que nêo fecha antes de gastar tokens, m
 
 ## Trechos
 
-- "ter essa visêo. Nós temos que errar cedo" (@01:38:48) — [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
-- "certo? Entêo ele recusa cedo se nêo" (@01:32:32) — [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
-- "vai testar tudo e nêo vai gastar nada de" (@01:58:10) — [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
+- "ter essa visêo. Nós temos que errar cedo" (@01:38:48) — [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
+- "certo? Entêo ele recusa cedo se nêo" (@01:32:32) — [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
+- "vai testar tudo e nêo vai gastar nada de" (@01:58:10) — [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
 - "ó, sem contrato e arquivo vazio falha," (@01:21:53) — [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] `raw/videos/live-36-videos-por-assunto-com-agentes-ia-no-piloto-automati.txt`
 
 ## Fontes
 
 - [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] — LIVE： 36 Vídeos por Assunto com Agentes IA no Piloto Automático
-- [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] — LIVE： INEMACCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
+- [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] — LIVE： ARCKHÉCCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
 
 ## Relacionados
 

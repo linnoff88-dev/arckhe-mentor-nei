@@ -1,12 +1,12 @@
 {
   "slug": "nei",
-  "especialista": "Nei Maldaner (INEMA)",
+  "especialista": "Nei Maldaner (ARCKHÉ)",
   "dominio": "ensinar a usar Claude Code e agentes de IA na prática, construindo junto",
   "idiomas_legenda": [
     "pt",
     "pt-orig"
   ],
-  "transcrever_cmd": "cd ~/projetos/inemavox && systemd-run --user --scope -q -p MemoryMax=24G -- python3 baixar_v1.py --url {url} --outdir {saida} --quality audio && systemd-run --user --scope -q -p MemoryMax=24G -- python3 transcrever_v1.py --in \"$(ls -S {saida}/* | head -1)\" --outdir {saida} --whisper-model large-v3",
+  "transcrever_cmd": "cd ~/projetos/ARCKHÉvox && systemd-run --user --scope -q -p MemoryMax=24G -- python3 baixar_v1.py --url {url} --outdir {saida} --quality audio && systemd-run --user --scope -q -p MemoryMax=24G -- python3 transcrever_v1.py --in \"$(ls -S {saida}/* | head -1)\" --outdir {saida} --whisper-model large-v3",
   "timeout_video_s": 3600,
   "metas_coleta": {
     "video": {

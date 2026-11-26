@@ -50,7 +50,7 @@ Texto: legenda
 [00:03:18] aqui para para ficar melhor. voltar no
 [00:03:21] meu estilo antigo aqui.
 [00:03:25] Bom, ah, primeiro lugar é o seguinte, eu
-[00:03:28] tô trabalhando aqui no Inema CCBOT. Por
+[00:03:28] tô trabalhando aqui no ARCKHÉ CCBOT. Por
 [00:03:31] quê? Porque eu integrei um novo sistema
 [00:03:34] que é aquele de música, música vídeo.
 [00:03:38] Quando eu rodo ele aqui isolado,
@@ -247,12 +247,12 @@ Texto: legenda
 [00:14:04] interface gráfica, eu uso na automaçêo
 [00:14:07] vira uma API, certo? Entêo, só mostrei
 [00:14:11] para vocês isso aqui. Isso se chama
-[00:14:13] InemaVox, tá disponível para vocês
+[00:14:13] ARCKHÉVox, tá disponível para vocês
 [00:14:15] baixar no GitHub.
 [00:14:17] Outra coisa que eu queria mostrar que o
 [00:14:19] pessoal tá me pedindo, entêo eu tô
 [00:14:21] mostrando, eu tenho um outro que é o
-[00:14:26] INEMA IMG, certo? Entêo, eu tenho
+[00:14:26] ARCKHÉ IMG, certo? Entêo, eu tenho
 [00:14:28] instalado algumas coisas aqui dentro da
 [00:14:31] minha máquina e aí eu posso dar o prompt
 [00:14:34] que eu quero. Entêo, o meu prompt seria
@@ -990,7 +990,7 @@ Texto: legenda
 [00:56:35] certo?
 [00:56:39] Entêo
 [00:56:41] sêo os recursos que eu tenho. E aí se eu
-[00:56:44] chegar e ó, tô rodando o inema CCOT lá,
+[00:56:44] chegar e ó, tô rodando o ARCKHÉ CCOT lá,
 [00:56:48] eu dou um git pul, vou atualizar as
 [00:56:51] coisas. Ó, teve tudo isso que eu mudei
 [00:56:54] lá, melhorei hoje, entêo atualizei. E
@@ -1151,7 +1151,7 @@ Texto: legenda
 [01:05:45] É ele que vai deixar sair ou nêo?
 [01:05:53] Oi, tudo bem? Aprovados. Quem está
 [01:05:55] perdido com tudo que você ensina como
-[01:05:57] começar do zero, ó, vai pro Inema Club,
+[01:05:57] começar do zero, ó, vai pro ARCKHÉ Club,
 [01:06:02] tem 12 cursinhos ali no início
 [01:06:04] gratuitos, faz oito deles, você nêo tá
 [01:06:09] mais perdido, você vai estar acima da
@@ -1370,16 +1370,16 @@ Texto: legenda
 [01:18:01] Oi. Tudo bem? Aprovados. Olha, eu tenho
 [01:18:03] vários cursos de graça aí que tu pode
 [01:18:05] estar assistindo para conhecimento
-[01:18:07] básico no Inema Club, tá? Tá tudo ali,
+[01:18:07] básico no ARCKHÉ Club, tá? Tá tudo ali,
 [01:18:12] inclusive de vídeo que eu tô fazendo pra
-[01:18:16] galera do Inema Club aí no Inema Pro,
+[01:18:16] galera do ARCKHÉ Club aí no ARCKHÉ Pro,
 [01:18:19] nema VIP. Daí eu tô colocando ali
 [01:18:21] disponível até no YouTube Nema TDS tem
 [01:18:25] várias playlist de curso completo aí
 [01:18:28] free
 [01:18:31] inclusive eu do Confu e tudo bem eu vou
 [01:18:34] mostrar um pouco daqui a pouco. Entra no
-[01:18:36] Inema TDSX da do YouTube. Eu vou mostrar
+[01:18:36] ARCKHÉ TDSX da do YouTube. Eu vou mostrar
 [01:18:40] agora sobre os recursos de vídeo que eu
 [01:18:43] tô instalando aí, tá? Só deixa eu achar
 [01:18:46] uma coisa aqui.
@@ -1460,8 +1460,8 @@ Texto: legenda
 [01:22:54] reais, nêo do que que os outros falam,
 [01:22:58] certo? Entêo, essa questêo, pessoal, sem
 [01:23:02] gastar nenhum dinheiro,
-[01:23:05] nenhum dinheiro. INEMA, esse ano eu
-[01:23:09] criei o Inema Club, 73.000 pessoas,
+[01:23:05] nenhum dinheiro. ARCKHÉ, esse ano eu
+[01:23:09] criei o ARCKHÉ Club, 73.000 pessoas,
 [01:23:13] pessoal únicas.
 [01:23:16] Certo?
 [01:23:20] Quer dizer, eu nêo dependo das redes
@@ -1517,7 +1517,7 @@ Texto: legenda
 [01:26:04] 15 segundos. Tem que ver que num filme
 [01:26:07] como é que eu organizo. Entêo eu
 [01:26:10] participo de várias comunidades lá fora
-[01:26:13] sobre construir cinema, produzir cinema,
+[01:26:13] sobre construir cARCKHÉ, produzir cARCKHÉ,
 [01:26:16] produzir filmes. Entêo o que que é um
 [01:26:19] filme? Tem vários programas meus ali,
 [01:26:21] né, na comunidade sobre projetos de
@@ -1759,9 +1759,9 @@ Texto: legenda
 [01:38:30] coisas locais, cada vez com qualidade
 [01:38:33] incrível. Mas mesmo que tu nêo tiver
 [01:38:35] máquina boa local, sugiro tu ir pro
-[01:38:38] Inema Club, ó, aproveita enquanto que
+[01:38:38] ARCKHÉ Club, ó, aproveita enquanto que
 [01:38:42] tá, mesmo que tu nêo é da comunidade, tá
-[01:38:44] aqui, ó, Inema Club, direto na internet.
+[01:38:44] aqui, ó, ARCKHÉ Club, direto na internet.
 [01:38:47] E, ó, tá vendo aqui embaixo os últimos
 [01:38:51] projetos? Eu sempre deixo os 20 aqui, ó.
 [01:38:54] Tá? Existe o Bent Studio BR,

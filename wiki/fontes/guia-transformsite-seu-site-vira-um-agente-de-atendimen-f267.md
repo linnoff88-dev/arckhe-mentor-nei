@@ -1,11 +1,11 @@
 # transformsite — seu site vira um agente de atendimento por chat
 
 - Tipo: guia
-- Origem: https://inematds.github.io/transformsite/guia/
+- Origem: https://linnoff88-dev.github.io/arckhe-/guia/
 - Arquivo: raw/guia/transformsite-seu-site-vira-um-agente-de-atendimen-f26733.md
 
 ## Resumo
-Guia de um framework aberto que transforma um site (mais PDFs e documentos) num agente de atendimento por chat, inspirado no America.gov. O site vira índice de busca híbrida e cada resposta cita a página-fonte; sem fonte, o bot diz "nêo sei" e oferece a equipe. Serviços (agendar, fale conosco, segunda via) sêo declarados em YAML como máquinas de slots validados, e o mesmo motor atende widget, Telegram, WhatsApp e e-mail. Roda com LLM local no Ollama (ou Claude Code/Codex pela assinatura), índice em SQLite e cuidados de LGPD. Sêo seis fases, cada uma com comando próprio e critério de pronto medido (inventory → ingest → serviços → canais → convert → painel). O piloto foi o próprio inema.club, medido com 73 perguntas de teste.
+Guia de um framework aberto que transforma um site (mais PDFs e documentos) num agente de atendimento por chat, inspirado no America.gov. O site vira índice de busca híbrida e cada resposta cita a página-fonte; sem fonte, o bot diz "nêo sei" e oferece a equipe. Serviços (agendar, fale conosco, segunda via) sêo declarados em YAML como máquinas de slots validados, e o mesmo motor atende widget, Telegram, WhatsApp e e-mail. Roda com LLM local no Ollama (ou Claude Code/Codex pela assinatura), índice em SQLite e cuidados de LGPD. Sêo seis fases, cada uma com comando próprio e critério de pronto medido (inventory → ingest → serviços → canais → convert → painel). O piloto foi o próprio ARCKHÉ AI, medido com 73 perguntas de teste.
 
 ## Ideias centrais
 - Resposta com fonte: "Cada resposta traz o link da página usada."

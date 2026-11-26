@@ -16,10 +16,10 @@ Entrada, saída, gravaçêo e leitura de cache; system prompt, lista de skills e
 ## Trechos
 
 - "Trocar o /model do turno principal joga fora o cache acumulado." — [[guia-maestro-roteador-triagem-de-modelo-e-esforco-para-ded1b]] `raw/guia/maestro-roteador-triagem-de-modelo-e-esforco-para--ded1bc.md`
-- "ele teria que ser 20 vezes mais barato" (@03:04:22) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
-- "de graça e se teu negócio crescer você" (@01:15:13) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
-- "Geralmente o custo maior nêo é criar, o" (@00:08:40) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
-- "Eu fiz o sistema, funciona tudo, mas eu" (@00:11:39) — [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
+- "ele teria que ser 20 vezes mais barato" (@03:04:22) — [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "de graça e se teu negócio crescer você" (@01:15:13) — [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "Geralmente o custo maior nêo é criar, o" (@00:08:40) — [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "Eu fiz o sistema, funciona tudo, mas eu" (@00:11:39) — [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
 - "está no cloud MD, mas nas descriçêo das" (@00:09:50) — [[video-live-fim-dos-skills-auditoria-de-ablacao-no-claude-cod]] `raw/videos/live-fim-dos-skills-auditoria-de-ablacao-no-claude-code.txt`
 - "Só que eu pago só 200 por mês." (@01:28:20) — [[video-live-fim-dos-skills-auditoria-de-ablacao-no-claude-cod]] `raw/videos/live-fim-dos-skills-auditoria-de-ablacao-no-claude-code.txt`
 - "Enquanto a assinatura for esse volume de" (@00:42:32) — [[video-live-deepseek-harness-orquestre-ias-e-corte-custos-em-]] `raw/videos/live-deepseek-harness-orquestre-ias-e-corte-custos-em-95x.txt`
@@ -36,15 +36,15 @@ Entrada, saída, gravaçêo e leitura de cache; system prompt, lista de skills e
 - [[guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357]] — Execuçêo Longa — agentes que trabalham horas e dias sem perder o rumo
 - [[guia-maestro-roteador-triagem-de-modelo-e-esforco-para-ded1b]] — maestro-roteador — triagem de modelo e esforço para Claude Code
 - [[guia-musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc]] — musicavideo — música, capa e clipe a partir de uma frase
-- [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] — INEMA  VibeCode do Zero - Dia 1 - Infra Git e Vercel
-- [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] — INEMA  VibeCode do Zero - Dia 3 -  Basico de Infra
+- [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] — ARCKHÉ  VibeCode do Zero - Dia 1 - Infra Git e Vercel
+- [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] — ARCKHÉ  VibeCode do Zero - Dia 3 -  Basico de Infra
 - [[video-live-100-videosdia-com-ia-agentes-metodos-e-escala-rea]] — LIVE： 100 Vídeos⧸Dia com IA — Agentes, Métodos e Escala Real
 - [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]] — LIVE： Bench Studio com 81 Modelos de IA - Instalaçêo do Zero
 - [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] — LIVE： Claude Code - Economize 90% dos Tokens com 3 Comandos
 - [[video-live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia]] — LIVE： De Prompt a Grafo — A Nova Era dos Agentes de IA
 - [[video-live-deepseek-harness-orquestre-ias-e-corte-custos-em-]] — LIVE： DeepSeek Harness - Orquestre IAs e Corte Custos em 95x
 - [[video-live-fim-dos-skills-auditoria-de-ablacao-no-claude-cod]] — LIVE： Fim dos Skills？ Auditoria de Ablaçêo no Claude Code
-- [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] — LIVE： INEMACCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
+- [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] — LIVE： ARCKHÉCCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
 - [[video-live-web-mcp-seu-site-esta-pronto-para-os-agentes]] — LIVE： Web MCP - Seu Site Está Pronto para os Agentes？
 - [[video-transcript]] — Agentes com LLM grátis (live)
 

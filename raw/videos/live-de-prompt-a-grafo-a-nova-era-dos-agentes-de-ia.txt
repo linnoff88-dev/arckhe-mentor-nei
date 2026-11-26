@@ -78,7 +78,7 @@ Texto: legenda
 [00:03:42] gratuita inicialmente, que você pode
 [00:03:44] estar usando, né? Eu tô usando já 2 anos
 [00:03:47] e nêo pago. Provavelmente agora por
-[00:03:50] causa do volume muito grande no Inema
+[00:03:50] causa do volume muito grande no ARCKHÉ
 [00:03:52] Pro, eu vou pagar por mês, mas é 20, 30.
 [00:03:56] Entêo quer dizer, sêo aqueles R$ 100
 [00:03:59] aqui, R$ 100 ali que tu vai pagar para
@@ -105,9 +105,9 @@ Texto: legenda
 [00:05:07] dúvida das pessoas enquanto eu vou
 [00:05:09] avançando, tá legal? Entêo pessoal, nós
 [00:05:12] estamos aí com mais de 4.000 pessoas aí
-[00:05:15] na comunidade Inema Pro, Inema VIP, né?
-[00:05:18] Fora os 70.000 do INEMA Club, né? E fora
-[00:05:23] os 18, 16, 18.000, né? Do Inema Free Que
+[00:05:15] na comunidade ARCKHÉ Pro, ARCKHÉ VIP, né?
+[00:05:18] Fora os 70.000 do ARCKHÉ Club, né? E fora
+[00:05:23] os 18, 16, 18.000, né? Do ARCKHÉ Free Que
 [00:05:27] tá dentro do Telegram. Entêo, tá todo
 [00:05:30] mundo convidado para assistir e claro,
 [00:05:33] como sempre eu gravo, né? E tô
@@ -394,7 +394,7 @@ Texto: legenda
 [00:18:50] faz clipes de cada assunto. Entêo você
 [00:18:54] pode estar olhando lá só aquele assunto
 [00:18:56] que interessa. Isso ajuda, porque quando
-[00:18:59] a gente vai pesquisar no INEMA Pro, ele
+[00:18:59] a gente vai pesquisar no ARCKHÉ Pro, ele
 [00:19:03] ele tem uma base de informações de tudo
 [00:19:06] que eu já ensinei, né, dentro, né, do
 [00:19:10] YouTube. Entêo, ele ele faz os cortes de
@@ -402,7 +402,7 @@ Texto: legenda
 [00:19:15] aquela que eu disponibilizo para vocês,
 [00:19:17] que é o YT, ifes
 [00:19:22] X, tá? Que tá disponível na lá na
-[00:19:25] comunidade no ou no inema.
+[00:19:25] comunidade no ou no ARCKHÉ.
 [00:19:28] eh, club que você pode baixar. Bom,
 [00:19:31] exemplo um, entêo,
 [00:19:33] como é que funcionaria os gráficos? Eu
@@ -645,7 +645,7 @@ Texto: legenda
 [00:32:04] mostrar uma outra coisa que a gente tava
 [00:32:06] focando aqui. Para quem quer quer esse
 [00:32:09] material, ele tá em dois lugares dentro
-[00:32:11] da comunidade inema Iá. Iema Inema Iá é
+[00:32:11] da comunidade ARCKHÉ Iá. Iema ARCKHÉ Iá é
 [00:32:16] conceitos.
 [00:32:18] [roncando] Sempre que tem uma coisa
 [00:32:19] nova, né? Que nem aqui, ó, engenharia
@@ -672,7 +672,7 @@ Texto: legenda
 [00:33:24] cima do teu conhecimento.
 [00:33:26] Por isso eu tenho que estudar. Entêo,
 [00:33:28] onde mais eu posso estar vendo isso? Se
-[00:33:31] você for lá no Inema Club,
+[00:33:31] você for lá no ARCKHÉ Club,
 [00:33:34] certo? Eu tenho aqui, ó, a base para
 [00:33:38] vocês de todo esse conhecimento aqui.
 [00:33:41] Entêo, desde engenharia de prompt, né,
@@ -729,7 +729,7 @@ Texto: legenda
 [00:36:12] ler alguém, nêo me lembro agora de quem,
 [00:36:14] mas sempre eu tenho as fontes ali
 [00:36:16] dentro, tá? ê,
-[00:36:21] for, ó, cinema, se você quer aprender
+[00:36:21] for, ó, cARCKHÉ, se você quer aprender
 [00:36:24] sobre filme, produzir filme mesmo,
 [00:36:27] também tem um conteúdo bala aqui, certo?
 [00:36:30] E deixa eu ver se tem mais alguma coisa.
@@ -852,7 +852,7 @@ Texto: legenda
 [00:42:47] Pronto, fiz uma minha chamada, certo?
 [00:42:50] Etc, etc. Tá? E
 [00:42:54] tem
-[00:42:56] cursos no INEMA
+[00:42:56] cursos no ARCKHÉ
 [00:43:00] Club.
 [00:43:04] Quer, tá,
 [00:43:07] quer o link
@@ -943,11 +943,11 @@ Texto: legenda
 [00:47:20] meu rosto falando uma coisa legal,
 [00:47:24] certo? Entêo veja, isso é o resultado do
 [00:47:27] quê? de quem fez o curso semana passada,
-[00:47:30] aprenderam a fazer o Inema CC Bot,
+[00:47:30] aprenderam a fazer o ARCKHÉ CC Bot,
 [00:47:33] certo? Tá, é só baixar, tá? Tá aqui ele,
 [00:47:37] ó.
 [00:47:39] Aliás, onde que tá aqui? Se vocês vêo
-[00:47:41] ver no projeto aqui, ó, né? Inema CCB,
+[00:47:41] ver no projeto aqui, ó, né? ARCKHÉ CCB,
 [00:47:45] tá aqui ele, certo? É só baixar ele e
 [00:47:48] aqui explica tudo que tu tem. Só que
 [00:47:50] dentro do CCBote eu posso colocar
@@ -963,7 +963,7 @@ Texto: legenda
 [00:48:20] publicar. Entêo isso nêo é mais uma
 [00:48:23] skill, isso é um conjunto de skills,
 [00:48:26] certo? Que vira fluxo e eu administro
-[00:48:31] dentro do inema CCBT, né, as duas
+[00:48:31] dentro do ARCKHÉ CCBT, né, as duas
 [00:48:34] coisas. Entêo, meu objetivo semana
 [00:48:37] passada no curso foi isso. Aliás,
 [00:48:40] pessoal, tá bombando, o pessoal tá
@@ -1170,7 +1170,7 @@ Texto: legenda
 [00:59:21] para gerenciar tua informaçêo, precisa
 [00:59:23] para um agente tá interagindo, que nem,
 [00:59:25] por exemplo, se você vai ver aqui,
-[00:59:28] Cinema Club. Aqui à direita vocês têm um
+[00:59:28] CARCKHÉ Club. Aqui à direita vocês têm um
 [00:59:32] chat
 [00:59:34] e esse chat ele ajuda de tudo. Ajuda a
 [00:59:37] navegar na página, ajuda a responder a
@@ -1422,7 +1422,7 @@ Texto: legenda
 [01:12:27] importante,
 [01:12:29] tá?
 [01:12:30] Eu
-[01:12:32] volto e meia, coloco aqui no Inema VIP
+[01:12:32] volto e meia, coloco aqui no ARCKHÉ VIP
 [01:12:36] novidades,
 [01:12:38] certo?
 [01:12:40] Vamos ver se eu tenho alguma coisa que
@@ -1551,8 +1551,8 @@ Texto: legenda
 [01:19:23] seja bem-vinda. Fala com a Tisa se tiver
 [01:19:26] alguma dúvida.
 [01:19:32] O conteúdo tá lá
-[01:19:35] lá no Inema,
-[01:19:39] ó. Inema deve.
+[01:19:35] lá no ARCKHÉ,
+[01:19:39] ó. ARCKHÉ deve.
 [01:19:43] [roncando]
 [01:19:45] Deixa eu ver,
 [01:19:49] ó. Vai bec zero,

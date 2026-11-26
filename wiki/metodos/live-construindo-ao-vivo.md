@@ -18,16 +18,16 @@ O formato de aula dele: em vez de slides, abre o próprio sistema rodando e cons
 
 ## Exemplos (trechos)
 
-- "dar camada, eu quero dar fundamento." (@01:55:39) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]]
-- "Por isso que eu gosto que dá erro, né?" (@00:58:41) — [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]]
+- "dar camada, eu quero dar fundamento." (@01:55:39) — [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]]
+- "Por isso que eu gosto que dá erro, né?" (@00:58:41) — [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]]
 - "Agora anote que fiz isso e o teu comando" (@01:31:45) — [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]]
 - "Levei pro Cloud, ele criticou. Levei pro" (@01:06:50) — [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]]
 - "tem coisa melhor do que a gente testar." — [[video-live-deepseek-harness-orquestre-ias-e-corte-custos-em-]]
 
 ## Fontes
 
-- [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] — INEMA  VibeCode do Zero - Dia 1 - Infra Git e Vercel
-- [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] — INEMA  VibeCode do Zero - Dia 3 -  Basico de Infra
+- [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] — ARCKHÉ  VibeCode do Zero - Dia 1 - Infra Git e Vercel
+- [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] — ARCKHÉ  VibeCode do Zero - Dia 3 -  Basico de Infra
 - [[video-live-100-videosdia-com-ia-agentes-metodos-e-escala-rea]] — LIVE： 100 Vídeos⧸Dia com IA — Agentes, Métodos e Escala Real
 - [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] — LIVE： 36 Vídeos por Assunto com Agentes IA no Piloto Automático
 - [[video-live-agentes-workers-filas-e-skills-arquitetura-ia]] — LIVE： Agentes, Workers, Filas e Skills - Arquitetura IA

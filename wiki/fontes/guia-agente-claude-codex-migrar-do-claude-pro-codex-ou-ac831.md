@@ -1,7 +1,7 @@
 # agente-claude-codex — Migrar do Claude pro Codex ou ficar agnóstico
 
 - Tipo: guia
-- Origem: https://inematds.github.io/agente-claude-codex/guia/
+- Origem: https://linnoff88-dev.github.io/arckhe-/guia/
 - Arquivo: raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md
 
 ## Resumo

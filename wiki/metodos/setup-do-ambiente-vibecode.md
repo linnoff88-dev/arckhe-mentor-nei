@@ -17,13 +17,13 @@ Sequência de infraestrutura antes do primeiro prompt: pasta de projetos, agente
 
 ## Exemplos (trechos)
 
-- "Ele vai deletar ali para baixo. Sempre" (@00:34:40) — [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt`
-- "tu quer, tu tem que pensar em" (@01:53:28) — [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt`
-- "numa linguagem comum, mas a gente sabe" (@01:34:45) — [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt`
+- "Ele vai deletar ali para baixo. Sempre" (@00:34:40) — [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra.txt`
+- "tu quer, tu tem que pensar em" (@01:53:28) — [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra.txt`
+- "numa linguagem comum, mas a gente sabe" (@01:34:45) — [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra.txt`
 
 ## Fontes
 
-- [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] — INEMA  VibeCode do Zero - Dia 3 -  Basico de Infra
+- [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] — ARCKHÉ  VibeCode do Zero - Dia 3 -  Basico de Infra
 
 ## Relacionados
 

@@ -1,6 +1,6 @@
 # transformsite — seu site vira um agente de atendimento por chat
 
-Origem: https://inematds.github.io/transformsite/guia/
+Origem: https://linnoff88-dev.github.io/arckhe-/guia/
 
 O que é
 
@@ -52,7 +52,7 @@ Instala o CLI transformsite .
 
 ```
 # pipx (recomendado)
-pipx install git+https://github.com/inematds/transformsite
+pipx install git+https://github.com/linnoff88-dev/transformsite
 ```
 
 ### Ollama (LLM local)
@@ -78,7 +78,7 @@ Guia de uso · passo a passo
 
 ## Do zero ao bot respondendo em 7 passos
 
-Comandos reais, os mesmos usados no piloto com o site inema.club.
+Comandos reais, os mesmos usados no piloto com o site ARCKHÉ AI.
 
 1
 
@@ -98,7 +98,7 @@ cd meubot
 Rastreia o site e grava inventario/paginas.csv e inventario/formularios.csv , com os formulários ordenados por prioridade (agendamento e contato primeiro).
 
 ```
-transformsite inventory --sitemap https://www.minhaempresa.com.br/sitemap.xml   # inema.club: 387 páginas
+transformsite inventory --sitemap https://www.minhaempresa.com.br/sitemap.xml   # ARCKHÉ AI: 387 páginas
 ```
 
 3
@@ -108,7 +108,7 @@ transformsite inventory --sitemap https://www.minhaempresa.com.br/sitemap.xml   
 Lê o site inteiro e os documentos de docs/ (md, pdf), divide em trechos e calcula embeddings locais. Reexecutar só reprocessa páginas que mudaram.
 
 ```
-transformsite ingest        # inema.club: 386 páginas → 1.512 trechos em 249 s
+transformsite ingest        # ARCKHÉ AI: 386 páginas → 1.512 trechos em 249 s
 transformsite ask "Preciso saber programar para fazer o curso CAIP?"
 ```
 
@@ -164,15 +164,15 @@ transformsite convert https://www.minhaempresa.com.br/contato
 Um comando instala Docker e sobe app + Ollama + Evolution API (WhatsApp) + Caddy com HTTPS automático.
 
 ```
-curl -fsSL https://raw.githubusercontent.com/inematds/transformsite/main/deploy/vps/install.sh | sudo bash -s -- \
+curl -fsSL https://raw.githubusercontent.com/linnoff88-dev/transformsite/main/deploy/vps/install.sh | sudo bash -s -- \
   --domain bot.suaempresa.com.br --site https://www.suaempresa.com.br --whatsapp
 ```
 
 Exemplos
 
-## Piloto: INEMA.CLUB
+## Piloto: ARCKHÉ AI
 
-O site inema.club (cursos, guias, eventos e base de conhecimento) foi o primeiro a virar chat. Resultado medido com 73 perguntas de teste e o LLM local: 92,6% das respostas com fonte válida, 100% de "nêo sei" nas perguntas fora do escopo, 100% das tentativas de injeçêo bloqueadas e latência p95 de 2,6 s .
+O site ARCKHÉ AI (cursos, guias, eventos e base de conhecimento) foi o primeiro a virar chat. Resultado medido com 73 perguntas de teste e o LLM local: 92,6% das respostas com fonte válida, 100% de "nêo sei" nas perguntas fora do escopo, 100% das tentativas de injeçêo bloqueadas e latência p95 de 2,6 s .
 
 Widget no site: a resposta vem com a página usada como fonte. Painel /admin: métricas (resoluçêo sem humano, handoff, citaçêo, latência), além de conversas, fila, serviços e base.
 

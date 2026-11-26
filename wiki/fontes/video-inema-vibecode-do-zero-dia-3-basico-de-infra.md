@@ -1,8 +1,8 @@
-# INEMA  VibeCode do Zero - Dia 3 -  Basico de Infra
+# ARCKHÉ  VibeCode do Zero - Dia 3 -  Basico de Infra
 
 - Tipo: video
 - Origem: https://www.youtube.com/watch?v=SgVhktUzuFM
-- Arquivo: raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt
+- Arquivo: raw/videos/ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra.txt
 
 ## Resumo
 Aula ao vivo (cerca de 3 h) para iniciantes, sobre a infraestrutura que vem antes de qualquer vibe code. Abre com o contexto de mercado (o fim do SaaS, verticalizar um serviço com software próprio) e depois monta junto com a turma: pasta `projetos` no terminal (CMD/PowerShell/Linux), instalaçêo do Codex e do Claude Code (com Node/npm), login pela assinatura, chaves SSH (pública × privada, uma por destino), GitHub (clone/pull/push, branch/merge, repositório público × privado, GitHub Pages com pasta `guia/`), Vercel (importar repositório, variáveis de ambiente, limite do plano grátis), quando usar VPS e o custo de CPU × GPU (Replicate, Hugging Face). Ao vivo aparecem erros reais: login OAuth do Codex numa VPS sem navegador (resolvido com túnel SSH para o localhost), chave já em uso no GitHub, comando com a barra errada que deu OK mas nêo criou o arquivo, e o push recusado até ele mandar o agente usar SSH em vez do `gh`. A conclusêo: vibe code do zero nêo é escrever o prompt, e sim dominar pastas, SSH e Git antes.

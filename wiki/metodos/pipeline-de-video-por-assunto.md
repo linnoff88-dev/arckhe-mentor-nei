@@ -40,8 +40,8 @@ Uma ideia vira dezenas de vídeos em etapas encadeáveis, com portões humanos (
 
 - "Roteiro → Voz ou avatar → B-roll real → Ediçêo 9:16 → QA → Agendar → Funil de DM" — [[guia-makeshorts-fabrica-de-shorts-com-ia-70fe54]] `raw/guia/makeshorts-fabrica-de-shorts-com-ia-70fe54.md`
 - "As que custam dinheiro ou publicam sempre pedem sua confirmaçêo." — [[guia-makeshorts-fabrica-de-shorts-com-ia-70fe54]] `raw/guia/makeshorts-fabrica-de-shorts-com-ia-70fe54.md`
-- "minha ideia. Veja, nada de promte, nada." (@01:33:50) — [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
-- "E aí entra o revisor, ele olha se" (@01:54:26) — [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
+- "minha ideia. Veja, nada de promte, nada." (@01:33:50) — [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
+- "E aí entra o revisor, ele olha se" (@01:54:26) — [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
 - "uma pessoa, né? um público alvo. Entêo" (@01:09:06) — [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] `raw/videos/live-36-videos-por-assunto-com-agentes-ia-no-piloto-automati.txt`
 - "vídeos. Só que antes ele vai me dar o" (@00:22:46) — [[video-live-100-videosdia-com-ia-agentes-metodos-e-escala-rea]] `raw/videos/live-100-videosdia-com-ia-agentes-metodos-e-escala-real.txt`
 - "comandei a Iá e ela tá trabalhando em" (@00:18:06) — [[video-live-100-videosdia-com-ia-agentes-metodos-e-escala-rea]] `raw/videos/live-100-videosdia-com-ia-agentes-metodos-e-escala-real.txt`
@@ -56,7 +56,7 @@ Uma ideia vira dezenas de vídeos em etapas encadeáveis, com portões humanos (
 - [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] — LIVE： 36 Vídeos por Assunto com Agentes IA no Piloto Automático
 - [[video-live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia]] — LIVE： De Prompt a Grafo — A Nova Era dos Agentes de IA
 - [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] — LIVE： Empresa Agêntica - Agentes de IA no Comando do Negócio
-- [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] — LIVE： INEMACCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
+- [[video-live-ARCKHÉccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] — LIVE： ARCKHÉCCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
 - [[video-live-web-mcp-seu-site-esta-pronto-para-os-agentes]] — LIVE： Web MCP - Seu Site Está Pronto para os Agentes？
 - [[video-transcript]] — Agentes com LLM grátis (live)
 

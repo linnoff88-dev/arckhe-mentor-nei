@@ -50,7 +50,7 @@ Texto: legenda
 [00:03:28] 81 modelos, ó. Subiu de 73 para 81
 [00:03:32] modelos. Eu trouxe vários do Clean, tá?
 [00:03:36] Entêo aqui, ó, do Clan, do Kie, do
-[00:03:39] Agnes, do Inema. E aí vai entrar outro
+[00:03:39] Agnes, do ARCKHÉ. E aí vai entrar outro
 [00:03:42] aqui que é o Free Pix do Magnific.
 [00:03:46] Certo?
 [00:03:48] Entêo vamos só vamos ver o seguinte.
@@ -138,7 +138,7 @@ Texto: legenda
 [00:08:07] querem ver minha tela,
 [00:08:19] bom, entêo vamos lá. O que que acontece?
 [00:08:22] O que que eu preciso fazer para
-[00:08:23] instalar? Eu já botei aqui no Inema
+[00:08:23] instalar? Eu já botei aqui no ARCKHÉ
 [00:08:26] Club,
 [00:08:28] ó,
 [00:08:30] Bent Studio BR,
@@ -226,7 +226,7 @@ Texto: legenda
 [00:12:51] né? E aqui tu coloca uma chave, uma uma
 [00:12:55] senha para o teu terminal. Entêo se eu
 [00:12:57] chegar aqui, certo? E e digitar lá ê
-[00:13:03] v3.inema.club
+[00:13:03] v3.ARCKHÉ AI
 [00:13:06] do club 2.5200.
 [00:13:12] Ó, ele entrou por quê? Porque eu já
 [00:13:15] tenho uma senha autenticada, senêo ele
@@ -295,7 +295,7 @@ Texto: legenda
 [00:16:20] Ó, o o modo aqui, ó, que que eu fiz?
 [00:16:24] Isso aqui eu melhorei de ontem para
 [00:16:25] hoje. Entêo, eu posso vir aqui, ó, eu
-[00:16:28] quero rios do inema. Entêo, aqui tem o,
+[00:16:28] quero rios do ARCKHÉ. Entêo, aqui tem o,
 [00:16:32] né, um título, o prompt, certo? E aí tu
 [00:16:36] tem o que que tu tem de opções de
 [00:16:39] subcontroles,
@@ -308,7 +308,7 @@ Texto: legenda
 [00:16:59] tenho critério, eu tenho batida, eu
 [00:17:01] tenho câmera. Como é que funciona isso
 [00:17:03] aqui, ó? Quando você chegou e colocou eh
-[00:17:06] livre, né, ou escolheu Rio Cinema,
+[00:17:06] livre, né, ou escolheu Rio CARCKHÉ,
 [00:17:10] apareceu aqui, ó, aquela lista. Mas se
 [00:17:13] tu clicou em OGC, ó, eu tenho uma, 2, 3,
 [00:17:17] 4. Eu posso criar quantos eu quero,
@@ -1607,7 +1607,7 @@ Texto: legenda
 [01:53:05] o que que tá nesse arquivo,
 [01:53:07] certo?
 [01:53:09] Entêo seria, ou seja, e se eu tô lá
-[01:53:13] usando o meu sistema aqui do Inema Pro
+[01:53:13] usando o meu sistema aqui do ARCKHÉ Pro
 [01:53:18] do lá CCBT, certo? Eu quero usar dentro
 [01:53:24] dele o fluxo para gerar fotos, etc. e
 [01:53:27] tudo. O que que eu posso criar? Eu crio
@@ -1645,7 +1645,7 @@ Texto: legenda
 [01:55:12] ê, privacidade local, custo
 [01:55:15] transparente, CMCP, pronto, arquivos
 [01:55:18] locais, liberdade criativa é com vocês,
-[01:55:21] tá? Entêo, tá dentro do Inema Vibe isso
+[01:55:21] tá? Entêo, tá dentro do ARCKHÉ Vibe isso
 [01:55:24] aqui.
 [01:55:27] E depois vou colocar a live de hoje aqui
 [01:55:29] embaixo também.
@@ -1679,7 +1679,7 @@ Texto: legenda
 [01:57:05] propaganda do curso amanhê.
 [01:57:08] O curso que tem amanhê aqui, ó.
 [01:57:13] Ó,
-[01:57:16] curso deinema CCBT
+[01:57:16] curso deARCKHÉ CCBT
 [01:57:19] com promovatar,
 [01:57:21] certo? E vou até mostrar daí lá, talvez
 [01:57:24] até a gente integre ali com o
@@ -1763,7 +1763,7 @@ Texto: legenda
 [02:01:13] ele é mais barato, mas no fim de conta o
 [02:01:17] problema. Entêo é isso que a gente tem
 [02:01:19] que entender, tá? Aqui, ó, dentro do
-[02:01:21] inema dev comparando os dois, etc.
+[02:01:21] ARCKHÉ dev comparando os dois, etc.
 [02:01:24] Entêo, sempre que tem alguma coisa
 [02:01:26] relevante, eu tenho aplicado e colocado
 [02:01:29] aqui de disponível para vocês, tá bom?

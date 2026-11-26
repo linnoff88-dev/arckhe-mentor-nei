@@ -1,4 +1,4 @@
-# Método inemaSEO em 10 etapas
+# Método ARCKHÉSEO em 10 etapas
 
 - Tipo: metodo
 
@@ -19,13 +19,13 @@ SEO aplicado com scripts: auditoria, fundaçêo técnica, mediçêo sem a marca,
 
 ## Exemplos (trechos)
 
-- "GO com 6 pontos ou mais, e só se houver um ativo real para citar." — [[guia-inemaseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] `raw/guia/inemaseo-seu-site-em-destaque-no-google-no-bing-e--daa22e.md`
-- "Só URLs que respondem 200. O script confere antes e envia ao IndexNow" — [[guia-inemaseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] `raw/guia/inemaseo-seu-site-em-destaque-no-google-no-bing-e--daa22e.md`
-- "O SEO paga em semanas e meses, nêo em dias. A rotina é que faz o resultado." — [[guia-inemaseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] `raw/guia/inemaseo-seu-site-em-destaque-no-google-no-bing-e--daa22e.md`
+- "GO com 6 pontos ou mais, e só se houver um ativo real para citar." — [[guia-ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] `raw/guia/ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e--daa22e.md`
+- "Só URLs que respondem 200. O script confere antes e envia ao IndexNow" — [[guia-ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] `raw/guia/ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e--daa22e.md`
+- "O SEO paga em semanas e meses, nêo em dias. A rotina é que faz o resultado." — [[guia-ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] `raw/guia/ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e--daa22e.md`
 
 ## Fontes
 
-- [[guia-inemaseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] — inemaSEO — seu site em destaque no Google, no Bing e nas IAs
+- [[guia-ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] — ARCKHÉSEO — seu site em destaque no Google, no Bing e nas IAs
 
 ## Relacionados
 

@@ -1,6 +1,6 @@
 # Execuçêo Longa — agentes que trabalham horas e dias sem perder o rumo
 
-Origem: https://inematds.github.io/execucao-longa/guia/
+Origem: https://linnoff88-dev.github.io/arckhe-/guia/
 
 O que é
 
@@ -68,7 +68,7 @@ claude --version
 Clone este repositório para copiar os arquivos de estado e os prompts.
 
 ```
-git clone https://github.com/inematds/execucao-longa
+git clone https://github.com/linnoff88-dev/execucao-longa
 ```
 
 Guia de uso · passo a passo
@@ -335,7 +335,7 @@ Faxina do claude-mem Feita com backup: 7.904 pendências antigas e 3.860 sessõe
 
 Relacionados
 
-## Outros projetos do INEMA sobre o tema
+## Outros projetos do ARCKHÉ sobre o tema
 
 ### 🧠 agente-claude-codex
 

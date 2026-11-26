@@ -11,12 +11,12 @@ O OK da ferramenta ou do agente nêo prova nada. Nada é dado como feito sem con
 - "Arquivo existir nêo é prova. O agente ter lido e usado é." — [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]] `raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md`
 - "Os dois concordarem nêo é prova: eles podem dividir a mesma suposiçêo errada." — [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]] `raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md`
 - "Nada sai sem passar pelo qa_short.py" — [[guia-makeshorts-fabrica-de-shorts-com-ia-70fe54]] `raw/guia/makeshorts-fabrica-de-shorts-com-ia-70fe54.md`
-- "também é muito bom tu ter uma outra IA" (@00:08:29) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "também é muito bom tu ter uma outra IA" (@00:08:29) — [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
 - "Sem fonte, o bot diz" — [[guia-transformsite-seu-site-vira-um-agente-de-atendimen-f267]] `raw/guia/transformsite-seu-site-vira-um-agente-de-atendimen-f26733.md`
 - "conferida depois numa clínica que o agente nunca viu e num docker build real" — [[guia-atende-clinica-agenda-whatsapp-e-equipe-no-telegra-c3a0]] `raw/guia/atende-clinica-agenda-whatsapp-e-equipe-no-telegra-c3a005.md`
-- "ele passou dizendo que tinha OK, mas nêo" (@02:38:55) — [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt`
+- "ele passou dizendo que tinha OK, mas nêo" (@02:38:55) — [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra.txt`
 - "Confira você mesmo (rode o teste final, veja o hash dos testes)" — [[guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357]] `raw/guia/execucao-longa-agentes-que-trabalham-horas-e-dias--b43579.md`
-- "O LLM extrai e reescreve; um validador descarta o que nêo está na fonte." — [[guia-inemaseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] `raw/guia/inemaseo-seu-site-em-destaque-no-google-no-bing-e--daa22e.md`
+- "O LLM extrai e reescreve; um validador descarta o que nêo está na fonte." — [[guia-ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] `raw/guia/ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e--daa22e.md`
 - "Adapters escritos e cobertos por teste de contrato, ainda nêo exercitados contra a API real." — [[guia-musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc]] `raw/guia/musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc8f.md`
 - "um prompt é ter validaçêo das regras. Ou" (@00:49:20) — [[video-live-fim-dos-skills-auditoria-de-ablacao-no-claude-cod]] `raw/videos/live-fim-dos-skills-auditoria-de-ablacao-no-claude-code.txt`
 - "E temos que testar se vai ser aquilo que" (@01:43:05) — [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] `raw/videos/live-36-videos-por-assunto-com-agentes-ia-no-piloto-automati.txt`
@@ -34,12 +34,12 @@ O OK da ferramenta ou do agente nêo prova nada. Nada é dado como feito sem con
 - [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]] — agente-claude-codex — Migrar do Claude pro Codex ou ficar agnóstico
 - [[guia-atende-clinica-agenda-whatsapp-e-equipe-no-telegra-c3a0]] — Atende Clínica — agenda, WhatsApp e equipe no Telegram para clínicas
 - [[guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357]] — Execuçêo Longa — agentes que trabalham horas e dias sem perder o rumo
-- [[guia-inemaseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] — inemaSEO — seu site em destaque no Google, no Bing e nas IAs
+- [[guia-ARCKHÉseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] — ARCKHÉSEO — seu site em destaque no Google, no Bing e nas IAs
 - [[guia-makeshorts-fabrica-de-shorts-com-ia-70fe54]] — MakeShorts — Fábrica de Shorts com IA
 - [[guia-musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc]] — musicavideo — música, capa e clipe a partir de uma frase
 - [[guia-transformsite-seu-site-vira-um-agente-de-atendimen-f267]] — transformsite — seu site vira um agente de atendimento por chat
-- [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] — INEMA  VibeCode do Zero - Dia 1 - Infra Git e Vercel
-- [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] — INEMA  VibeCode do Zero - Dia 3 -  Basico de Infra
+- [[video-ARCKHÉ-vibecode-do-zero-dia-1-infra-git-e-vercel]] — ARCKHÉ  VibeCode do Zero - Dia 1 - Infra Git e Vercel
+- [[video-ARCKHÉ-vibecode-do-zero-dia-3-basico-de-infra]] — ARCKHÉ  VibeCode do Zero - Dia 3 -  Basico de Infra
 - [[video-live-100-videosdia-com-ia-agentes-metodos-e-escala-rea]] — LIVE： 100 Vídeos⧸Dia com IA — Agentes, Métodos e Escala Real
 - [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] — LIVE： 36 Vídeos por Assunto com Agentes IA no Piloto Automático
 - [[video-live-agentes-workers-filas-e-skills-arquitetura-ia]] — LIVE： Agentes, Workers, Filas e Skills - Arquitetura IA
