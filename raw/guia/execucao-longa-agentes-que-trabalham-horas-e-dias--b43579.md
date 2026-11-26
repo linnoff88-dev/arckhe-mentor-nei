@@ -1,4 +1,4 @@
-# Execução Longa — agentes que trabalham horas e dias sem perder o rumo
+# Execuçêo Longa — agentes que trabalham horas e dias sem perder o rumo
 
 Origem: https://inematds.github.io/execucao-longa/guia/
 
@@ -6,33 +6,33 @@ O que é
 
 ## Um método + templates para execuções longas
 
-Este repositório junta o material de origem sobre a sessão longa no Codex, uma pesquisa das novidades de jul–out/2026 com fontes, um plano de uso e templates prontos para copiar.
+Este repositório junta o material de origem sobre a sessêo longa no Codex, uma pesquisa das novidades de jul–out/2026 com fontes, um plano de uso e templates prontos para copiar.
 
 ### 🎯 Objetivo verificável
 
-O /goal precisa de Resultado, Restrições e Verificação: comandos cuja saída prova que terminou. Nada de "até ficar bom".
+O /goal precisa de Resultado, Restrições e Verificaçêo: comandos cuja saída prova que terminou. Nada de "até ficar bom".
 
 ### 🗂️ Estado em arquivos
 
-goal, plan, state, progress, failures e decisions.md guardam a tarefa; canal.md guarda o que a compactação perde (fatos, glossário, armadilhas). Após compactar ou retomar, o agente relê os arquivos em vez de depender da memória da conversa.
+goal, plan, state, progress, failures e decisions.md guardam a tarefa; canal.md guarda o que a compactaçêo perde (fatos, glossário, armadilhas). Após compactar ou retomar, o agente relê os arquivos em vez de depender da memória da conversa.
 
 ### 🛡️ Tetos e portões
 
-Tempo, tokens e memória com limite. Gasto de crédito, API, produção e ações irreversíveis viram portão humano.
+Tempo, tokens e memória com limite. Gasto de crédito, API, produçêo e ações irreversíveis viram portêo humano.
 
 Como funciona
 
 ## Um ciclo que só para quando o critério é atingido
 
-O agente escolhe sempre a próxima ação útil, testa, registra e continua. Três ciclos sem avanço mensurável = parar e chamar o humano.
+O agente escolhe sempre a próxima açêo útil, testa, registra e continua. Três ciclos sem avanço mensurável = parar e chamar o humano.
 
-Objetivo → Lê estado → Próxima ação → Executa → Testa → Corrige → Salva estado + commit ↺
+Objetivo → Lê estado → Próxima açêo → Executa → Testa → Corrige → Salva estado + commit ↺
 
-### Sessão persistente
+### Sessêo persistente
 
 Continuidade lógica do trabalho: o mesmo objetivo, o mesmo histórico.
 
-### Compactação
+### Compactaçêo
 
 Resume o histórico antigo para caber na janela. Muda o prefixo e baixa o cache logo depois — é esperado.
 
@@ -48,10 +48,10 @@ Um agente de código com modo de objetivo e um projeto com algum teste automáti
 
 ### Codex CLI
 
-O /goal vive dentro do TUI (não aparece no --help ).
+O /goal vive dentro do TUI (nêo aparece no --help ).
 
 ```
-# versão recente
+# versêo recente
 codex --version
 ```
 
@@ -75,18 +75,18 @@ Guia de uso · passo a passo
 
 ## Da primeira linha do goal até "concluído"
 
-Use os templates de templates/ . Cada execução ganha a própria pasta dentro do projeto.
+Use os templates de templates/ . Cada execuçêo ganha a própria pasta dentro do projeto.
 
 1
 
-### Crie a pasta de estado da execução
+### Crie a pasta de estado da execuçêo
 
-Uma pasta por execução, com os sete arquivos (os seis de estado + canal.md).
+Uma pasta por execuçêo, com os sete arquivos (os seis de estado + canal.md).
 
 ```
 execucao-longa/tools/novo-longrun.sh . meu-objetivo   # cria a pasta com os sete arquivos e data no goal.md
 
-# ou à mão:
+# ou à mêo:
 mkdir -p longrun/2026-10-01-meu-objetivo
 cp execucao-longa/templates/{goal,plan,state,progress,failures,decisions,canal}.md \
    longrun/2026-10-01-meu-objetivo/
@@ -103,7 +103,7 @@ Cada critério é um comando e a saída esperada. Liste também os portões huma
 - [ ] npm test  → 0 falhas
 - [ ] npm run build  → sai com código 0
 ## Portões humanos (parar e perguntar)
-- gasto de crédito / API paga / deploy em produção
+- gasto de crédito / API paga / deploy em produçêo
 ```
 
 3
@@ -114,8 +114,8 @@ No Codex, cole templates/prompt-goal-codex.md preenchido. Se o objetivo ainda es
 
 ```
 codex
-/goal RESULTADO: ... VERIFICAÇÃO: ... ESTADO: longrun/2026-10-01-meu-objetivo/
-# no Claude Code: a condição precisa aparecer na saída
+/goal RESULTADO: ... VERIFICAÇêO: ... ESTADO: longrun/2026-10-01-meu-objetivo/
+# no Claude Code: a condiçêo precisa aparecer na saída
 /goal a saída do npm test mostra 0 falhas e state.md diz "concluído"
 ```
 
@@ -129,14 +129,14 @@ Veja o progresso, pause e retome. Use fork para caminhos alternativos.
 /goals          # lista goals e status
 /goal pause     # /goal resume para continuar
 /side           # pergunta de status sem parar o trabalho
-/fork           # ramifica a sessão
+/fork           # ramifica a sessêo
 ```
 
 5
 
 ### Sem interface: o loop headless
 
-Cada ciclo é um codex exec com stdin fechado, timeout, teto de memória e flock. Quem decide continuar é o teste: o loop reverte mexida em teste protegido, faz commit de checkpoint e para por estagnação.
+Cada ciclo é um codex exec com stdin fechado, timeout, teto de memória e flock. Quem decide continuar é o teste: o loop reverte mexida em teste protegido, faz commit de checkpoint e para por estagnaçêo.
 
 ```
 # loop.env + prompt.md na pasta (copie de longrun/2026-10-01-medir-sessao/)
@@ -148,11 +148,11 @@ execucao-longa/tools/loop-longrun.sh longrun/2026-10-01-meu-objetivo
 
 ### Feche e meça
 
-Confira você mesmo (rode o teste final, veja o hash dos testes) e registre no progress.md o que medir-sessao.py mostra: duração, compactações, tokens, cache e saída de ferramenta.
+Confira você mesmo (rode o teste final, veja o hash dos testes) e registre no progress.md o que medir-sessao.py mostra: duraçêo, compactações, tokens, cache e saída de ferramenta.
 
 ```
-python3 execucao-longa/tools/medir-sessao.py <sessão.jsonl>              # resumo: duração, compactações, cache
-python3 execucao-longa/tools/medir-sessao.py <sessão.jsonl> --json --por-turno  # curva por turno
+python3 execucao-longa/tools/medir-sessao.py <sessêo.jsonl>              # resumo: duraçêo, compactações, cache
+python3 execucao-longa/tools/medir-sessao.py <sessêo.jsonl> --json --por-turno  # curva por turno
 ```
 
 Para começar
@@ -164,7 +164,7 @@ Instale uma vez por máquina. Depois, cada objetivo longo segue um de dois camin
 ### 1 · Uma vez por máquina
 - Clone o repo em ~/projetos/execucao-longa .
 - Cole templates/AGENTS-long-run.md no CLAUDE.md e no AGENTS.md globais.
-- No ~/.claude/settings.json , ligue tools/hook-longrun.sh em PreCompact , SessionStart (matcher compact|resume ), PostToolUse e UserPromptSubmit : ele lembra de salvar antes de compactar, manda reler depois e avisa as faixas de contexto (50/70/85%). Ponha "cleanupPeriodDays": 365 para o Claude não apagar as transcrições com 30 dias.
+- No ~/.claude/settings.json , ligue tools/hook-longrun.sh em PreCompact , SessionStart (matcher compact|resume ), PostToolUse e UserPromptSubmit : ele lembra de salvar antes de compactar, manda reler depois e avisa as faixas de contexto (50/70/85%). Ponha "cleanupPeriodDays": 365 para o Claude nêo apagar as transcrições com 30 dias.
 - Ative o vigia: copie tools/systemd/longrun-vigia.* para ~/.config/systemd/user/ e rode systemctl --user enable --now longrun-vigia.timer .
 - Nos crons que chamam agente: flock -n + timeout .
 
@@ -180,17 +180,17 @@ Instale uma vez por máquina. Depois, cada objetivo longo segue um de dois camin
 - goal.md + testes congelados (o teste é o juiz).
 - prompt.md + loop.env — copie do exemplo longrun/2026-10-01-medir-sessao/ .
 - tools/loop-longrun.sh <pasta> (num tmux ou em segundo plano).
-- Ele para sozinho: concluído, estagnação ou teto. Confira à parte e meça.
+- Ele para sozinho: concluído, estagnaçêo ou teto. Confira à parte e meça.
 
-### Manutenção
+### Manutençêo
 
-Para achar algo dito em qualquer sessão (Codex ou Claude): recall "termo" --projeto X --desde AAAA-MM-DD . Alertas do vigia ficam em ~/.local/state/execucao-longa/alertas.log (e no notify-send). tools/arquivar-sessoes.py mostra quanto espaço as sessões antigas ocupam; com --aplicar comprime e com --restaurar devolve. Exemplo completo de execução: longrun/2026-10-01-medir-sessao/ .
+Para achar algo dito em qualquer sessêo (Codex ou Claude): recall "termo" --projeto X --desde AAAA-MM-DD . Alertas do vigia ficam em ~/.local/state/execucao-longa/alertas.log (e no notify-send). tools/arquivar-sessoes.py mostra quanto espaço as sessões antigas ocupam; com --aplicar comprime e com --restaurar devolve. Exemplo completo de execuçêo: longrun/2026-10-01-medir-sessao/ .
 
 Critério de pronto
 
 ## Como saber se um critério de sucesso é bom
 
-Bom critério: alguém de fora consegue checar sem confiar no agente, e o agente não consegue cumprir por atalho. Em execução longa, o mínimo é o nível 3.
+Bom critério: alguém de fora consegue checar sem confiar no agente, e o agente nêo consegue cumprir por atalho. Em execuçêo longa, o mínimo é o nível 3.
 
 ### 0 · Vago
 
@@ -212,32 +212,32 @@ Comando + trava: "0 falhas e ≥ 48 testes e tests/ intocado". Mínimo aceito.
 
 Nível 3 + checagem externa: e2e real, avaliador separado, amostra humana. Quando o erro custa caro.
 
-### 5 perguntas (cada "não" derruba o nível)
+### 5 perguntas (cada "nêo" derruba o nível)
 - Dá para checar com um comando ( comando → saída esperada )?
-- A resposta é sim/não, sem "melhorou"?
-- É impossível cumprir sem fazer o trabalho? Se não, falta trava: contagem mínima, arquivo congelado, validador.
+- A resposta é sim/nêo, sem "melhorou"?
+- É impossível cumprir sem fazer o trabalho? Se nêo, falta trava: contagem mínima, arquivo congelado, validador.
 - A prova aparece na saída? O avaliador do /goal no Claude só lê a conversa.
-- Cobre função (faz o que devia), regressão (não quebrou o resto) e limite (não mexeu onde não devia)?
+- Cobre funçêo (faz o que devia), regressêo (nêo quebrou o resto) e limite (nêo mexeu onde nêo devia)?
 
 ### Exemplo: "traduzir o guia para inglês"
 
 ❌ Nível 0: a frase em si. ⚠️ Nível 2: "existe guia/en/index.html ". ✅ Nível 3–4: mesmas <section id> que o PT, nenhum trecho em PT, links internos respondem 200, captura de tela conferida.
 
-Sinais de critério ruim: "bom", "limpo", "completo"; depende do agente dizer que terminou; só contagem; não diz o que não pode mudar; verificação que leva horas. O templates/goal.md já traz a escala.
+Sinais de critério ruim: "bom", "limpo", "completo"; depende do agente dizer que terminou; só contagem; nêo diz o que nêo pode mudar; verificaçêo que leva horas. O templates/goal.md já traz a escala.
 
 Sessões longas · cuidados
 
-## Deterioração de contexto, cache e modo fila
+## Deterioraçêo de contexto, cache e modo fila
 
 O /goal funciona, mas sessões com muitas compactações perdem o fio. Detalhes e fontes em docs/pesquisa-goal-contexto-fila-2026-10.md .
 
 ### 🧠 O /goal deteriora?
 
-Não é o /goal , é a compactação repetida. O objetivo sobrevive, mas se perde o "o que já está feito / o que falta": o agente repete "vou terminar e commitar", reabre trabalho e não converge (issue openai/codex #34095).
+Nêo é o /goal , é a compactaçêo repetida. O objetivo sobrevive, mas se perde o "o que já está feito / o que falta": o agente repete "vou terminar e commitar", reabre trabalho e nêo converge (issue openai/codex #34095).
 
 ### 🛡️ Como evitar
 
-Faixas de contexto, antes do automático (~90–95%): ~50% → anotar no canal.md fatos, aprendizados e armadilhas; ~70% → atualizar o estado e rodar /compact ; ~85% ou 3ª compactação → /session-handoff , sessão nova e /prime . No Claude Code um hook mede a % e avisa o agente uma vez por faixa. Um goal por feature.
+Faixas de contexto, antes do automático (~90–95%): ~50% → anotar no canal.md fatos, aprendizados e armadilhas; ~70% → atualizar o estado e rodar /compact ; ~85% ou 3ª compactaçêo → /session-handoff , sessêo nova e /prime . No Claude Code um hook mede a % e avisa o agente uma vez por faixa. Um goal por feature.
 
 ### ⏱️ Cache entre ciclos
 
@@ -245,17 +245,17 @@ Se o orquestrador dorme entre ciclos, acorde antes do cache expirar: OpenAI 30 m
 
 ### 📋 Modo fila
 
-Backlog que cresce: o orquestrador pega a próxima tarefa, despacha numa sessão curta, confere e fecha. Para quando não há tarefa aberta (padrão do Symphony, da OpenAI, sobre o Linear). Comece com fila local em arquivos.
+Backlog que cresce: o orquestrador pega a próxima tarefa, despacha numa sessêo curta, confere e fecha. Para quando nêo há tarefa aberta (padrêo do Symphony, da OpenAI, sobre o Linear). Comece com fila local em arquivos.
 
 ### 🔎 Memória entre sessões
 
-O claude-mem funciona e serve para lembrar o que já foi feito num projeto, mas só cobre o Claude Code e guarda resumos, não o que foi dito. Para buscar palavra por palavra em tudo (Codex e Claude), use recall "termo" (índice SQLite FTS5, F8). A faxina com backup (F9) zerou a fila antiga e fechou as sessões presas. Análise em docs/pesquisa-memoria-claude-mem-2026-10.md .
+O claude-mem funciona e serve para lembrar o que já foi feito num projeto, mas só cobre o Claude Code e guarda resumos, nêo o que foi dito. Para buscar palavra por palavra em tudo (Codex e Claude), use recall "termo" (índice SQLite FTS5, F8). A faxina com backup (F9) zerou a fila antiga e fechou as sessões presas. Análise em docs/pesquisa-memoria-claude-mem-2026-10.md .
 
 ### Regras do modo fila
-- Uma tarefa por arquivo em longrun/<execução>/tasks/ , com status e campo evidencia: .
-- Fechar exige evidência (saída de teste, arquivo, hash de commit) — senão "fechar sem fazer" vira atalho.
-- O agente cria no máximo 5 tarefas por execução; acima disso, viram proposta e esperam aprovação.
-- Fila vazia → encerrar workers, registrar em progress.md e parar. Linear/GitHub Issues só com autorização para a API.
+- Uma tarefa por arquivo em longrun/<execuçêo>/tasks/ , com status e campo evidencia: .
+- Fechar exige evidência (saída de teste, arquivo, hash de commit) — senêo "fechar sem fazer" vira atalho.
+- O agente cria no máximo 5 tarefas por execuçêo; acima disso, viram proposta e esperam aprovaçêo.
+- Fila vazia → encerrar workers, registrar em progress.md e parar. Linear/GitHub Issues só com autorizaçêo para a API.
 
 Pesquisa · jul–out/2026
 
@@ -273,11 +273,11 @@ GPT-6 Astra (03/09) mantém notas entre janelas de contexto. Claude Opus 5.5 (22
 
 ### ❓ Sem fonte
 
-A sessão de 11 dias / 573 turnos / 1,3 GB não tem fonte pública. É plausível: há relatos de logs de sessão de 0,7 a 2 GB.
+A sessêo de 11 dias / 573 turnos / 1,3 GB nêo tem fonte pública. É plausível: há relatos de logs de sessêo de 0,7 a 2 GB.
 
-### 📐 Não é padrão oficial
+### 📐 Nêo é padrêo oficial
 
-Os arquivos de estado são uma divisão da mesma ideia do PLANS.md (OpenAI) e do PROGRESS.md + git (Anthropic).
+Os arquivos de estado sêo uma divisêo da mesma ideia do PLANS.md (OpenAI) e do PROGRESS.md + git (Anthropic).
 
 Material de origem
 
@@ -285,7 +285,7 @@ Material de origem
 
 O infográfico e a capa que originaram o projeto, guardados em docs/origem/ junto com os quatro textos.
 
-Infográfico: /goal, ciclo contínuo, arquivos de estado, autonomia, portões e métricas. Capa do experimento: 11 dias na mesma sessão (número sem fonte pública).
+Infográfico: /goal, ciclo contínuo, arquivos de estado, autonomia, portões e métricas. Capa do experimento: 11 dias na mesma sessêo (número sem fonte pública).
 
 Roadmap
 
@@ -295,39 +295,39 @@ Detalhes em docs/PLANO-EXECUCAO-LONGA.md .
 
 F0 ✓
 
-Documentação e templates Material de origem, pesquisa, plano e templates publicados.
+Documentaçêo e templates Material de origem, pesquisa, plano e templates publicados.
 
 F1 ✓
 
-Piloto Execução longa real (medir-sessao): goal nível 3, 14 testes congelados, loop headless — concluída no 1º ciclo, em 3 min, e conferida à parte.
+Piloto Execuçêo longa real (medir-sessao): goal nível 3, 14 testes congelados, loop headless — concluída no 1º ciclo, em 3 min, e conferida à parte.
 
 F2 ✓
 
-Medição tools/medir-sessao.py: lê 1,8 GB em ~9 s; bate com o oráculo em 2 sessões grandes e numa terceira nunca vista.
+Mediçêo tools/medir-sessao.py: lê 1,8 GB em ~9 s; bate com o oráculo em 2 sessões grandes e numa terceira nunca vista.
 
 F3 ✓
 
-Regras Bloco de execução longa nas instruções globais do Claude e do Codex; sessão nova segue sem ser lembrada.
+Regras Bloco de execuçêo longa nas instruções globais do Claude e do Codex; sessêo nova segue sem ser lembrada.
 
 F4 ✓
 
-Rede de segurança flock + timeout nos crons com agente, --max-turns, hook que lembra de reler após compactar ou retomar, resumo de compactação estruturado no Codex.
+Rede de segurança flock + timeout nos crons com agente, --max-turns, hook que lembra de reler após compactar ou retomar, resumo de compactaçêo estruturado no Codex.
 
 F5 ✓
 
-Vigia de agente tools/vigia.py a cada 10 min (timer systemd): avisa execução parada, parada sem aviso ou ociosa.
+Vigia de agente tools/vigia.py a cada 10 min (timer systemd): avisa execuçêo parada, parada sem aviso ou ociosa.
 
 F6 ◐
 
-Higiene tools/arquivar-sessoes.py pronto e testado (comprime com conferência, restaura); não aplicado — só 0,04 GB tinham mais de 90 dias.
+Higiene tools/arquivar-sessoes.py pronto e testado (comprime com conferência, restaura); nêo aplicado — só 0,04 GB tinham mais de 90 dias.
 
 F7 ◐
 
-Experimento "até onde vai" Curva retrospectiva feita: o cache não cai com as compactações; sem compactar, o custo por turno cresce ~5x. Falta o experimento prospectivo sessão única × modo fila.
+Experimento "até onde vai" Curva retrospectiva feita: o cache nêo cai com as compactações; sem compactar, o custo por turno cresce ~5x. Falta o experimento prospectivo sessêo única × modo fila.
 
 F8 ✓
 
-Busca no histórico Comando recall "termo" : índice SQLite FTS5 de tudo o que foi dito com o Codex e o Claude (sem saída de ferramenta), reindexado de hora em hora. Feito por execução longa em 1 ciclo; 90 mil trechos, busca em 0,02–0,04 s.
+Busca no histórico Comando recall "termo" : índice SQLite FTS5 de tudo o que foi dito com o Codex e o Claude (sem saída de ferramenta), reindexado de hora em hora. Feito por execuçêo longa em 1 ciclo; 90 mil trechos, busca em 0,02–0,04 s.
 
 F9 ✓
 

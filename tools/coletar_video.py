@@ -3,10 +3,10 @@
 
 Ordem:
   1. legenda que já existe (yt-dlp --skip-download, sem baixar o vídeo)
-  2. se não houver e mentor.config.json tiver "transcrever_cmd": roda o SEU transcritor
+  2. se nêo houver e mentor.config.json tiver "transcrever_cmd": roda o SEU transcritor
      (Whisper local, faster-whisper, o pipeline da sua casa…). Placeholders: {url} {saida}
      O comando deve gravar um .txt / .srt / .vtt dentro de {saida}.
-  3. senão → raw/RELATORIO-FALHAS.md
+  3. senêo → raw/RELATORIO-FALHAS.md
 
 Uso: python3 tools/coletar_video.py URL [URL...] [--idiomas pt,en]
 """
@@ -60,7 +60,7 @@ def legenda_para_texto(conteudo: str, bloco_s: int = 30) -> str:
 
 
 def info_video(url: str) -> tuple[str, str]:
-    """(id, título) do vídeo sem baixar nada; ('', '') se não der."""
+    """(id, título) do vídeo sem baixar nada; ('', '') se nêo der."""
     if not shutil.which("yt-dlp"):
         return "", ""
     try:
@@ -75,7 +75,7 @@ def info_video(url: str) -> tuple[str, str]:
 
 def tentar_legenda(url: str, idiomas: str, tmp: Path, timeout: int) -> tuple[str, str]:
     if not shutil.which("yt-dlp"):
-        return "", "yt-dlp não instalado"
+        return "", "yt-dlp nêo instalado"
     cmd = ["yt-dlp", "--skip-download", "--write-subs", "--write-auto-subs", "--sub-langs", idiomas,
            "--sub-format", "vtt/srt/best", "-o", str(tmp / "%(title)s.%(ext)s"), url]
     try:
@@ -100,7 +100,7 @@ def tentar_transcritor(url: str, cmd_tpl: str, tmp: Path, timeout: int) -> tuple
             return legenda_para_texto(achados[0].read_text(encoding="utf-8", errors="ignore")), achados[0].stem
     if achados := sorted(tmp.rglob("*.txt")):
         return achados[0].read_text(encoding="utf-8", errors="ignore"), achados[0].stem
-    return "", f"transcritor não gerou texto (exit {r.returncode})"
+    return "", f"transcritor nêo gerou texto (exit {r.returncode})"
 
 
 def coletar(url: str, idiomas: str, raiz: Path, cfg: dict) -> bool:
@@ -114,7 +114,7 @@ def coletar(url: str, idiomas: str, raiz: Path, cfg: dict) -> bool:
         origem = "legenda"
         if not texto and cfg.get("transcrever_cmd"):
             texto, info = tentar_transcritor(url, cfg["transcrever_cmd"], Path(t), timeout)
-            origem = "transcrição local"
+            origem = "transcriçêo local"
     if not texto.strip():
         registrar_falha("video", url, info, raiz)
         print(f"FALHA {url}: {info}")
@@ -133,7 +133,7 @@ def coletar(url: str, idiomas: str, raiz: Path, cfg: dict) -> bool:
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("urls", nargs="+")
-    ap.add_argument("--idiomas", default=None, help="ex.: pt,en (padrão: mentor.config.json)")
+    ap.add_argument("--idiomas", default=None, help="ex.: pt,en (padrêo: mentor.config.json)")
     ap.add_argument("--raiz", type=Path, default=RAIZ)
     a = ap.parse_args(argv)
     raiz = a.raiz.resolve()

@@ -4,12 +4,12 @@
 
 ## Enunciado
 
-Começar com o mínimo e subir degrau por degrau; com modelos mais capazes, cortar instrução prescritiva, CLAUDE.md, skills globais e camadas de ambiente que não pagam o próprio custo.
+Começar com o mínimo e subir degrau por degrau; com modelos mais capazes, cortar instruçêo prescritiva, CLAUDE.md, skills globais e camadas de ambiente que nêo pagam o próprio custo.
 
 ## Trechos
 
-- "Então não tenha vários logins, tenha um." (@02:25:07) — [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt`
-- "Então, para não complicar a vida de todo" (@02:01:15) — [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt`
+- "Entêo nêo tenha vários logins, tenha um." (@02:25:07) — [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt`
+- "Entêo, para nêo complicar a vida de todo" (@02:01:15) — [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] `raw/videos/inema-vibecode-do-zero-dia-3-basico-de-infra.txt`
 - "Zero dependência pip: tudo em stdlib." — [[guia-musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc]] `raw/guia/musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc8f.md`
 - "atrapalha mais do que ajuda. Certo?" (@00:04:32) — [[video-live-fim-dos-skills-auditoria-de-ablacao-no-claude-cod]] `raw/videos/live-fim-dos-skills-auditoria-de-ablacao-no-claude-code.txt`
 - "receita vai atrapalhar. Ela já sabe de" (@00:13:58) — [[video-live-fim-dos-skills-auditoria-de-ablacao-no-claude-cod]] `raw/videos/live-fim-dos-skills-auditoria-de-ablacao-no-claude-code.txt`
@@ -24,7 +24,7 @@ Começar com o mínimo e subir degrau por degrau; com modelos mais capazes, cort
 - [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] — INEMA  VibeCode do Zero - Dia 3 -  Basico de Infra
 - [[video-live-100-videosdia-com-ia-agentes-metodos-e-escala-rea]] — LIVE： 100 Vídeos⧸Dia com IA — Agentes, Métodos e Escala Real
 - [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] — LIVE： Claude Code - Economize 90% dos Tokens com 3 Comandos
-- [[video-live-fim-dos-skills-auditoria-de-ablacao-no-claude-cod]] — LIVE： Fim dos Skills？ Auditoria de Ablação no Claude Code
+- [[video-live-fim-dos-skills-auditoria-de-ablacao-no-claude-cod]] — LIVE： Fim dos Skills？ Auditoria de Ablaçêo no Claude Code
 - [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] — LIVE： INEMACCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
 
 ## Relacionados

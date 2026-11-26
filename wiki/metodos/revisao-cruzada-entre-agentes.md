@@ -1,10 +1,10 @@
-# Revisão cruzada entre agentes (um faz, outro revisa)
+# Revisêo cruzada entre agentes (um faz, outro revisa)
 
 - Tipo: metodo
 
 ## O que é
 
-Usar dois agentes no mesmo trabalho: um faz a primeira passada, o outro revisa o artefato real (plano, diff, resultado de teste) com o mesmo briefing, em modo só leitura. Os papéis trocam conforme a evidência da tarefa; os dois concordarem não substitui o teste.
+Usar dois agentes no mesmo trabalho: um faz a primeira passada, o outro revisa o artefato real (plano, diff, resultado de teste) com o mesmo briefing, em modo só leitura. Os papéis trocam conforme a evidência da tarefa; os dois concordarem nêo substitui o teste.
 
 ## Passos
 
@@ -12,14 +12,14 @@ Usar dois agentes no mesmo trabalho: um faz a primeira passada, o outro revisa o
 2. O primeiro agente faz: plano, ou código numa branch nova rodando os testes
 3. O segundo agente recebe o mesmo briefing e o artefato real (arquivo, diff, saída de teste), nunca um reconto, e revisa só leitura (`codex exec --sandbox read-only`, `claude -p`, `/codex:review`)
 4. Cada achado vira aceito, rejeitado com evidência ou em aberto; no máximo duas rodadas
-5. Bugs e regressões antes de estética; correção volta para quem construiu
-6. Merge, deploy e publicação só com o humano
+5. Bugs e regressões antes de estética; correçêo volta para quem construiu
+6. Merge, deploy e publicaçêo só com o humano
 
 ## Exemplos (trechos)
 
 - "dê ao segundo agente o mesmo briefing da tarefa e o artefato real (arquivo, diff, resultado de teste), nunca um reconto do que o primeiro fez." — [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]] `raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md`
-- "Os dois concordarem não é prova: eles podem dividir a mesma suposição errada." — [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]] `raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md`
-- "Sem merge, deploy nem publicação sem você." — [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]] `raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md`
+- "Os dois concordarem nêo é prova: eles podem dividir a mesma suposiçêo errada." — [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]] `raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md`
+- "Sem merge, deploy nem publicaçêo sem você." — [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]] `raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md`
 - "também é muito bom tu ter uma outra IA" (@00:08:29) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
 - "vai questionar tudo o que que foi feito," (@00:08:34) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
 

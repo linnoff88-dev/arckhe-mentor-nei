@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Fase 4 — pronto? A resposta do mentor seguiu o loop (prova externa, não autoavaliação).
+"""Fase 4 — pronto? A resposta do mentor seguiu o loop (prova externa, nêo autoavaliaçêo).
 
 Checa:
   (a) a resposta tem todas as seções do perfil (mentor.config.json → "secoes_resposta" ou "secoes_revisao")
   (b) todo ID de regra citado (R1, R2…) existe em regras.md
-  (c) com --transcript: houve ≥1 chamada Bash real, e a PREVISÃO foi escrita antes da primeira
-      execução (texto com "previs…" antes do 1º Bash que roda algo — ler/listar não conta)
+  (c) com --transcript: houve ≥1 chamada Bash real, e a PREVISêO foi escrita antes da primeira
+      execuçêo (texto com "previs…" antes do 1º Bash que roda algo — ler/listar nêo conta)
 
 Uso: python3 tools/validar_resposta.py RESPOSTA.md [--perfil ensino|revisao] [--transcript ARQ.jsonl] [--raiz DIR]
 """
@@ -22,8 +22,8 @@ from _comum import RAIZ, carregar_config, normalizar  # noqa: E402
 from validar_citacoes import ler_regras  # noqa: E402
 
 PADRAO = {
-    "ensino": ["Pronto", "Previsão", "Saída real", "Versão quebrada", "Relatório"],
-    "revisao": ["Previsão", "Reprodução", "Correção", "Lado a lado", "Relatório"],
+    "ensino": ["Pronto", "Previsêo", "Saída real", "Versêo quebrada", "Relatório"],
+    "revisao": ["Previsêo", "Reproduçêo", "Correçêo", "Lado a lado", "Relatório"],
 }
 CHAVE = {"ensino": "secoes_resposta", "revisao": "secoes_revisao"}
 SO_LE = re.compile(r"^\s*(\S+=\S*\s+)*(cat|less|more|head|tail|ls|wc|grep|rg|sed\s+-n|find|stat|file|git\s+(status|log|diff|show)|echo|pwd|tree|mkdir|cd|touch|which|type)\b")
@@ -32,12 +32,12 @@ SO_LE = re.compile(r"^\s*(\S+=\S*\s+)*(cat|less|more|head|tail|ls|wc|grep|rg|sed
 def eventos(transcript: Path) -> list[tuple[str, str]]:
     """[('T', texto) | ('B', comando)] do ASSISTENTE desta conversa, na ordem.
 
-    Pedidos (do usuário ou de quem chamou o subagente) não contam como previsão, e eventos de
-    subagentes que aparecem no stream da sessão principal (parent_tool_use_id) ficam de fora:
-    cada subagente é avaliado pela própria transcrição.
+    Pedidos (do usuário ou de quem chamou o subagente) nêo contam como previsêo, e eventos de
+    subagentes que aparecem no stream da sessêo principal (parent_tool_use_id) ficam de fora:
+    cada subagente é avaliado pela própria transcriçêo.
     """
     linhas = transcript.read_text(encoding="utf-8", errors="ignore").splitlines()
-    # comandos que um hook NEGOU (ex.: portão de previsão) não rodaram: não contam como execução
+    # comandos que um hook NEGOU (ex.: portêo de previsêo) nêo rodaram: nêo contam como execuçêo
     negados = set()
     for linha in linhas:
         if "tool_result" not in linha:
@@ -49,7 +49,7 @@ def eventos(transcript: Path) -> list[tuple[str, str]]:
         for c in (ev.get("message") or {}).get("content") or []:
             if isinstance(c, dict) and c.get("type") == "tool_result":
                 txt = json.dumps(c.get("content"), ensure_ascii=False)
-                if c.get("is_error") and re.search(r"Portão de previsão|hook.*(denied|negad|blocked)|denied by", txt, re.I):
+                if c.get("is_error") and re.search(r"Portêo de previsêo|hook.*(denied|negad|blocked)|denied by", txt, re.I):
                     negados.add(c.get("tool_use_id"))
     out = []
     for linha in linhas:
@@ -74,7 +74,7 @@ def eventos(transcript: Path) -> list[tuple[str, str]]:
 
 
 def transcricoes(transcript: Path) -> list[Path]:
-    """A transcrição dada + as dos subagentes da mesma sessão (Claude Code: <sessão>/subagents/*.jsonl)."""
+    """A transcriçêo dada + as dos subagentes da mesma sessêo (Claude Code: <sessêo>/subagents/*.jsonl)."""
     achadas = [transcript]
     sessao = transcript.stem
     for linha in transcript.read_text(encoding="utf-8", errors="ignore").splitlines()[:50]:
@@ -97,23 +97,23 @@ def contar_bash(transcript: Path) -> int:
     return sum(1 for t in transcricoes(transcript) for k, _ in eventos(t) if k == "B")
 
 
-VERSAO = re.compile(r"\s--?(version|help|V)\s*(2>\S+)?\s*$")  # consultar versão/ajuda não roda a lição
+VERSAO = re.compile(r"\s--?(version|help|V)\s*(2>\S+)?\s*$")  # consultar versêo/ajuda nêo roda a liçêo
 KIT = re.compile(r"^\s*(cd\s+\S+\s+)?python3?\s+(\S*/)?tools/(stats|validar_\w+|coletar_\w+)\.py\b")
 
 
 def executa_algo(cmd: str) -> bool:
-    """O comando roda código? Ler/listar e os scripts do próprio kit (tools/) não contam."""
-    sem_aspas = re.sub(r"\"(\\.|[^\"\\])*\"|'[^']*'", "''", cmd)  # tira o conteúdo entre aspas: "a\|b" não é pipe
+    """O comando roda código? Ler/listar e os scripts do próprio kit (tools/) nêo contam."""
+    sem_aspas = re.sub(r"\"(\\.|[^\"\\])*\"|'[^']*'", "''", cmd)  # tira o conteúdo entre aspas: "a\|b" nêo é pipe
     segmentos = [seg for seg in re.split(r"&&|\|\||;|\||\n", sem_aspas) if seg.strip()]
     return not all(SO_LE.match(seg) or KIT.match(seg) or VERSAO.search(seg) for seg in segmentos)
 
 
 def previu_antes(transcript: Path) -> bool | None:
-    """Texto com 'previs' antes do 1º Bash que executa algo — avaliado em quem DEU a lição.
+    """Texto com 'previs' antes do 1º Bash que executa algo — avaliado em quem DEU a liçêo.
 
-    Se a sessão chamou subagentes (o mentor roda como subagente), avalia cada subagente; a sessão
-    principal só orquestra e confere depois. Sem subagentes, avalia a própria sessão.
-    False se alguma transcrição avaliada rodou antes de prever; None se nenhuma executou nada.
+    Se a sessêo chamou subagentes (o mentor roda como subagente), avalia cada subagente; a sessêo
+    principal só orquestra e confere depois. Sem subagentes, avalia a própria sessêo.
+    False se alguma transcriçêo avaliada rodou antes de prever; None se nenhuma executou nada.
     """
     todas = transcricoes(transcript)
     avaliar = todas[1:] or todas
@@ -146,22 +146,22 @@ def main(argv=None) -> int:
 
     for s in secoes:
         if not any(t.startswith(normalizar(s)) for t in titulos):
-            erros.append(f"falta a seção '{s}'")
+            erros.append(f"falta a seçêo '{s}'")
 
     ids_validos = {r["id"] for r in ler_regras((raiz / "regras.md").read_text(encoding="utf-8"))}
     citados = set(re.findall(r"\bR\d+\b", texto))
     if not citados:
         erros.append("nenhuma regra citada (o relatório deve dizer qual regra guiou cada passo)")
     for rid in sorted(citados - ids_validos):
-        erros.append(f"regra citada não existe em regras.md: {rid}")
+        erros.append(f"regra citada nêo existe em regras.md: {rid}")
 
     if a.transcript:
         n = contar_bash(a.transcript)
         print(f"execuções Bash no transcript: {n}")
         if n == 0:
-            erros.append("nenhuma execução real no transcript — 'Saída real' não foi produzida rodando")
+            erros.append("nenhuma execuçêo real no transcript — 'Saída real' nêo foi produzida rodando")
         elif previu_antes(a.transcript) is False:
-            erros.append("a primeira execução veio ANTES de qualquer previsão escrita — preveja, depois rode")
+            erros.append("a primeira execuçêo veio ANTES de qualquer previsêo escrita — preveja, depois rode")
 
     print(f"seções exigidas: {len(secoes)}, regras citadas: {', '.join(sorted(citados)) or '-'}")
     if erros:

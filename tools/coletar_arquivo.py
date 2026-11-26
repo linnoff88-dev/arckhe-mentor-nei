@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Coletor de arquivos locais → raw/<tipo>/
 
-Para o que não dá (ou não vale pagar) para baixar automaticamente:
-exportação de posts de redes sociais, notas, PDFs já convertidos em texto, transcrições feitas fora.
+Para o que nêo dá (ou nêo vale pagar) para baixar automaticamente:
+exportaçêo de posts de redes sociais, notas, PDFs já convertidos em texto, transcrições feitas fora.
 
 Uso: python3 tools/coletar_arquivo.py ARQ [ARQ...] --tipo posts [--origem "export de 2026-10"]
 """
@@ -29,7 +29,7 @@ def main(argv=None) -> int:
     raiz, falhou = a.raiz.resolve(), False
     for arq in a.arquivos:
         if not arq.is_file() or arq.suffix.lower() not in TEXTO:
-            registrar_falha(a.tipo, str(arq), "não é arquivo de texto (converta para .txt/.md antes)", raiz)
+            registrar_falha(a.tipo, str(arq), "nêo é arquivo de texto (converta para .txt/.md antes)", raiz)
             print(f"FALHA {arq}")
             falhou = True
             continue

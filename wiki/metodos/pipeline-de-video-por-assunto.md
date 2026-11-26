@@ -11,38 +11,38 @@ Uma ideia vira dezenas de vídeos em etapas encadeáveis, com portões humanos (
 ### Pipeline de short por assunto (MakeShorts)
 
 1. Roteiro: ~75 palavras, gancho em 3 s, fatos de fonte oficial, 3 versões para escolher
-2. Voz/rosto: gravação humana, voz local ou API, ou avatar HeyGen
+2. Voz/rosto: gravaçêo humana, voz local ou API, ou avatar HeyGen
 3. B-roll real do site/GitHub
-4. Edição 9:16 (visual em cima, rosto embaixo, legenda palavra a palavra, punch-in, SFX)
-5. QA com qa_short.py (duração, 1080x1920, loudness, gancho visual, hashtags, CTA); exit 1 reprova
-6. Legenda + até 5 hashtags + rótulo de IA; agendar no Metricool só após confirmação
+4. Ediçêo 9:16 (visual em cima, rosto embaixo, legenda palavra a palavra, punch-in, SFX)
+5. QA com qa_short.py (duraçêo, 1080x1920, loudness, gancho visual, hashtags, CTA); exit 1 reprova
+6. Legenda + até 5 hashtags + rótulo de IA; agendar no Metricool só após confirmaçêo
 7. Funil: CTA comenta PALAVRA vira DM automática com o link
 
 ### Pipeline de vídeo por assunto (promo avatar)
 
-1. Discutir a ideia com a IA até fechar a intenção (sem prompt ainda)
-2. Disparar o fluxo com parâmetros (alvo, variante, estúdio, portão/sem portão)
-3. Validar parâmetros e recusar cedo se não fecham
-4. Gerar roteiros com modelo bom (12 públicos × alcance/autoridade/promoção)
+1. Discutir a ideia com a IA até fechar a intençêo (sem prompt ainda)
+2. Disparar o fluxo com parâmetros (alvo, variante, estúdio, portêo/sem portêo)
+3. Validar parâmetros e recusar cedo se nêo fecham
+4. Gerar roteiros com modelo bom (12 públicos × alcance/autoridade/promoçêo)
 5. Gerar avatar via estúdio (navegador, sem API), baixar e montar reels com template
 6. Revisor confere as regras em loop; juntar CTA; mover para o destino do canal
 
-### Pipeline de vídeo em escala com portões de aprovação
+### Pipeline de vídeo em escala com portões de aprovaçêo
 
 1. Passar uma ideia ao agente (Telegram)
 2. O agente gera roteiros adaptados a N públicos (40+, 60+, criadores, educadores...)
-3. Portão 1: ler e aprovar o texto
+3. Portêo 1: ler e aprovar o texto
 4. Gerar os avatares (HeyGen) e aprovar a fase
 5. Montar os reels (imagem, legenda, logotipo) e publicar nos canais
 6. Acompanhar o status e testar a quantidade de vídeos por canal
 
 ## Exemplos (trechos)
 
-- "Roteiro → Voz ou avatar → B-roll real → Edição 9:16 → QA → Agendar → Funil de DM" — [[guia-makeshorts-fabrica-de-shorts-com-ia-70fe54]] `raw/guia/makeshorts-fabrica-de-shorts-com-ia-70fe54.md`
-- "As que custam dinheiro ou publicam sempre pedem sua confirmação." — [[guia-makeshorts-fabrica-de-shorts-com-ia-70fe54]] `raw/guia/makeshorts-fabrica-de-shorts-com-ia-70fe54.md`
+- "Roteiro → Voz ou avatar → B-roll real → Ediçêo 9:16 → QA → Agendar → Funil de DM" — [[guia-makeshorts-fabrica-de-shorts-com-ia-70fe54]] `raw/guia/makeshorts-fabrica-de-shorts-com-ia-70fe54.md`
+- "As que custam dinheiro ou publicam sempre pedem sua confirmaçêo." — [[guia-makeshorts-fabrica-de-shorts-com-ia-70fe54]] `raw/guia/makeshorts-fabrica-de-shorts-com-ia-70fe54.md`
 - "minha ideia. Veja, nada de promte, nada." (@01:33:50) — [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
 - "E aí entra o revisor, ele olha se" (@01:54:26) — [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] `raw/videos/live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero-por-v.txt`
-- "uma pessoa, né? um público alvo. Então" (@01:09:06) — [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] `raw/videos/live-36-videos-por-assunto-com-agentes-ia-no-piloto-automati.txt`
+- "uma pessoa, né? um público alvo. Entêo" (@01:09:06) — [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] `raw/videos/live-36-videos-por-assunto-com-agentes-ia-no-piloto-automati.txt`
 - "vídeos. Só que antes ele vai me dar o" (@00:22:46) — [[video-live-100-videosdia-com-ia-agentes-metodos-e-escala-rea]] `raw/videos/live-100-videosdia-com-ia-agentes-metodos-e-escala-real.txt`
 - "comandei a Iá e ela tá trabalhando em" (@00:18:06) — [[video-live-100-videosdia-com-ia-agentes-metodos-e-escala-rea]] `raw/videos/live-100-videosdia-com-ia-agentes-metodos-e-escala-real.txt`
 - "tenho quatro fases aqui. O texto é, você" (@01:25:58) — [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] `raw/videos/live-empresa-agentica-agentes-de-ia-no-comando-do-negocio.txt`

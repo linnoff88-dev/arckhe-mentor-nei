@@ -1,4 +1,4 @@
-# Orquestrar, não reinventar
+# Orquestrar, nêo reinventar
 
 - Tipo: principio
 
@@ -8,8 +8,8 @@ Combinar ferramentas e modelos que já funcionam (HyperFrames, inemavox, HeyGen,
 
 ## Trechos
 
-- "Chama o que já funciona: HyperFrames para editar, inemavox para voz e transcrição" — [[guia-makeshorts-fabrica-de-shorts-com-ia-70fe54]] `raw/guia/makeshorts-fabrica-de-shorts-com-ia-70fe54.md`
-- "Então a lógica da I é a mesma coisa, né?" (@02:54:13) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "Chama o que já funciona: HyperFrames para editar, inemavox para voz e transcriçêo" — [[guia-makeshorts-fabrica-de-shorts-com-ia-70fe54]] `raw/guia/makeshorts-fabrica-de-shorts-com-ia-70fe54.md`
+- "Entêo a lógica da I é a mesma coisa, né?" (@02:54:13) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
 
 ## Fontes
 

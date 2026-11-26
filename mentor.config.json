@@ -20,9 +20,9 @@
   },
   "secoes_resposta": [
     "Pronto",
-    "Previsão",
+    "Previsêo",
     "Saída real",
-    "Versão quebrada",
+    "Versêo quebrada",
     "Relatório"
   ],
   "portao": {
@@ -35,9 +35,9 @@
     ]
   },
   "secoes_revisao": [
-    "Previsão",
-    "Reprodução",
-    "Correção",
+    "Previsêo",
+    "Reproduçêo",
+    "Correçêo",
     "Lado a lado",
     "Relatório"
   ]

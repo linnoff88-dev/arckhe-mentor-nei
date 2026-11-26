@@ -9,12 +9,12 @@ O formato de aula dele: em vez de slides, abre o próprio sistema rodando e cons
 ## Passos
 
 1. Abrir com o porquê e uma analogia do cotidiano (estagiário x 20 anos de empresa, escola antes da faculdade) antes do como
-2. Mostrar o próprio sistema em produção (fila, status, pastas, canais), com os erros à mostra
+2. Mostrar o próprio sistema em produçêo (fila, status, pastas, canais), com os erros à mostra
 3. Disparar uma tarefa real no começo e voltar a ela no meio da live para aprovar ao vivo
 4. Instalar/construir do zero numa máquina limpa, de propósito, para a turma ver os erros que vai encontrar
 5. Quando quebra: levar o erro ao chat/agente, corrigir, refazer o mesmo teste (ver [[depurar-ao-vivo]])
 6. Pôr número no que mostra (tokens, créditos, custo mensal) e responder o chat aplicando a regra na hora
-7. Transformar o que deu certo em documentação, script ou tarefa de melhoria
+7. Transformar o que deu certo em documentaçêo, script ou tarefa de melhoria
 
 ## Exemplos (trechos)
 
@@ -31,7 +31,7 @@ O formato de aula dele: em vez de slides, abre o próprio sistema rodando e cons
 - [[video-live-100-videosdia-com-ia-agentes-metodos-e-escala-rea]] — LIVE： 100 Vídeos⧸Dia com IA — Agentes, Métodos e Escala Real
 - [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] — LIVE： 36 Vídeos por Assunto com Agentes IA no Piloto Automático
 - [[video-live-agentes-workers-filas-e-skills-arquitetura-ia]] — LIVE： Agentes, Workers, Filas e Skills - Arquitetura IA
-- [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]] — LIVE： Bench Studio com 81 Modelos de IA - Instalação do Zero
+- [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]] — LIVE： Bench Studio com 81 Modelos de IA - Instalaçêo do Zero
 - [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] — LIVE： Claude Code - Economize 90% dos Tokens com 3 Comandos
 - [[video-live-deepseek-harness-orquestre-ias-e-corte-custos-em-]] — LIVE： DeepSeek Harness - Orquestre IAs e Corte Custos em 95x
 - [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] — LIVE： Empresa Agêntica - Agentes de IA no Comando do Negócio

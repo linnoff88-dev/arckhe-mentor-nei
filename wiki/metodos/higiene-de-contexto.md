@@ -26,13 +26,13 @@ Rotina para baixar o contexto sem perder decisões: acompanhar o % na statusline
 
 ## Exemplos (trechos)
 
-- "Sessão → handoff em Markdown → nova sessão lê o handoff (prime)." — [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]] `raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md`
-- "Handoff não é permissão." — [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]] `raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md`
+- "Sessêo → handoff em Markdown → nova sessêo lê o handoff (prime)." — [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]] `raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md`
+- "Handoff nêo é permissêo." — [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]] `raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md`
 - "Mandei limpar o meu contexto, ó. Sempre" (@00:29:26) — [[video-live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia]] `raw/videos/live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia.txt`
 - "tiver em 40, vai lá, terminou uma" (@01:11:57) — [[video-live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia]] `raw/videos/live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia.txt`
-- "e e o Status Line são três coisas que é" (@00:22:03) — [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] `raw/videos/live-claude-code-economize-90-dos-tokens-com-3-comandos.txt`
+- "e e o Status Line sêo três coisas que é" (@00:22:03) — [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] `raw/videos/live-claude-code-economize-90-dos-tokens-com-3-comandos.txt`
 - "mas daí terminou a etapa, você vai" (@00:24:14) — [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] `raw/videos/live-claude-code-economize-90-dos-tokens-com-3-comandos.txt`
-- "ele vai fazer resumo e não comprimir." (@00:27:48) — [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] `raw/videos/live-claude-code-economize-90-dos-tokens-com-3-comandos.txt`
+- "ele vai fazer resumo e nêo comprimir." (@00:27:48) — [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] `raw/videos/live-claude-code-economize-90-dos-tokens-com-3-comandos.txt`
 - "Agora ele gasta só 6%. Se nós pensar que" (@00:29:37) — [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] `raw/videos/live-claude-code-economize-90-dos-tokens-com-3-comandos.txt`
 
 ## Fontes

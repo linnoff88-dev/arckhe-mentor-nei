@@ -11,12 +11,12 @@ Antes de deixar um agente em loop, definir o objetivo, a métrica de sucesso, a 
 1. Dizer o que quer atingir (/goal)
 2. Definir a métrica de sucesso
 3. Definir a métrica de cancelamento e o máximo de tentativas (ex.: 3)
-4. Em produção: retry de 2 e, se falhar, marcar falha e refazer sob comando
+4. Em produçêo: retry de 2 e, se falhar, marcar falha e refazer sob comando
 
 ## Exemplos (trechos)
 
 - "quer atingir? Qual é a tua métrica de" (@00:15:54) — [[video-live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia]] `raw/videos/live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia.txt`
-- "duas vezes. Se ele não consegue, falha," (@00:45:29) — [[video-live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia]] `raw/videos/live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia.txt`
+- "duas vezes. Se ele nêo consegue, falha," (@00:45:29) — [[video-live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia]] `raw/videos/live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia.txt`
 
 ## Fontes
 

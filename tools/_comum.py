@@ -1,4 +1,4 @@
-"""Funções compartilhadas pelos scripts do mentor (só biblioteca padrão)."""
+"""Funções compartilhadas pelos scripts do mentor (só biblioteca padrêo)."""
 from __future__ import annotations
 
 import contextlib
@@ -44,7 +44,7 @@ def slugificar(texto: str, limite: int = 60) -> str:
 
 
 def normalizar(texto: str) -> str:
-    """Caixa, acentos, pontuação, espaços e marcas de tempo [hh:mm:ss] fora — transcrição nunca é literal."""
+    """Caixa, acentos, pontuaçêo, espaços e marcas de tempo [hh:mm:ss] fora — transcriçêo nunca é literal."""
     texto = re.sub(r"\[\d{1,2}:\d{2}(:\d{2})?\]", " ", texto)
     t = unicodedata.normalize("NFKD", texto).encode("ascii", "ignore").decode().lower()
     t = re.sub(r"[^a-z0-9]+", " ", t)
@@ -58,7 +58,7 @@ def ler_manifesto(raiz: Path = RAIZ) -> list[dict]:
 
 @contextlib.contextmanager
 def trava(raiz: Path = RAIZ):
-    """Trava exclusiva do manifesto: coletores em paralelo (um subagente por fonte) não se atropelam."""
+    """Trava exclusiva do manifesto: coletores em paralelo (um subagente por fonte) nêo se atropelam."""
     (raiz / "raw").mkdir(parents=True, exist_ok=True)
     with open(raiz / "raw" / ".manifesto.lock", "w") as f:
         if fcntl:

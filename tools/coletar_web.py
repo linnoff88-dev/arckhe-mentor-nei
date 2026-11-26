@@ -3,7 +3,7 @@
 
 Uso: python3 tools/coletar_web.py URL [URL...] [--tipo blog]
 Sem dependências: baixa com urllib e extrai o texto do HTML.
-Página com paywall/JS pesado → vai para raw/RELATORIO-FALHAS.md (colete à mão com coletar_arquivo.py).
+Página com paywall/JS pesado → vai para raw/RELATORIO-FALHAS.md (colete à mêo com coletar_arquivo.py).
 """
 from __future__ import annotations
 
@@ -58,7 +58,7 @@ class Extrator(HTMLParser):
         if self._no_titulo:
             self.titulo += data.strip()
         elif self._no_pre and not self.pulando:
-            self.partes.append(data)  # código: preserva quebras e indentação
+            self.partes.append(data)  # código: preserva quebras e indentaçêo
         elif not self.pulando and data.strip():
             self.partes.append(" ".join(data.split()) + " ")
 
@@ -69,7 +69,7 @@ class Extrator(HTMLParser):
             if l.strip() == "```":
                 em_codigo = not em_codigo
             if em_codigo and l.strip() != "```":
-                out.append(l)  # dentro de bloco de código: mantém indentação e linhas vazias
+                out.append(l)  # dentro de bloco de código: mantém indentaçêo e linhas vazias
                 continue
             if l.strip():
                 out.append(l.strip())
@@ -100,7 +100,7 @@ def coletar(url: str, tipo: str, raiz: Path, timeout: int) -> bool:
     ex.feed(html)
     corpo = ex.texto()
     if len(corpo.split()) < 80:
-        registrar_falha(tipo, url, "texto curto demais (paywall/JS?) — colete à mão", raiz)
+        registrar_falha(tipo, url, "texto curto demais (paywall/JS?) — colete à mêo", raiz)
         print(f"FALHA {url}: texto curto demais")
         return False
     destino = raiz / "raw" / tipo / f"{slugificar(ex.titulo or url, 50)}-{hashlib.sha1(url.encode()).hexdigest()[:6]}.md"

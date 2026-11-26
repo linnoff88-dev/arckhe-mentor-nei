@@ -1,4 +1,4 @@
-# Construir o próprio sistema (não só copiar)
+# Construir o próprio sistema (nêo só copiar)
 
 - Tipo: principio
 
@@ -9,7 +9,7 @@ Pegar exemplos (inclusive os dele), abrir, testar e adaptar, em vez de depender 
 ## Trechos
 
 - "usar sistema dos outros. Vocês têm que" (@01:38:35) — [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] `raw/videos/live-36-videos-por-assunto-com-agentes-ia-no-piloto-automati.txt`
-- "E não só copiam, senão vocês vão ser" (@00:45:20) — [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] `raw/videos/live-36-videos-por-assunto-com-agentes-ia-no-piloto-automati.txt`
+- "E nêo só copiam, senêo vocês vêo ser" (@00:45:20) — [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] `raw/videos/live-36-videos-por-assunto-com-agentes-ia-no-piloto-automati.txt`
 
 ## Fontes
 

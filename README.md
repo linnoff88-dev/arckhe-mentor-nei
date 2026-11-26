@@ -1,20 +1,20 @@
-﻿# mentor-nei â€” piloto real do kit Mentor-Especialista
+ï»¿# mentor-nei ê¢â¬â piloto real do kit Mentor-Especialista
 
-Mentor no Claude Code que ensina **no mÃ©todo do Nei Maldaner (INEMA)**: usar Claude Code e agentes de IA na prÃ¡tica, construindo junto. Foi gerado com o kit **[inematds/mentor-especialista](https://github.com/inematds/mentor-especialista)** e serve de **exemplo real completo**: acervo, wiki, regras com citaÃ§Ã£o, testes e o diÃ¡rio do piloto.
+Mentor no Claude Code que ensina **no mêÂ©todo do Nei Maldaner (INEMA)**: usar Claude Code e agentes de IA na prêÂ¡tica, construindo junto. Foi gerado com o kit **[inematds/mentor-especialista](https://github.com/inematds/mentor-especialista)** e serve de **exemplo real completo**: acervo, wiki, regras com citaêÂ§êÂ£o, testes e o diêÂ¡rio do piloto.
 
-> Copia o mÃ©todo, nÃ£o a pessoa. O acervo Ã© conteÃºdo pÃºblico do prÃ³prio Nei (lives do canal [@inematdsx](https://www.youtube.com/@inematdsx) e guias em inematds.github.io), publicado aqui com autorizaÃ§Ã£o dele.
+> Copia o mêÂ©todo, nêÂ£o a pessoa. O acervo êÂ© conteêÂºdo pêÂºblico do prêÂ³prio Nei (lives do canal [@inematdsx](https://www.youtube.com/@inematdsx) e guias em inematds.github.io), publicado aqui com autorizaêÂ§êÂ£o dele.
 
-## NÃºmeros
+## NêÂºmeros
 
 | | |
 |---|---|
 | Fontes | 22 (14 lives + 8 guias) |
-| Palavras | ~189 mil (legendas pÃºblicas + 1 transcriÃ§Ã£o local) |
-| Wiki | 76 pÃ¡ginas, ~1.300 links (fontes, temas, princÃ­pios, mÃ©todos) |
-| Regras | 10, todas ativas, 40 citaÃ§Ãµes conferidas por script |
-| Piloto | **5/5** critÃ©rios (4/5 atÃ© o portÃ£o de previsÃ£o do kit 1.3), nota 8 em "reconheÃ§o a pessoa nas regras" |
+| Palavras | ~189 mil (legendas pêÂºblicas + 1 transcriêÂ§êÂ£o local) |
+| Wiki | 76 pêÂ¡ginas, ~1.300 links (fontes, temas, princêÂ­pios, mêÂ©todos) |
+| Regras | 10, todas ativas, 40 citaêÂ§êÂµes conferidas por script |
+| Piloto | **5/5** critêÂ©rios (4/5 atêÂ© o portêÂ£o de previsêÂ£o do kit 1.3), nota 8 em "reconheêÂ§o a pessoa nas regras" |
 
-As regras mais fortes, pelo nÃºmero de fontes: **conferir o resultado real antes de dizer "pronto"**, **definir o critÃ©rio de pronto antes de comeÃ§ar**, **medir com e sem antes de acreditar** e **usar o menor custo que resolve**. Veja [`regras.md`](regras.md) e [`wiki/hot.md`](wiki/hot.md).
+As regras mais fortes, pelo nêÂºmero de fontes: **conferir o resultado real antes de dizer "pronto"**, **definir o critêÂ©rio de pronto antes de comeêÂ§ar**, **medir com e sem antes de acreditar** e **usar o menor custo que resolve**. Veja [`regras.md`](regras.md) e [`wiki/hot.md`](wiki/hot.md).
 
 ## Usar
 
@@ -35,20 +35,20 @@ Dentro do Claude Code:
 
 ## O que olhar
 
-- [`PILOTO-DIARIO.md`](PILOTO-DIARIO.md): tudo o que aconteceu em cada fase, o placar e as correÃ§Ãµes que viraram o kit 1.2
-- [`testes/aceitacao/RESULTADOS.md`](testes/aceitacao/RESULTADOS.md): os 3 testes de aceitaÃ§Ã£o e as evidÃªncias
-- [`testes/respostas/`](testes/respostas/): liÃ§Ãµes reais do mentor (com PrevisÃ£o â†’ SaÃ­da real â†’ VersÃ£o quebrada â†’ RelatÃ³rio)
-- [`exemplos/hook-todo-stop/`](exemplos/hook-todo-stop/): o cÃ³digo que o mentor construiu no teste 1, incluindo a versÃ£o ingÃªnua que entra em loop infinito
-- [`FALHAS.md`](FALHAS.md): falhas de operaÃ§Ã£o e a menor correÃ§Ã£o de cada uma
+- [`PILOTO-DIARIO.md`](PILOTO-DIARIO.md): tudo o que aconteceu em cada fase, o placar e as correêÂ§êÂµes que viraram o kit 1.2
+- [`testes/aceitacao/RESULTADOS.md`](testes/aceitacao/RESULTADOS.md): os 3 testes de aceitaêÂ§êÂ£o e as evidêÂªncias
+- [`testes/respostas/`](testes/respostas/): liêÂ§êÂµes reais do mentor (com PrevisêÂ£o ê¢â â SaêÂ­da real ê¢â â VersêÂ£o quebrada ê¢â â RelatêÂ³rio)
+- [`exemplos/hook-todo-stop/`](exemplos/hook-todo-stop/): o cêÂ³digo que o mentor construiu no teste 1, incluindo a versêÂ£o ingêÂªnua que entra em loop infinito
+- [`FALHAS.md`](FALHAS.md): falhas de operaêÂ§êÂ£o e a menor correêÂ§êÂ£o de cada uma
 
-## Atualizar para a versÃ£o nova do kit
+## Atualizar para a versêÂ£o nova do kit
 
 ```bash
 python3 ../mentor-especialista/novo-mentor.py --atualizar .
 ```
 
-LicenÃ§a MIT (cÃ³digo). O conteÃºdo de `raw/` pertence ao autor; Ã© usado aqui para estudo.
+LicenêÂ§a MIT (cêÂ³digo). O conteêÂºdo de `raw/` pertence ao autor; êÂ© usado aqui para estudo.
 
 ---
 
-Projeto adaptado da comunidade INEMA TDS - Marca Arckhe
+Projeto  - ARCKHÉe

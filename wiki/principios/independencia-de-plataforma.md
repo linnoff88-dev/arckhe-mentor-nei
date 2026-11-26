@@ -4,14 +4,14 @@
 
 ## Enunciado
 
-Entender a estrutura (harness, infraestrutura) para montar o próprio sistema, trocando peças e motores, e usar ferramentas de terceiros só como casca, para não depender de soluções dos outros.
+Entender a estrutura (harness, infraestrutura) para montar o próprio sistema, trocando peças e motores, e usar ferramentas de terceiros só como casca, para nêo depender de soluções dos outros.
 
 ## Trechos
 
 - "Claude, Codex, Gemini ou modelo local viram só executores." — [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]] `raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md`
 - "O resumo estruturado viaja pra qualquer provedor." — [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]] `raw/guia/agente-claude-codex-migrar-do-claude-pro-codex-ou--ac8311.md`
-- "Se você não aprender isso aqui, você vai sempre estar dependendo de soluções dos outros." (@00:10:38) — [[video-transcript]] `raw/videos/transcript.txt`
-- "a gente não sabe, então eu uso eles como uma casca, tá bom?" (@00:42:55) — [[video-transcript]] `raw/videos/transcript.txt`
+- "Se você nêo aprender isso aqui, você vai sempre estar dependendo de soluções dos outros." (@00:10:38) — [[video-transcript]] `raw/videos/transcript.txt`
+- "a gente nêo sabe, entêo eu uso eles como uma casca, tá bom?" (@00:42:55) — [[video-transcript]] `raw/videos/transcript.txt`
 - "Simplesmente você vai trocando as peças, vai integrando naquilo que é proposta." (@00:18:04) — [[video-transcript]] `raw/videos/transcript.txt`
 - "O motor mora no plano, nunca no código." — [[guia-musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc]] `raw/guia/musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc8f.md`
 

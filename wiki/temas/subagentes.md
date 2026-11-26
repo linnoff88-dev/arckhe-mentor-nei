@@ -10,7 +10,7 @@ Subagente tem contexto próprio: é o caminho preferido para rotear partes do tr
 - "que vai buscar na fila e vai mandar executar pelos subagentes, certo?" (@00:13:10) [[video-transcript]]
 - Agente central da empresa agêntica gerencia subagentes e skills [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]]
 - Máquina de publicar com agente que distribui o trabalho [[video-live-100-videosdia-com-ia-agentes-metodos-e-escala-rea]]
-- Revisão por outro agente/runtime (codex exec read-only, claude -p) recebe o artefato real, não um reconto [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]]
+- Revisêo por outro agente/runtime (codex exec read-only, claude -p) recebe o artefato real, nêo um reconto [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]]
 
 ## Fontes
 

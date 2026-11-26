@@ -4,7 +4,7 @@
 
 ## O que é
 
-Sequência de infraestrutura antes do primeiro prompt: pasta de projetos, agente instalado, login pela assinatura, chave SSH no destino, Git e só então deploy.
+Sequência de infraestrutura antes do primeiro prompt: pasta de projetos, agente instalado, login pela assinatura, chave SSH no destino, Git e só entêo deploy.
 
 ## Passos
 

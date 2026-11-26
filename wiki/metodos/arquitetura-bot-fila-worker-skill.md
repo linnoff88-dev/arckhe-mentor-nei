@@ -17,7 +17,7 @@ Como ele monta um sistema de agentes que aceita várias tarefas sem travar: entr
 
 ## Exemplos (trechos)
 
-- "certo? Então eu tenho uma entrada geral," (@00:35:13) — [[video-live-agentes-workers-filas-e-skills-arquitetura-ia]] `raw/videos/live-agentes-workers-filas-e-skills-arquitetura-ia.txt`
+- "certo? Entêo eu tenho uma entrada geral," (@00:35:13) — [[video-live-agentes-workers-filas-e-skills-arquitetura-ia]] `raw/videos/live-agentes-workers-filas-e-skills-arquitetura-ia.txt`
 - "disse? Cria uma fila, cria um worker." (@00:33:39) — [[video-live-agentes-workers-filas-e-skills-arquitetura-ia]] `raw/videos/live-agentes-workers-filas-e-skills-arquitetura-ia.txt`
 - "uma fila pro trabalho mais demorado, uma" (@00:33:48) — [[video-live-agentes-workers-filas-e-skills-arquitetura-ia]] `raw/videos/live-agentes-workers-filas-e-skills-arquitetura-ia.txt`
 

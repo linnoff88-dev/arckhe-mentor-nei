@@ -50,12 +50,12 @@ def main(argv=None) -> int:
                 faltam.append(f"{m['itens'] - v['itens']} item(ns)")
             if v["palavras"] < m.get("palavras", 0):
                 faltam.append(f"{m['palavras'] - v['palavras']} palavras")
-            erros.append(f"meta não batida em '{tipo}': faltam {' e '.join(faltam)}")
+            erros.append(f"meta nêo batida em '{tipo}': faltam {' e '.join(faltam)}")
     total = sum(v["palavras"] for v in por_tipo.values())
     print(f"{'TOTAL':<12}{len(itens):>7}{total:>11}")
 
     if not (raiz / "raw" / "RELATORIO-FALHAS.md").exists():
-        erros.append("raw/RELATORIO-FALHAS.md não existe (crie mesmo vazio: prova que as falhas foram olhadas)")
+        erros.append("raw/RELATORIO-FALHAS.md nêo existe (crie mesmo vazio: prova que as falhas foram olhadas)")
 
     if erros:
         print("\nREPROVADO:")

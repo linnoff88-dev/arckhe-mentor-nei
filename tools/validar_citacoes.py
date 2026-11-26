@@ -1,21 +1,21 @@
 #!/usr/bin/env python3
-"""Fase 3 — pronto? Toda citação de regras.md existe no raw/ e o status bate.
+"""Fase 3 — pronto? Toda citaçêo de regras.md existe no raw/ e o status bate.
 
 Formato esperado em regras.md (um bloco por regra):
 
     ## R1 — Construa para entender
     - status: ativa            # ativa | banco | inferencia
-    - enunciado: Se não consegue construir, ainda não entendeu.
+    - enunciado: Se nêo consegue construir, ainda nêo entendeu.
     - citacoes:
       - "trecho literal curto" — raw/blog/post.md#L12
       - "outro trecho" — raw/videos/abc.txt@00:12:30
 
 Status:
   ativa      → ≥2 citações de ARQUIVOS diferentes
-  banco      → ≥1 citação
+  banco      → ≥1 citaçêo
   inferencia → 0 citações permitidas (o agente avisa que está inferindo)
 
-A busca é feita em texto normalizado (caixa, acentos, pontuação, espaços).
+A busca é feita em texto normalizado (caixa, acentos, pontuaçêo, espaços).
 Uso: python3 tools/validar_citacoes.py [--raiz DIR] [--regras ARQ]
 """
 from __future__ import annotations
@@ -77,12 +77,12 @@ def main(argv=None) -> int:
                 encontradas += 1
             else:
                 faltando += 1
-                erros.append(f"{r['id']}: citação não encontrada em {c['arquivo']}: \"{c['trecho'][:60]}\"")
+                erros.append(f"{r['id']}: citaçêo nêo encontrada em {c['arquivo']}: \"{c['trecho'][:60]}\"")
         arquivos = {c["arquivo"] for c in r["citacoes"]}
         if r["status"] == "ativa" and len(arquivos) < 2:
             erros.append(f"{r['id']}: 'ativa' exige ≥2 fontes diferentes (tem {len(arquivos)}) — mova para 'banco'")
         if r["status"] == "banco" and not arquivos:
-            erros.append(f"{r['id']}: 'banco' exige ≥1 citação — ou marque 'inferencia'")
+            erros.append(f"{r['id']}: 'banco' exige ≥1 citaçêo — ou marque 'inferencia'")
 
     ativas = sum(r["status"] == "ativa" for r in regras)
     print(f"{len(regras)} regras ({ativas} ativas), {encontradas} citações encontradas, {faltando} faltando")

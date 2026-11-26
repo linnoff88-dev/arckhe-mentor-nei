@@ -20,7 +20,7 @@ CODIGO = {".py", ".js", ".ts", ".go", ".rs", ".c", ".cpp", ".h", ".java", ".rb",
 
 
 def cabecalho_comentado(texto: str, limite: int = 60) -> str:
-    """Primeiro bloco de comentário/docstring do arquivo — onde mora a explicação."""
+    """Primeiro bloco de comentário/docstring do arquivo — onde mora a explicaçêo."""
     linhas = texto.splitlines()[:limite]
     bloco, dentro = [], False
     for l in linhas:

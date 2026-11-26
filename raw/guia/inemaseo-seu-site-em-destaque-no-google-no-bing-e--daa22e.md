@@ -4,21 +4,21 @@ Origem: https://inematds.github.io/inemaseo-metodo/guia/
 
 O que é
 
-## Um método, não um truque
+## Um método, nêo um truque
 
-Dez etapas que vão do raio-x do site até o aviso aos buscadores, com scripts prontos e modelos que você adapta ao seu site.
+Dez etapas que vêo do raio-x do site até o aviso aos buscadores, com scripts prontos e modelos que você adapta ao seu site.
 
-### 🧱 Fundação primeiro
+### 🧱 Fundaçêo primeiro
 
 Canônico único, sitemaps com idioma, robots que libera as IAs, llms.txt e páginas rasas fora do índice. Sem isso, nenhum conteúdo rende.
 
 ### 🧾 Só dado real
 
-Cada página se apoia num curso, projeto, evento ou experimento que existe. O LLM extrai e reescreve; um validador descarta o que não está na fonte.
+Cada página se apoia num curso, projeto, evento ou experimento que existe. O LLM extrai e reescreve; um validador descarta o que nêo está na fonte.
 
 ### 📏 Medido sem a marca
 
-O número que importa é o de buscas que não têm o seu nome: gente que não te conhecia e te achou. O export semanal separa isso.
+O número que importa é o de buscas que nêo têm o seu nome: gente que nêo te conhecia e te achou. O export semanal separa isso.
 
 O método
 
@@ -26,19 +26,19 @@ O método
 
 Na ordem em que aplicamos. O detalhe de cada uma está em docs/METODO.md .
 
-1 Auditoria → 2 Fundação técnica → 3 Medição sem marca → 4 Entidade → 5 Território por site → 6 Conteúdo próprio → 7 Hubs e links internos → 8 Links de volta → 9 Notícias com página → 10 Avisar e acompanhar
+1 Auditoria → 2 Fundaçêo técnica → 3 Mediçêo sem marca → 4 Entidade → 5 Território por site → 6 Conteúdo próprio → 7 Hubs e links internos → 8 Links de volta → 9 Notícias com página → 10 Avisar e acompanhar
 
 ### 1 · Auditoria real
 
-Olhe o HTML que o servidor entrega: canônico, hreflang, JSON-LD e quantos links internos existem. Página sem link é página que quase não existe.
+Olhe o HTML que o servidor entrega: canônico, hreflang, JSON-LD e quantos links internos existem. Página sem link é página que quase nêo existe.
 
-### 2 · Fundação técnica
+### 2 · Fundaçêo técnica
 
-Um canônico só (www ou não), sitemap com lastModified real, robots liberando os robôs das IAs, llms.txt e um manifesto content-index.json por site.
+Um canônico só (www ou nêo), sitemap com lastModified real, robots liberando os robôs das IAs, llms.txt e um manifesto content-index.json por site.
 
-### 3 · Medição sem marca
+### 3 · Mediçêo sem marca
 
-Export semanal do Search Console separando as buscas pela marca, inspeção de URL e uma meta de conversão no analytics.
+Export semanal do Search Console separando as buscas pela marca, inspeçêo de URL e uma meta de conversêo no analytics.
 
 ### 4 · Entidade
 
@@ -46,7 +46,7 @@ Uma Person e uma Organization com @id fixo, citadas por todas as páginas e por 
 
 ### 5 · Território por site
 
-Guia evergreen no site principal, novidade no site de notícias, evento no site de eventos. Uma página dona para cada intenção de busca.
+Guia evergreen no site principal, novidade no site de notícias, evento no site de eventos. Uma página dona para cada intençêo de busca.
 
 ### 6 · Conteúdo próprio
 
@@ -66,7 +66,7 @@ Uma URL por notícia e idioma, NewsArticle , arquivo que nunca é podado e corpo
 
 ### 10 · Avisar e acompanhar
 
-IndexNow e Bing a cada publicação (o ChatGPT e o Copilot usam o índice do Bing), sitemap no Search Console e leitura semanal.
+IndexNow e Bing a cada publicaçêo (o ChatGPT e o Copilot usam o índice do Bing), sitemap no Search Console e leitura semanal.
 
 Pré-requisitos
 
@@ -76,7 +76,7 @@ Tudo gratuito. As contas de busca precisam do site verificado.
 
 ### Google Search Console
 
-Propriedade de domínio verificada e o gcloud com credenciais de aplicação, para os scripts de medição.
+Propriedade de domínio verificada e o gcloud com credenciais de aplicaçêo, para os scripts de mediçêo.
 
 ```
 gcloud auth application-default login \
@@ -95,7 +95,7 @@ openssl rand -hex 16
 
 ### Ferramentas locais
 
-git, curl, Python 3 e Node 18+. Um agente de IA (Claude Code ou Codex CLI) para as etapas de extração e redação.
+git, curl, Python 3 e Node 18+. Um agente de IA (Claude Code ou Codex CLI) para as etapas de extraçêo e redaçêo.
 
 ```
 git clone https://github.com/inematds/inemaseo-metodo
@@ -105,7 +105,7 @@ Passo a passo
 
 ## Aplicando no seu site
 
-Os comandos são os scripts deste repositório. Troque seusite.com pelo seu domínio.
+Os comandos sêo os scripts deste repositório. Troque seusite.com pelo seu domínio.
 
 1
 
@@ -119,7 +119,7 @@ bash tools/auditoria.sh https://www.seusite.com /catalogo/ /sobre/  # relatório
 
 2
 
-### Corrija a fundação
+### Corrija a fundaçêo
 
 Use os modelos: templates/robots.txt , templates/llms.txt , templates/content-index.json e templates/jsonld-entidade.json . Canônico, sitemap e JSON-LD com o mesmo host.
 
@@ -146,15 +146,15 @@ python3 tools/gsc_semanal.py --dias 7  # dados/gsc/resumo.csv
 Autocomplete, Google Trends, impressões que você já tem e a força do top 10. GO com 6 pontos ou mais, e só se houver um ativo real para citar. Tabela em docs/METODO.md .
 
 ```
-# consultas com impressão e sem página dedicada = pauta validada
+# consultas com impressêo e sem página dedicada = pauta validada
 sort -t, -k4 -nr dados/gsc/*_sem-marca.csv | head -30
 ```
 
 5
 
-### Escreva com trava anti-invenção
+### Escreva com trava anti-invençêo
 
-O LLM extrai da página real ( templates/prompt-ficha-extrativa.md , templates/prompt-texto-noticia.md ); o validador descarta frase sem apoio na fonte e número que não aparece nela.
+O LLM extrai da página real ( templates/prompt-ficha-extrativa.md , templates/prompt-texto-noticia.md ); o validador descarta frase sem apoio na fonte e número que nêo aparece nela.
 
 ```
 node tools/validar_extracao.mjs fonte.txt "Curso com 5 módulos e 12 horas"
@@ -185,9 +185,9 @@ INDEXNOW_KEY=<chave> BING_API_KEY=<chave> bash tools/avisar_buscadores.sh urls.t
 
 8
 
-### Confira a indexação e repita
+### Confira a indexaçêo e repita
 
-Pergunte ao Google o estado de cada página nova; as que não aparecem ganham links internos e um pedido de indexação no painel. Antes de publicar, passe o checklist de qualidade .
+Pergunte ao Google o estado de cada página nova; as que nêo aparecem ganham links internos e um pedido de indexaçêo no painel. Antes de publicar, passe o checklist de qualidade .
 
 ```
 python3 tools/gsc_inspecionar.py sc-domain:seusite.com https://www.seusite.com/nova-pagina/
@@ -222,7 +222,7 @@ Arquivo permanente, NewsArticle , versões PT/EN/ES e corpo escrito só com fato
 
 ### 🪪 Uma entidade só
 
-Autor e organização com @id fixo, citados pelo portal, pela base de conhecimento e pelo site de notícias.
+Autor e organizaçêo com @id fixo, citados pelo portal, pela base de conhecimento e pelo site de notícias.
 
 Projetos relacionados
 
@@ -236,11 +236,11 @@ Teste se o seu site está pronto para agentes de IA: descoberta, manifestos, fer
 
 webmcp.inema.pro
 
-### 🎓 Formação WebMCP
+### 🎓 Formaçêo WebMCP
 
-Cinco cursos, do zero ao expert: sites que conversam com agentes, integração e desenvolvimento de agentes.
+Cinco cursos, do zero ao expert: sites que conversam com agentes, integraçêo e desenvolvimento de agentes.
 
-Começar pela Formação WebMCP
+Começar pela Formaçêo WebMCP
 
 ### 📡 AIV 2026 — AI Visibility
 
@@ -270,11 +270,11 @@ Cadência
 
 ## Quando fazer cada coisa
 
-O SEO paga em semanas e meses, não em dias. A rotina é que faz o resultado.
+O SEO paga em semanas e meses, nêo em dias. A rotina é que faz o resultado.
 
 Semana 0
 
-Auditoria e fundação Raio-x, canônico, sitemaps, robots, llms.txt, entidade e medição ligada.
+Auditoria e fundaçêo Raio-x, canônico, sitemaps, robots, llms.txt, entidade e mediçêo ligada.
 
 A cada página
 
@@ -282,7 +282,7 @@ Checklist + escada + aviso Checklist de qualidade, 2–3 páginas antigas aponta
 
 Semanal
 
-Leitura do Search Console Consultas sem marca, páginas com impressão e sem clique, consultas sem página dedicada.
+Leitura do Search Console Consultas sem marca, páginas com impressêo e sem clique, consultas sem página dedicada.
 
 Mensal
 
@@ -290,4 +290,4 @@ Teste nas IAs Dez perguntas-alvo no ChatGPT e no Perplexity: o seu site é citad
 
 Dia 30–60
 
-Plano B Sem indexação, sem impressão ou sem clique: cada sintoma tem uma resposta (tabela em docs/METODO.md).
+Plano B Sem indexaçêo, sem impressêo ou sem clique: cada sintoma tem uma resposta (tabela em docs/METODO.md).

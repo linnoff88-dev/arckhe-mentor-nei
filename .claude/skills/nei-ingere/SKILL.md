@@ -1,6 +1,6 @@
 ---
 name: nei-ingere
-description: "Ingestão contínua — um link, arquivo ou fala nova de Nei Maldaner (INEMA) entra no raw, ganha página de fonte, atualiza as páginas afetadas e pode promover regras. Use com '/nei-ingere <link ou arquivo>'."
+description: "Ingestêo contínua — um link, arquivo ou fala nova de Nei Maldaner (INEMA) entra no raw, ganha página de fonte, atualiza as páginas afetadas e pode promover regras. Use com '/nei-ingere <link ou arquivo>'."
 ---
 
 # Ingerir conteúdo novo
@@ -8,7 +8,7 @@ description: "Ingestão contínua — um link, arquivo ou fala nova de Nei Malda
 1. **Colete** com o coletor do tipo certo (vídeo, web, repo ou arquivo). Se já estiver no manifesto, pare e avise.
 2. **Página de fonte:** crie `wiki/fontes/<id>.md` (veja o formato em /nei-compilar).
 3. **Propague:** atualize toda página de tema, princípio ou método que o conteúdo novo toca, nos dois sentidos. Crie página nova só para conceito realmente novo.
-4. **Regras:** se o conteúdo dá uma 2ª fonte a uma regra `banco`, acrescente a citação e promova para `ativa`. Se reforça uma `ativa`, acrescente a citação. Se é comportamento novo, crie como `banco`.
+4. **Regras:** se o conteúdo dá uma 2ª fonte a uma regra `banco`, acrescente a citaçêo e promova para `ativa`. Se reforça uma `ativa`, acrescente a citaçêo. Se é comportamento novo, crie como `banco`.
 5. **Controle:** atualize `wiki/index.md` e `wiki/hot.md`, e acrescente uma linha em `wiki/log.md` (data, fonte, páginas tocadas, regras promovidas).
 6. Rode e mostre as três saídas, todas com exit 0:
    ```

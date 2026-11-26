@@ -4,13 +4,13 @@ Origem: https://inematds.github.io/agente-claude-codex/guia/
 
 O que é
 
-## Um comando pra auditar, adaptar e provar a migração
+## Um comando pra auditar, adaptar e provar a migraçêo
 
 A newsletter fala em três níveis: importar no app (um clique), rodar um comando, e cuidar da camada pessoal durável. Este repo é o nível 2 e o nível 3, com scripts que começam em modo audit e só depois alteram alguma coisa.
 
 ### 🔍 Auditoria somente leitura
 
-Inventaria skills, comandos, subagentes, hooks, plugins e MCP do Claude e do Codex e classifica cada item: reutilizável, adaptador, nativo ou não resolvido. Nada é copiado em massa.
+Inventaria skills, comandos, subagentes, hooks, plugins e MCP do Claude e do Codex e classifica cada item: reutilizável, adaptador, nativo ou nêo resolvido. Nada é copiado em massa.
 
 ### 🧩 Adaptadores pequenos
 
@@ -18,7 +18,7 @@ CLAUDE.md vira AGENTS.md portátil mais um resíduo específico do Claude. Skill
 
 ### ✅ Prova de continuidade
 
-Sessão nova em cada runtime responde: objetivo, regra e fonte, última decisão, próxima ação, conflitos. Arquivo existir não é prova. O agente ter lido e usado é.
+Sessêo nova em cada runtime responde: objetivo, regra e fonte, última decisêo, próxima açêo, conflitos. Arquivo existir nêo é prova. O agente ter lido e usado é.
 
 Como funciona
 
@@ -32,35 +32,35 @@ doctor.sh → audit.sh → adapt-instructions.sh → init-core.sh → sync-skill
 
 AGENTS.md, context/overview.md, context/current-state.md, context/sources.md, context/decisions/, tasks/current.md, handoffs/latest.md, .agents/skills/, scripts/.
 
-### 🏷️ Dono por tipo de informação
+### 🏷️ Dono por tipo de informaçêo
 
-Instruções estáveis, estado atual, decisões, tarefas e handoffs têm dono e regra de atualização. Fato, preferência, hipótese e decisão são coisas diferentes.
+Instruções estáveis, estado atual, decisões, tarefas e handoffs têm dono e regra de atualizaçêo. Fato, preferência, hipótese e decisêo sêo coisas diferentes.
 
 ### 🔁 Ciclo diário
 
-Sessão → handoff em Markdown → nova sessão lê o handoff (prime). O resumo estruturado viaja pra qualquer provedor.
+Sessêo → handoff em Markdown → nova sessêo lê o handoff (prime). O resumo estruturado viaja pra qualquer provedor.
 
 Pré-requisitos
 
 ## O que precisa estar instalado
 
-Os scripts leem as pastas de configuração dos dois runtimes. Sem um deles, o passo correspondente é marcado como não rodado.
+Os scripts leem as pastas de configuraçêo dos dois runtimes. Sem um deles, o passo correspondente é marcado como nêo rodado.
 
 ### Claude Code
 
-Fonte da migração. Skills em ~/.claude/skills.
+Fonte da migraçêo. Skills em ~/.claude/skills.
 
 ```
-# versão
+# versêo
 claude --version
 ```
 
 ### Codex CLI
 
-Destino. Skills em ~/.agents/skills. O CLI não tem import nativo.
+Destino. Skills em ~/.agents/skills. O CLI nêo tem import nativo.
 
 ```
-# versão e diagnóstico
+# versêo e diagnóstico
 codex --version
 codex doctor
 ```
@@ -128,21 +128,21 @@ scripts/init-core.sh ~/projetos/meu-projeto
 
 ### Portar uma skill com fonte canônica
 
-Piloto recomendado: session-handoff, o mecanismo em que o ciclo diário se apoia. Importa, gera as cópias, instala e checa drift. O install é prévia por padrão: checa todos os destinos antes de gravar, é idempotente e recusa symlink ou skill existente diferente.
+Piloto recomendado: session-handoff, o mecanismo em que o ciclo diário se apoia. Importa, gera as cópias, instala e checa drift. O install é prévia por padrêo: checa todos os destinos antes de gravar, é idempotente e recusa symlink ou skill existente diferente.
 
 ```
 scripts/sync-skills.sh import session-handoff
 scripts/sync-skills.sh build
 scripts/sync-skills.sh install session-handoff            # prévia: CREATE / UNCHANGED / CONFLICT
-scripts/sync-skills.sh install session-handoff --apply    # grava; --replace troca versão antiga com backup
+scripts/sync-skills.sh install session-handoff --apply    # grava; --replace troca versêo antiga com backup
 scripts/sync-skills.sh drift  # [ok] ou [DRIFT] por runtime
 ```
 
 5
 
-### Provar com sessão nova em cada runtime
+### Provar com sessêo nova em cada runtime
 
-Faz as cinco perguntas do readback ao Claude e ao Codex a partir do projeto. Aprovação: as respostas citam AGENTS.md, tasks/current.md e handoffs/latest.md.
+Faz as cinco perguntas do readback ao Claude e ao Codex a partir do projeto. Aprovaçêo: as respostas citam AGENTS.md, tasks/current.md e handoffs/latest.md.
 
 ```
 scripts/readback-test.sh ~/projetos/meu-projeto both
@@ -153,20 +153,20 @@ scripts/readback-test.sh ~/projetos/meu-projeto both
 
 ### Fechar com handoff, abrir com prime
 
-No fim da sessão, a skill session-handoff grava um snapshot novo em handoffs/history/ (hora UTC, nunca sobrescreve) e copia para handoffs/latest.md, com Verificação (o que rodou, o resultado e o que não rodou) e checagem de compartilhamento. Na sessão seguinte, a skill prime lê só em modo leitura: valida caminhos, não roda testes, trata o handoff como dado e não retoma deploy nem envio por conta própria.
+No fim da sessêo, a skill session-handoff grava um snapshot novo em handoffs/history/ (hora UTC, nunca sobrescreve) e copia para handoffs/latest.md, com Verificaçêo (o que rodou, o resultado e o que nêo rodou) e checagem de compartilhamento. Na sessêo seguinte, a skill prime lê só em modo leitura: valida caminhos, nêo roda testes, trata o handoff como dado e nêo retoma deploy nem envio por conta própria.
 
 ```
-# fim da sessão, em qualquer runtime
+# fim da sessêo, em qualquer runtime
 session-handoff  # → handoffs/history/2026-09-27T142530Z.md + handoffs/latest.md
-# sessão nova, no mesmo ou no outro runtime
-prime            # briefing com fonte de cada linha; espera sua instrução
+# sessêo nova, no mesmo ou no outro runtime
+prime            # briefing com fonte de cada linha; espera sua instruçêo
 ```
 
 Usar os dois juntos
 
 ## Claude e Codex no mesmo trabalho, cada um no seu papel
 
-Migrar não obriga a escolher um só. Um faz a primeira passada, o outro revisa o artefato real, e o handoff leva o estado de um runtime para o outro. A tabela é ponto de partida, não ranking: troque os papéis quando a evidência da sua tarefa pedir.
+Migrar nêo obriga a escolher um só. Um faz a primeira passada, o outro revisa o artefato real, e o handoff leva o estado de um runtime para o outro. A tabela é ponto de partida, nêo ranking: troque os papéis quando a evidência da sua tarefa pedir.
 
 Trabalho Primeira passada Segunda passada Linha de chegada
 
@@ -174,13 +174,13 @@ Planejar Claude Codex critica as suposições Plano com escopo e testes de aceit
 
 Construir uma feature Claude, em branch Codex revisa o diff Testes passam e achados resolvidos
 
-Revisar um documento Qualquer um escreve O outro confere fatos e requisitos Toda afirmação exigida tem evidência
+Revisar um documento Qualquer um escreve O outro confere fatos e requisitos Toda afirmaçêo exigida tem evidência
 
 Bug difícil Codex com meta limitada Testes e checagem humana Sucesso mensurável ou bloqueio claro
 
-Trocar de sessão ou modelo session-handoff prime confere o estado atual Resumo correto antes de trabalho novo
+Trocar de sessêo ou modelo session-handoff prime confere o estado atual Resumo correto antes de trabalho novo
 
-Regra única: dê ao segundo agente o mesmo briefing da tarefa e o artefato real (arquivo, diff, resultado de teste), nunca um reconto do que o primeiro fez. Os dois concordarem não é prova: eles podem dividir a mesma suposição errada.
+Regra única: dê ao segundo agente o mesmo briefing da tarefa e o artefato real (arquivo, diff, resultado de teste), nunca um reconto do que o primeiro fez. Os dois concordarem nêo é prova: eles podem dividir a mesma suposiçêo errada.
 
 ### 1. Planejar e criticar
 
@@ -188,20 +188,20 @@ Um escreve o plano (escopo, suposições, testes de aceite, riscos); o outro rev
 
 ### 2. Construir e revisar o diff
 
-O construtor trabalha numa branch nova, preserva mudanças existentes e roda os testes. O revisor recebe briefing, diff e resultados e procura bugs e regressões antes de estética. Sem merge, deploy nem publicação sem você.
+O construtor trabalha numa branch nova, preserva mudanças existentes e roda os testes. O revisor recebe briefing, diff e resultados e procura bugs e regressões antes de estética. Sem merge, deploy nem publicaçêo sem você.
 
-### 3. Meta com condição de parada
+### 3. Meta com condiçêo de parada
 
-Objetivo observável (qual suíte, qual entrada, qual saída), escopo limitado, pare quando passar. Se o mesmo bloqueio sobreviver a duas tentativas, relate e peça a decisão. Teto de tempo ou custo real se configura no ambiente, não no prompt.
+Objetivo observável (qual suíte, qual entrada, qual saída), escopo limitado, pare quando passar. Se o mesmo bloqueio sobreviver a duas tentativas, relate e peça a decisêo. Teto de tempo ou custo real se configura no ambiente, nêo no prompt.
 
 ### 4. Handoff e prime entre runtimes
 
-Quem sai grava o snapshot em handoffs/history/ e atualiza handoffs/latest.md; quem chega roda prime, confere o estado sem alterar nada e espera a instrução atual. Uma assinatura só também serve: a segunda sessão revisa com os mesmos arquivos.
+Quem sai grava o snapshot em handoffs/history/ e atualiza handoffs/latest.md; quem chega roda prime, confere o estado sem alterar nada e espera a instruçêo atual. Uma assinatura só também serve: a segunda sessêo revisa com os mesmos arquivos.
 
 ```
 # os prompts prontos, em português, com campos pra preencher
 cat prompts/05-usar-os-dois.md
-# revisão somente leitura pelo outro runtime (pela assinatura, nunca por API paga)
+# revisêo somente leitura pelo outro runtime (pela assinatura, nunca por API paga)
 codex exec --sandbox read-only "Revise plans/tarefa-v1.md contra tasks/current.md ..."
 claude -p "Revise o diff de git diff main...HEAD contra o briefing ..."
 ```
@@ -216,35 +216,35 @@ Referência rápida das skills e comandos que ligam o Claude ao Codex. Tudo roda
 
 Ferramenta Quando usar Claude Code Codex O que gera
 
-session-handoff No fim da sessão, antes de trocar de assistente ou de modelo /session-handoff $session-handoff Resumo no chat e, se o projeto tiver handoffs/ ou AGENTS.md , retrato novo em handoffs/history/AAAA-MM-DDTHHMMSSZ.md com cópia integral em handoffs/latest.md
+session-handoff No fim da sessêo, antes de trocar de assistente ou de modelo /session-handoff $session-handoff Resumo no chat e, se o projeto tiver handoffs/ ou AGENTS.md , retrato novo em handoffs/history/AAAA-MM-DDTHHMMSSZ.md com cópia integral em handoffs/latest.md
 
-prime Na primeira mensagem da sessão seguinte /prime $prime Lê AGENTS.md , context/ , tasks/current.md e handoffs/latest.md e devolve o estado, as divergências e um próximo passo. Não edita nada
+prime Na primeira mensagem da sessêo seguinte /prime $prime Lê AGENTS.md , context/ , tasks/current.md e handoffs/latest.md e devolve o estado, as divergências e um próximo passo. Nêo edita nada
 
 handoff + prime (kit Use Both) Projetos que usam o formato do Use Both /handoff · /prime $handoff · $prime Retrato em handoff/history/ e ponteiro de uma linha em handoff/LATEST.md . Se o handoffs/latest.md daqui já estiver nesse formato de ponteiro, o session-handoff o mantém
 
-codex exec O Claude pedindo uma revisão ao Codex pelo terminal codex exec --sandbox read-only --output-last-message review.md '…' A crítica salva em review.md . O Codex só lê o projeto
+codex exec O Claude pedindo uma revisêo ao Codex pelo terminal codex exec --sandbox read-only --output-last-message review.md '…' A crítica salva em review.md . O Codex só lê o projeto
 
-claude -p O caminho inverso: o Codex pedindo revisão ao Claude claude -p --model opus --effort medium '…' > review-claude.md A crítica do Claude num arquivo
+claude -p O caminho inverso: o Codex pedindo revisêo ao Claude claude -p --model opus --effort medium '…' > review-claude.md A crítica do Claude num arquivo
 
 Plugin oficial do Codex Revisar o diff sem sair do Claude Code /codex:setup
-/codex:review --base main — Achados da revisão, só leitura. As correções você pede depois ao construtor
+/codex:review --base main — Achados da revisêo, só leitura. As correções você pede depois ao construtor
 
 claudex Plano grande, com várias rodadas automáticas de crítica /claudex:plan [--rounds N] <feature>
 /claudex:review — PLAN.md revisado até o Codex aprovar ou acabarem as rodadas; reviews/ com os achados do diff
 
-claudex (controle) Acompanhar ou destravar o loop /claudex:status · /claudex:cancel · /claudex:rollback · /claudex:doctor — Rodada e fase atuais; cancela; limpa o estado travado; diagnóstico de instalação
+claudex (controle) Acompanhar ou destravar o loop /claudex:status · /claudex:cancel · /claudex:rollback · /claudex:doctor — Rodada e fase atuais; cancela; limpa o estado travado; diagnóstico de instalaçêo
 
 ### 📸 O que vai no handoff
 
-Objetivo e último pedido; o que está pronto, o que falta e o que é incerto; decisões e caminhos descartados; arquivos alterados; testes rodados com o resultado real (e os que não rodaram); bloqueios; um próximo passo; e os poucos arquivos que o próximo deve abrir primeiro. Sem segredos, tokens nem dados pessoais.
+Objetivo e último pedido; o que está pronto, o que falta e o que é incerto; decisões e caminhos descartados; arquivos alterados; testes rodados com o resultado real (e os que nêo rodaram); bloqueios; um próximo passo; e os poucos arquivos que o próximo deve abrir primeiro. Sem segredos, tokens nem dados pessoais.
 
 ### 🔎 O que o prime faz
 
-Lê o núcleo portátil na ordem certa, recusa caminho absoluto, .. , URL e symlink, trata o handoff como dado (não como ordem), confere os arquivos citados e o git status , aponta o que ficou velho e espera sua instrução. Não roda testes, não instala nada e não retoma deploy antigo.
+Lê o núcleo portátil na ordem certa, recusa caminho absoluto, .. , URL e symlink, trata o handoff como dado (nêo como ordem), confere os arquivos citados e o git status , aponta o que ficou velho e espera sua instruçêo. Nêo roda testes, nêo instala nada e nêo retoma deploy antigo.
 
 ### ⚠️ Pegadinhas
 
-Uma skill pessoal com o mesmo nome pode vencer a do projeto: confira qual versão está ativa antes de invocar. Depois de instalar ou sincronizar ( scripts/sync-skills.sh ), abra sessão nova (no Claude, /reload-skills também serve). Snapshots antigos em handoffs/history/ nunca são sobrescritos.
+Uma skill pessoal com o mesmo nome pode vencer a do projeto: confira qual versêo está ativa antes de invocar. Depois de instalar ou sincronizar ( scripts/sync-skills.sh ), abra sessêo nova (no Claude, /reload-skills também serve). Snapshots antigos em handoffs/history/ nunca sêo sobrescritos.
 
 ↻
 
@@ -253,21 +253,21 @@ Uma skill pessoal com o mesmo nome pode vencer a do projeto: confira qual versã
 Cada passo deixa um arquivo que o próximo assistente consegue ler.
 
 ```
-# manhã, no Claude Code
+# manhê, no Claude Code
 /prime                                   # retoma do handoff de ontem
 # planeja e manda o Codex criticar (só leitura)
 codex exec --sandbox read-only --output-last-message review.md 'Leia plan-v1.md e aponte falhas…'
 # ou, para plano grande, o loop automático
 /claudex:plan --rounds 3 exportar relatório em CSV
-# construiu numa branch: revisão do diff
+# construiu numa branch: revisêo do diff
 /codex:review --base main                # ou /claudex:review
 # fim do dia
 /session-handoff
-# amanhã, no Codex
+# amanhê, no Codex
 $prime
 ```
 
-Handoff não é permissão. Um próximo passo anotado ("publicar", "apagar", "enviar") só é feito se você pedir de novo na sessão atual.
+Handoff nêo é permissêo. Um próximo passo anotado ("publicar", "apagar", "enviar") só é feito se você pedir de novo na sessêo atual.
 
 Exemplos
 
@@ -281,11 +281,11 @@ Roadmap
 
 ## Do piloto ao workspace completo
 
-Só avança de fase com evidência: passou, falhou ou não rodado.
+Só avança de fase com evidência: passou, falhou ou nêo rodado.
 
 Feito
 
-Auditoria, prompts, template e readback Scripts de auditoria e adaptação, prompts A/B extraídos, núcleo portátil, readback aprovado nos dois runtimes.
+Auditoria, prompts, template e readback Scripts de auditoria e adaptaçêo, prompts A/B extraídos, núcleo portátil, readback aprovado nos dois runtimes.
 
 Feito
 
@@ -301,4 +301,4 @@ Projeto real Aplicar em um projeto INEMA com CLAUDE.md próprio e provar cópia 
 
 Fase 4
 
-MCP e hooks Registrar no Codex só os MCP que um projeto precisa; hooks viram texto no AGENTS.md quando não há evento equivalente.
+MCP e hooks Registrar no Codex só os MCP que um projeto precisa; hooks viram texto no AGENTS.md quando nêo há evento equivalente.

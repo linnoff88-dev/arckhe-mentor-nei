@@ -1,4 +1,4 @@
-# Execução longa
+# Execuçêo longa
 
 - Tipo: tema
 
@@ -9,13 +9,13 @@ Agentes trabalhando horas ou dias com /goal: objetivo verificável, estado em ar
 ## Trechos
 
 - "o agente relê os arquivos em vez de depender da memória da conversa." — [[guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357]] `raw/guia/execucao-longa-agentes-que-trabalham-horas-e-dias--b43579.md`
-- "Não é o /goal , é a compactação repetida." — [[guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357]] `raw/guia/execucao-longa-agentes-que-trabalham-horas-e-dias--b43579.md`
+- "Nêo é o /goal , é a compactaçêo repetida." — [[guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357]] `raw/guia/execucao-longa-agentes-que-trabalham-horas-e-dias--b43579.md`
 - "Perder o cache custa 12,5x a 25x." — [[guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357]] `raw/guia/execucao-longa-agentes-que-trabalham-horas-e-dias--b43579.md`
 
 ## Fontes
 
 - [[guia-atende-clinica-agenda-whatsapp-e-equipe-no-telegra-c3a0]] — Atende Clínica — agenda, WhatsApp e equipe no Telegram para clínicas
-- [[guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357]] — Execução Longa — agentes que trabalham horas e dias sem perder o rumo
+- [[guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357]] — Execuçêo Longa — agentes que trabalham horas e dias sem perder o rumo
 - [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] — LIVE： Claude Code - Economize 90% dos Tokens com 3 Comandos
 - [[video-live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia]] — LIVE： De Prompt a Grafo — A Nova Era dos Agentes de IA
 

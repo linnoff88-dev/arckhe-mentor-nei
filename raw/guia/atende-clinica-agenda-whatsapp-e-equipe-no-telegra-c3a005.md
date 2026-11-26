@@ -6,19 +6,19 @@ O que é
 
 ## Menos falta, menos telefone tocando, mais paciente voltando
 
-Falta sem aviso é o vazamento nº 1 de uma clínica: 5 a 12% numa agenda bem cuidada, perto de 25% na média. O Atende Clínica ataca isso com as peças da receita "Agenda cheia" do Raio-X de Margem e devolve os números do mês para o painel de recuperação.
+Falta sem aviso é o vazamento nº 1 de uma clínica: 5 a 12% numa agenda bem cuidada, perto de 25% na média. O Atende Clínica ataca isso com as peças da receita "Agenda cheia" do Raio-X de Margem e devolve os números do mês para o painel de recuperaçêo.
 
 ### 📅 Agenda que se defende sozinha
 
-Horário por profissional, folgas e férias, confirmação 48 h antes com "1 confirma / 2 cancela". Quem cancela libera o horário para a lista de espera na hora, e o retorno (ex.: limpeza a cada 180 dias) é lembrado sozinho.
+Horário por profissional, folgas e férias, confirmaçêo 48 h antes com "1 confirma / 2 cancela". Quem cancela libera o horário para a lista de espera na hora, e o retorno (ex.: limpeza a cada 180 dias) é lembrado sozinho.
 
 ### 💬 WhatsApp e chat com um mesmo cérebro
 
-O paciente agenda, remarca e tira dúvidas pelas perguntas frequentes da clínica. O bot não inventa preço nem diagnóstico. Pedido de atendente, emergência (manda ligar 192) ou duas dúvidas sem resposta vão para a equipe.
+O paciente agenda, remarca e tira dúvidas pelas perguntas frequentes da clínica. O bot nêo inventa preço nem diagnóstico. Pedido de atendente, emergência (manda ligar 192) ou duas dúvidas sem resposta vêo para a equipe.
 
 ### 🛡️ Regras de saúde de fábrica
 
-Campanha só para quem consentiu, e o texto passa pela trava do conselho (CFM, CFO, COFFITO): preço, parcelamento, sorteio, "antes e depois", "resultado garantido". O paciente pode pedir "PARAR", exportar os próprios dados ou pedir exclusão (LGPD).
+Campanha só para quem consentiu, e o texto passa pela trava do conselho (CFM, CFO, COFFITO): preço, parcelamento, sorteio, "antes e depois", "resultado garantido". O paciente pode pedir "PARAR", exportar os próprios dados ou pedir exclusêo (LGPD).
 
 Como funciona
 
@@ -26,17 +26,17 @@ Como funciona
 
 Um servidor Python sem dependências, com banco SQLite num volume Docker. A Evolution e o Telegram entram por variáveis de ambiente; sem elas, o sistema roda com uma caixa de saída simulada.
 
-WhatsApp (Evolution) ou chat do site → Conversa: FAQ, agendar, confirmar → Agenda + lista de espera → Lembretes e retornos → Equipe no Telegram / recepção → Números do mês para o Raio-X
+WhatsApp (Evolution) ou chat do site → Conversa: FAQ, agendar, confirmar → Agenda + lista de espera → Lembretes e retornos → Equipe no Telegram / recepçêo → Números do mês para o Raio-X
 
 ### Paciente
 
-WhatsApp ou chat do site. Agenda nos 3 primeiros horários livres, responde à confirmação, entra na lista de espera, recebe o lembrete de retorno.
+WhatsApp ou chat do site. Agenda nos 3 primeiros horários livres, responde à confirmaçêo, entra na lista de espera, recebe o lembrete de retorno.
 
 ### Equipe
 
 Grupo do Telegram: recebe cada atendimento como #id , responde em cima da mensagem ou com /responder , e usa /fila , /agenda e /encerrar .
 
-### Recepção (web)
+### Recepçêo (web)
 
 Página /recepcao com token: agenda por período, cadastros de pacientes, profissionais, serviços e perguntas frequentes, bloqueios, fila humana, campanhas e indicadores.
 
@@ -44,11 +44,11 @@ Pré-requisitos
 
 ## O que você precisa
 
-Para testar no computador basta o Python. Para produção, uma VPS com Docker e, se quiser os canais, uma Evolution API e um bot do Telegram seus.
+Para testar no computador basta o Python. Para produçêo, uma VPS com Docker e, se quiser os canais, uma Evolution API e um bot do Telegram seus.
 
 ### Python 3.10+
 
-Só a biblioteca padrão: nada de pip install .
+Só a biblioteca padrêo: nada de pip install .
 
 ```
 # conferir
@@ -77,7 +77,7 @@ Guia de uso · passo a passo
 
 ## Do clone ao WhatsApp respondendo
 
-Os comandos abaixo são os do repositório. Comece local, sem integrações; ligue Evolution e Telegram por último.
+Os comandos abaixo sêo os do repositório. Comece local, sem integrações; ligue Evolution e Telegram por último.
 
 1
 
@@ -104,7 +104,7 @@ Abra http://127.0.0.1:8080/ para o chat do paciente e /recepcao para a equipe (p
 
 ### Ligue os lembretes
 
-Confirmações, retornos e reenvios saem quando /api/tarefas/rodar é chamado. Coloque uma chamada no cron a cada 5 minutos (a operação é idempotente).
+Confirmações, retornos e reenvios saem quando /api/tarefas/rodar é chamado. Coloque uma chamada no cron a cada 5 minutos (a operaçêo é idempotente).
 
 ```
 # crontab -e
@@ -127,7 +127,7 @@ docker compose ps   # healthy = /api/saude respondendo
 
 ### Conecte o WhatsApp pela Evolution
 
-Preencha EVOLUTION_URL , EVOLUTION_API_KEY , EVOLUTION_INSTANCIA e WEBHOOK_SEGREDO . Na instância, aponte o webhook para a sua URL pública e ligue o evento MESSAGES_UPSERT . Grupos, mensagens da própria clínica e reenvios são ignorados.
+Preencha EVOLUTION_URL , EVOLUTION_API_KEY , EVOLUTION_INSTANCIA e WEBHOOK_SEGREDO . Na instância, aponte o webhook para a sua URL pública e ligue o evento MESSAGES_UPSERT . Grupos, mensagens da própria clínica e reenvios sêo ignorados.
 
 ```
 # webhook da instância Evolution
@@ -152,7 +152,7 @@ curl -X POST "https://api.telegram.org/bot<TOKEN>/setWebhook" \
 
 ### Backup diário e números do mês
 
-O backup é um snapshot consistente (pode rodar com o servidor ligado) e contém dados pessoais: guarde com acesso restrito. O raiox grava o mês no arquivo de acompanhamento do Painel de Recuperação.
+O backup é um snapshot consistente (pode rodar com o servidor ligado) e contém dados pessoais: guarde com acesso restrito. O raiox grava o mês no arquivo de acompanhamento do Painel de Recuperaçêo.
 
 ```
 ./atende backup --dados dados --saida backups/clinica.zip
@@ -166,22 +166,22 @@ Exemplos
 
 Capturadas do próprio Atende Clínica rodando com a clínica de exemplo (odontologia, Dra. Ana e Dr. Bruno).
 
-Chat do paciente: escolhe o serviço, recebe os 3 primeiros horários livres e agenda com duas respostas. O mesmo diálogo acontece no WhatsApp. Recepção: agenda por período e profissional, presença e falta num clique, além de fila humana, cadastros, campanhas e Raio-X.
+Chat do paciente: escolhe o serviço, recebe os 3 primeiros horários livres e agenda com duas respostas. O mesmo diálogo acontece no WhatsApp. Recepçêo: agenda por período e profissional, presença e falta num clique, além de fila humana, cadastros, campanhas e Raio-X.
 
 Roadmap
 
 ## Onde está e para onde vai
 
-A v1 foi feita por uma execução longa de agente (método execucao-longa ) contra 93 testes de aceitação congelados, conferida depois numa clínica que o agente nunca viu e num docker build real.
+A v1 foi feita por uma execuçêo longa de agente (método execucao-longa ) contra 93 testes de aceitaçêo congelados, conferida depois numa clínica que o agente nunca viu e num docker build real.
 
 v1 ✅
 
-Atendimento completo Agenda, confirmação, espera, retorno, perguntas frequentes, fila humana, emergência, campanhas com trava de conselho, LGPD, cadastros, bloqueios, backup, Evolution, Telegram, Docker e exportação para o Raio-X.
+Atendimento completo Agenda, confirmaçêo, espera, retorno, perguntas frequentes, fila humana, emergência, campanhas com trava de conselho, LGPD, cadastros, bloqueios, backup, Evolution, Telegram, Docker e exportaçêo para o Raio-X.
 
 Próximo
 
-Piloto numa clínica real Configurar horários, serviços e perguntas verdadeiros, medir 4 semanas de faltas (o "antes") e acompanhar no Painel de Recuperação.
+Piloto numa clínica real Configurar horários, serviços e perguntas verdadeiros, medir 4 semanas de faltas (o "antes") e acompanhar no Painel de Recuperaçêo.
 
 Depois
 
-Mais canais e respostas Respostas com IA atrás de uma opção desligada por padrão, sinal por Pix e planos (exigem integração de pagamento) e interface em inglês e espanhol.
+Mais canais e respostas Respostas com IA atrás de uma opçêo desligada por padrêo, sinal por Pix e planos (exigem integraçêo de pagamento) e interface em inglês e espanhol.

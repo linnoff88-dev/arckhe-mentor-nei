@@ -6,19 +6,19 @@ O que é
 
 ## O site vira a fonte de verdade; a conversa vira o canal
 
-A ideia vem do America.gov (2026), que reuniu cerca de 29 mil sites do governo americano num único ponto de entrada conversacional. O transformsite é a versão aberta e simples dessa ideia para empresas, escolas e órgãos públicos.
+A ideia vem do America.gov (2026), que reuniu cerca de 29 mil sites do governo americano num único ponto de entrada conversacional. O transformsite é a versêo aberta e simples dessa ideia para empresas, escolas e órgêos públicos.
 
 ### 📚 Responde com fonte
 
-Todo o site, mais PDFs e documentos, vira um índice de busca híbrida (palavras + significado). Cada resposta traz o link da página usada. Sem fonte, o bot diz "não sei" e oferece passar para a equipe.
+Todo o site, mais PDFs e documentos, vira um índice de busca híbrida (palavras + significado). Cada resposta traz o link da página usada. Sem fonte, o bot diz "nêo sei" e oferece passar para a equipe.
 
 ### 🧩 Serviço = um arquivo YAML
 
-Agendar, fale conosco, segunda via… Você declara os dados a coletar, a confirmação e a ação. O motor conversa: aceita tudo numa frase, correção, dúvida no meio, cancelar e retomar dias depois.
+Agendar, fale conosco, segunda via… Você declara os dados a coletar, a confirmaçêo e a açêo. O motor conversa: aceita tudo numa frase, correçêo, dúvida no meio, cancelar e retomar dias depois.
 
 ### 🔒 Local e com LGPD
 
-LLM no Ollama (ou Claude Code / Codex pela assinatura), índice num arquivo SQLite, dados pessoais mascarados nos logs, retenção configurável, código por e-mail antes de dado sensível.
+LLM no Ollama (ou Claude Code / Codex pela assinatura), índice num arquivo SQLite, dados pessoais mascarados nos logs, retençêo configurável, código por e-mail antes de dado sensível.
 
 Como funciona
 
@@ -36,7 +36,7 @@ inventory lista páginas e formulários. ingest lê o site (sitemap, links, robo
 
 Máquina de slots com tipos validados (CPF, e-mail, telefone, CEP, data e hora em português), agenda local, tickets. O mesmo motor atende Telegram, WhatsApp (Evolution ou Cloud API), e-mail e widget.
 
-### F4–F6 · Legado, operação, deploy
+### F4–F6 · Legado, operaçêo, deploy
 
 convert transforma formulário HTML/PDF em serviço, que continua enviando ao sistema antigo. Painel para assumir conversas, aprovar serviços e ver métricas. Docker e VPS prontos.
 
@@ -44,7 +44,7 @@ Pré-requisitos
 
 ## O que você precisa
 
-Python 3.11+ e um LLM. Com GPU, o padrão é um modelo local; sem GPU, use um modelo menor ou a sua assinatura.
+Python 3.11+ e um LLM. Com GPU, o padrêo é um modelo local; sem GPU, use um modelo menor ou a sua assinatura.
 
 ### Python + transformsite
 
@@ -84,7 +84,7 @@ Comandos reais, os mesmos usados no piloto com o site inema.club.
 
 ### Crie o projeto
 
-Gera a configuração, dois serviços de exemplo (agendar e fale conosco), uma ferramenta de exemplo, os cenários de teste e um token aleatório para o painel.
+Gera a configuraçêo, dois serviços de exemplo (agendar e fale conosco), uma ferramenta de exemplo, os cenários de teste e um token aleatório para o painel.
 
 ```
 transformsite init meubot --org "Minha Empresa" --url https://www.minhaempresa.com.br --contact atendimento@minhaempresa.com.br
@@ -116,7 +116,7 @@ transformsite ask "Preciso saber programar para fazer o curso CAIP?"
 
 ### Declare os serviços (Fase 2)
 
-Edite services/*.yaml : dados a coletar, confirmação, ação e resposta. Ferramentas próprias vão em tools/*.py . Valide antes de subir.
+Edite services/*.yaml : dados a coletar, confirmaçêo, açêo e resposta. Ferramentas próprias vêo em tools/*.py . Valide antes de subir.
 
 ```
 # services/agendar.yaml (trecho)
@@ -139,7 +139,7 @@ Rode as perguntas de teste e os roteiros de conversa. golden gera um rascunho de
 
 ```
 transformsite golden --n 50                # rascunho → revise → tests/golden.jsonl
-transformsite eval --golden tests/golden.jsonl   # citação válida, "não sei", injeção
+transformsite eval --golden tests/golden.jsonl   # citaçêo válida, "nêo sei", injeçêo
 transformsite eval --scenarios tests/cenarios --real-llm   # 13/13 no piloto
 ```
 
@@ -172,9 +172,9 @@ Exemplos
 
 ## Piloto: INEMA.CLUB
 
-O site inema.club (cursos, guias, eventos e base de conhecimento) foi o primeiro a virar chat. Resultado medido com 73 perguntas de teste e o LLM local: 92,6% das respostas com fonte válida, 100% de "não sei" nas perguntas fora do escopo, 100% das tentativas de injeção bloqueadas e latência p95 de 2,6 s .
+O site inema.club (cursos, guias, eventos e base de conhecimento) foi o primeiro a virar chat. Resultado medido com 73 perguntas de teste e o LLM local: 92,6% das respostas com fonte válida, 100% de "nêo sei" nas perguntas fora do escopo, 100% das tentativas de injeçêo bloqueadas e latência p95 de 2,6 s .
 
-Widget no site: a resposta vem com a página usada como fonte. Painel /admin: métricas (resolução sem humano, handoff, citação, latência), além de conversas, fila, serviços e base.
+Widget no site: a resposta vem com a página usada como fonte. Painel /admin: métricas (resoluçêo sem humano, handoff, citaçêo, latência), além de conversas, fila, serviços e base.
 
 Roadmap
 
@@ -196,4 +196,4 @@ Transações e identidade Login do sistema legado e gov.br, anexos e OCR, PDF pr
 
 v4
 
-Escala e vários clientes Postgres + pgvector, filas, vLLM, vários bots por instalação, avaliação contínua a cada nova leitura do site.
+Escala e vários clientes Postgres + pgvector, filas, vLLM, vários bots por instalaçêo, avaliaçêo contínua a cada nova leitura do site.

@@ -1,10 +1,10 @@
-# Plano antes de gastar, com portão por parte
+# Plano antes de gastar, com portêo por parte
 
 - Tipo: metodo
 
 ## O que é
 
-Pipeline de mídia onde o plano (contrato fechado) é grátis e a execução é paga, aprovada parte por parte, com custo estimado antes, teto de gasto e estado retomável.
+Pipeline de mídia onde o plano (contrato fechado) é grátis e a execuçêo é paga, aprovada parte por parte, com custo estimado antes, teto de gasto e estado retomável.
 
 ## Passos
 
@@ -12,15 +12,15 @@ Pipeline de mídia onde o plano (contrato fechado) é grátis e a execução é 
 2. Gerar o plano.json + PLANO.md sem custo de API
 3. Ver e ajustar cada parte (diff a cada ajuste)
 4. Aprovar parte por parte (ok)
-5. Executar (faz) mostrando o custo estimado e pedindo confirmação, com teto
+5. Executar (faz) mostrando o custo estimado e pedindo confirmaçêo, com teto
 6. Entregar PACOTE.md e só publicar depois de aprovar no painel
 
 ## Exemplos (trechos)
 
 - "Planejar é barato. Executar é caro." — [[guia-musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc]] `raw/guia/musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc8f.md`
-- "Parte sem ok não gera. Aprovar uma não aprova as outras." — [[guia-musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc]] `raw/guia/musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc8f.md`
-- "Subir não é consequência de ficar pronto: produção pronta é material de trabalho." — [[guia-musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc]] `raw/guia/musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc8f.md`
-- "yes, porque eu disse sem portão, vai fazer" (@00:52:59) — [[video-transcript]] `raw/videos/transcript.txt`
+- "Parte sem ok nêo gera. Aprovar uma nêo aprova as outras." — [[guia-musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc]] `raw/guia/musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc8f.md`
+- "Subir nêo é consequência de ficar pronto: produçêo pronta é material de trabalho." — [[guia-musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc]] `raw/guia/musicavideo-musica-capa-e-clipe-a-partir-de-uma-fr-b4bc8f.md`
+- "yes, porque eu disse sem portêo, vai fazer" (@00:52:59) — [[video-transcript]] `raw/videos/transcript.txt`
 
 ## Fontes
 

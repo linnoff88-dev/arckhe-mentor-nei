@@ -14,16 +14,16 @@ Erro em aula é material de ensino: ele deixa quebrar na frente da turma, leva a
 2. Copiar a mensagem de erro com o contexto de antes
 3. Levar ao chat e pedir a causa em vez de ficar tentando no escuro
 4. Formular a hipótese e aplicar o contorno (ex.: túnel SSH para o localhost, corrigir a barra, mandar o agente usar SSH)
-5. Conferir o resultado real (ls -la, refresh no GitHub), não o OK da ferramenta
+5. Conferir o resultado real (ls -la, refresh no GitHub), nêo o OK da ferramenta
 6. Documentar a dica no material do curso
 
 ### Depurar ao vivo com o chat
 
 1. Selecionar o erro e um pouco do que estava fazendo
 2. Colar no chat ou agente (vai e vem entre as duas telas)
-3. Pedir a causa raiz e uma correção pequena ou um comando simples
+3. Pedir a causa raiz e uma correçêo pequena ou um comando simples
 4. Aplicar e refazer exatamente o mesmo teste até passar
-5. Mandar anotar o que funcionou nas instruções de instalação e de troubleshooting
+5. Mandar anotar o que funcionou nas instruções de instalaçêo e de troubleshooting
 
 ### Depurar ao vivo: ler o erro, isolar o ambiente, corrigir e registrar
 
@@ -31,8 +31,8 @@ Erro em aula é material de ensino: ele deixa quebrar na frente da turma, leva a
 2. Ler a mensagem de erro e passar para o agente diagnosticar
 3. Testar uma hipótese por vez (caminhos, token, .env, permissões)
 4. Comparar com um ambiente que funciona (ex.: Ubuntu 24.04 vs 26) para isolar a causa
-5. Corrigir e conferir a correção (o agente às vezes afirma o que não verificou)
-6. Transformar a falha em melhoria permanente (script de instalação, arquivo default)
+5. Corrigir e conferir a correçêo (o agente às vezes afirma o que nêo verificou)
+6. Transformar a falha em melhoria permanente (script de instalaçêo, arquivo default)
 
 ## Exemplos (trechos)
 
@@ -45,16 +45,16 @@ Erro em aula é material de ensino: ele deixa quebrar na frente da turma, leva a
 - "Agora anote que fiz isso e o teu comando" (@01:31:45) — [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]] `raw/videos/live-bench-studio-com-81-modelos-de-ia-instalacao-do-zero.txt`
 - "pergunto pro chat. Vai e vem, vai e vem." (@00:58:35) — [[video-live-deepseek-harness-orquestre-ias-e-corte-custos-em-]] `raw/videos/live-deepseek-harness-orquestre-ias-e-corte-custos-em-95x.txt`
 - "É fácil quando tudo dá certo." (@00:55:27) — [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] `raw/videos/live-empresa-agentica-agentes-de-ia-no-comando-do-negocio.txt`
-- "para mim identificar os erros, senão o" (@01:03:48) — [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] `raw/videos/live-empresa-agentica-agentes-de-ia-no-comando-do-negocio.txt`
+- "para mim identificar os erros, senêo o" (@01:03:48) — [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] `raw/videos/live-empresa-agentica-agentes-de-ia-no-comando-do-negocio.txt`
 - "Por isso é bom ter duas, três VPS é pra" (@00:55:51) — [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] `raw/videos/live-empresa-agentica-agentes-de-ia-no-comando-do-negocio.txt`
-- "Vou melhorar essa instalação. Vou criar" (@00:37:18) — [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] `raw/videos/live-empresa-agentica-agentes-de-ia-no-comando-do-negocio.txt`
+- "Vou melhorar essa instalaçêo. Vou criar" (@00:37:18) — [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] `raw/videos/live-empresa-agentica-agentes-de-ia-no-comando-do-negocio.txt`
 - "Corrigido nos três repos. Causa. O Inema" (@00:12:04) — [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] `raw/videos/live-claude-code-economize-90-dos-tokens-com-3-comandos.txt`
 
 ## Fontes
 
 - [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] — INEMA  VibeCode do Zero - Dia 1 - Infra Git e Vercel
 - [[video-inema-vibecode-do-zero-dia-3-basico-de-infra]] — INEMA  VibeCode do Zero - Dia 3 -  Basico de Infra
-- [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]] — LIVE： Bench Studio com 81 Modelos de IA - Instalação do Zero
+- [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]] — LIVE： Bench Studio com 81 Modelos de IA - Instalaçêo do Zero
 - [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] — LIVE： Claude Code - Economize 90% dos Tokens com 3 Comandos
 - [[video-live-deepseek-harness-orquestre-ias-e-corte-custos-em-]] — LIVE： DeepSeek Harness - Orquestre IAs e Corte Custos em 95x
 - [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] — LIVE： Empresa Agêntica - Agentes de IA no Comando do Negócio

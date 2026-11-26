@@ -8,7 +8,7 @@ Levantar o consumo real (pelos logs ou hooks), projetar para o mês e calcular q
 
 ## Passos
 
-1. Pedir ao agente o consumo da semana a partir dos logs (ou instrumentar hooks antes e depois de cada execução)
+1. Pedir ao agente o consumo da semana a partir dos logs (ou instrumentar hooks antes e depois de cada execuçêo)
 2. Separar input, output, cache lido e cache escrito
 3. Multiplicar por 4 para ter o mês
 4. Calcular o preço equivalente na API (ex.: Opus) e comparar com a assinatura

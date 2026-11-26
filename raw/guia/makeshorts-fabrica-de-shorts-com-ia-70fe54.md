@@ -8,9 +8,9 @@ O que é
 
 MakeShorts é uma skill ( /makeshorts ) com scripts de apoio. Você entrega um tema, um link ou um clipe gravado; ela devolve o short editado, conferido e pronto para agendar.
 
-### 🧩 Orquestra, não reinventa
+### 🧩 Orquestra, nêo reinventa
 
-Chama o que já funciona: HyperFrames para editar, inemavox para voz e transcrição, HeyGen para avatar, Metricool para agendar.
+Chama o que já funciona: HyperFrames para editar, inemavox para voz e transcriçêo, HeyGen para avatar, Metricool para agendar.
 
 ### 📐 Fórmula fixa, tema variável
 
@@ -18,15 +18,15 @@ Todo short segue gancho → gancho secundário → 3 passos → CTA. Três vers�
 
 ### ✅ Qualidade medida
 
-Nada sai sem passar pelo qa_short.py : duração, formato 1080x1920, loudness, gancho visual, hashtags e CTA.
+Nada sai sem passar pelo qa_short.py : duraçêo, formato 1080x1920, loudness, gancho visual, hashtags e CTA.
 
 Como funciona
 
 ## Sete etapas, um pedido
 
-Cada etapa pode ser feita sozinha (os 5 modos) ou em sequência. As que custam dinheiro ou publicam sempre pedem sua confirmação.
+Cada etapa pode ser feita sozinha (os 5 modos) ou em sequência. As que custam dinheiro ou publicam sempre pedem sua confirmaçêo.
 
-Roteiro → Voz ou avatar → B-roll real → Edição 9:16 → QA → Agendar → Funil de DM
+Roteiro → Voz ou avatar → B-roll real → Ediçêo 9:16 → QA → Agendar → Funil de DM
 
 1
 
@@ -38,17 +38,17 @@ Roteiro → Voz ou avatar → B-roll real → Edição 9:16 → QA → Agendar �
 
 ### Voz / rosto
 
-Gravação humana, voz sintética (local ou API) ou avatar HeyGen.
+Gravaçêo humana, voz sintética (local ou API) ou avatar HeyGen.
 
 3
 
-### Edição
+### Ediçêo
 
 Visual em cima, rosto embaixo, legenda palavra a palavra, punch-in e SFX.
 
 4
 
-### Publicação
+### Publicaçêo
 
 Legenda com benefício, até 5 hashtags, rótulo de IA, Metricool.
 
@@ -56,7 +56,7 @@ Pré-requisitos
 
 ## O que precisa estar na máquina
 
-O básico roda em qualquer Linux ou Mac. GPU e inemavox são opcionais: sem eles, troque os backends por API (veja VPS ).
+O básico roda em qualquer Linux ou Mac. GPU e inemavox sêo opcionais: sem eles, troque os backends por API (veja VPS ).
 
 ### Claude Code
 
@@ -68,7 +68,7 @@ npm i -g @anthropic-ai/claude-code
 
 ### ffmpeg + Python + Node
 
-Edição, QA e o motor HyperFrames.
+Ediçêo, QA e o motor HyperFrames.
 
 ```
 sudo apt install -y ffmpeg python3 nodejs
@@ -76,7 +76,7 @@ sudo apt install -y ffmpeg python3 nodejs
 
 ### HyperFrames
 
-Motor de edição em HTML → MP4, roda em CPU.
+Motor de ediçêo em HTML → MP4, roda em CPU.
 
 ```
 npx hyperframes skills update general-video
@@ -86,7 +86,7 @@ Guia de uso · passo a passo
 
 ## Do clone ao primeiro short
 
-Cinco passos. Os comandos são os do repositório, prontos para copiar.
+Cinco passos. Os comandos sêo os do repositório, prontos para copiar.
 
 1
 
@@ -129,13 +129,13 @@ No Claude Code, chame a skill ou fale naturalmente. Ela descobre o modo pelo ped
 
 4
 
-### Passe pelo portão de QA
+### Passe pelo portêo de QA
 
-A skill roda sozinha, mas você pode rodar à mão. Exit 1 reprova e diz o que corrigir.
+A skill roda sozinha, mas você pode rodar à mêo. Exit 1 reprova e diz o que corrigir.
 
 ```
 python3 .claude/skills/makeshorts/scripts/qa_short.py final.mp4 --caption legenda.txt
-✅ duração        31.2s
+✅ duraçêo        31.2s
 ✅ formato        1080x1920
 ✅ loudness       -14.1 LUFS
 ✅ gancho visual  sem tela preta no início
@@ -161,11 +161,11 @@ Nenhum código muda. Os scripts voz.py e transcreve.py leem o backend do .env e 
 
 ### 🖥️ Máquina com GPU
 
-Voz: inemavox (chatterbox, voz clonada local) · Transcrição: inemavox (Whisper large-v3) · Imagem: flux-local .
+Voz: inemavox (chatterbox, voz clonada local) · Transcriçêo: inemavox (Whisper large-v3) · Imagem: flux-local .
 
 ### ☁️ VPS
 
-Voz: edge (grátis), openai ou elevenlabs (sua voz clonada) · Transcrição: groq ou openai · Imagem: nenhuma (b-roll real).
+Voz: edge (grátis), openai ou elevenlabs (sua voz clonada) · Transcriçêo: groq ou openai · Imagem: nenhuma (b-roll real).
 
 ```
 # .env típico de VPS
@@ -180,7 +180,7 @@ python3 scripts/voz.py --texto "Teste de voz." --out /tmp/t.mp3
 python3 scripts/transcreve.py --in /tmp/t.mp3 --outdir /tmp/tr
 ```
 
-Instalação completa no Ubuntu, custos de referência e uso com tmux: docs/vps.md .
+Instalaçêo completa no Ubuntu, custos de referência e uso com tmux: docs/vps.md .
 
 Exemplos
 
@@ -198,13 +198,13 @@ Um short de 30 segundos, ato por ato. Mesma espinha, qualquer tema.
 
 ### Gancho secundário
 
-"E não é o CapCut. Nem o Premiere."
+"E nêo é o CapCut. Nem o Premiere."
 
 8–28s
 
 ### Entrega
 
-"Passo 1… passo 2… passo 3…" — direto, sem enrolação.
+"Passo 1… passo 2… passo 3…" — direto, sem enrolaçêo.
 
 28s+
 

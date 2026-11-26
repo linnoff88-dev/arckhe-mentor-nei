@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Hook Stop: não deixa o turno terminar enquanto TODO.md tiver itens '- [ ]'.
+"""Hook Stop: nêo deixa o turno terminar enquanto TODO.md tiver itens '- [ ]'.
 
 Contrato: lê o JSON do evento no stdin; para bloquear imprime {"decision":"block","reason":...}.
-Critério de aborto: no máximo TODO_STOP_MAX bloqueios seguidos por sessão (padrão 3);
+Critério de aborto: no máximo TODO_STOP_MAX bloqueios seguidos por sessêo (padrêo 3);
 depois libera e avisa no stderr. Zerou os abertos -> zera o contador.
-Qualquer erro interno -> exit 0 (o hook nunca prende a sessão).
+Qualquer erro interno -> exit 0 (o hook nunca prende a sessêo).
 """
 import json, os, re, sys
 from pathlib import Path
@@ -37,7 +37,7 @@ def main() -> int:
     print(json.dumps({"decision": "block",
                       "reason": f"TODO.md tem {len(abertos)} item(ns) aberto(s) (bloqueio {n + 1}/{maximo}): "
                                 + "; ".join(abertos)
-                                + ". Termine cada um e marque com [x]. Se algum não depende de você, "
+                                + ". Termine cada um e marque com [x]. Se algum nêo depende de você, "
                                   "explique por que e deixe aberto."}))
     return 0
 

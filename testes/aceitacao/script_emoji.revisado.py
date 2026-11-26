@@ -15,7 +15,7 @@ def perguntas(comentarios):
 
 
 def main():
-    # O terminal pode não ter UTF-8: o que não couber vira "?" em vez de derrubar o script.
+    # O terminal pode nêo ter UTF-8: o que nêo couber vira "?" em vez de derrubar o script.
     sys.stdout.reconfigure(errors="replace")
     comentarios = json.loads(ENTRADA.read_text(encoding="utf-8"))
     achadas = perguntas(comentarios)

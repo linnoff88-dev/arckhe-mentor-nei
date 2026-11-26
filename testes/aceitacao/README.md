@@ -1,16 +1,16 @@
-# Testes de aceitação do mentor
+# Testes de aceitaçêo do mentor
 
-Três tarefas congeladas. Rode cada uma numa sessão nova do Claude Code, dentro deste projeto, e registre o resultado em `RESULTADOS.md`.
+Três tarefas congeladas. Rode cada uma numa sessêo nova do Claude Code, dentro deste projeto, e registre o resultado em `RESULTADOS.md`.
 
 ## 1. Construir e ensinar
 
 ```
-/nei-ensina <algo pequeno e real do domínio que você ainda não domina>
+/nei-ensina <algo pequeno e real do domínio que você ainda nêo domina>
 ```
 
-Exemplo para programação: "me ensina a fazer um tokenizador BPE do zero".
+Exemplo para programaçêo: "me ensina a fazer um tokenizador BPE do zero".
 
-**Passa se** `python3 tools/validar_resposta.py testes/respostas/<arquivo>.md` → exit 0 **e** você entendeu algo que não sabia.
+**Passa se** `python3 tools/validar_resposta.py testes/respostas/<arquivo>.md` → exit 0 **e** você entendeu algo que nêo sabia.
 
 ## 2. Revisar um script "que funciona"
 
@@ -28,4 +28,4 @@ Use o `script_emoji.py` desta pasta. Ele roda no terminal comum e quebra num ter
 /nei-ingere <link novo do especialista>
 ```
 
-**Passa se** `wiki/log.md` ganhou uma linha, apareceu a página nova em `wiki/fontes/`, os três validadores dão exit 0 e (se houver) uma regra `banco` foi promovida.
+**Passa se** `wiki/log.md` ganhou uma linha, apareceu a página nova em `wiki/fontes/`, os três validadores dêo exit 0 e (se houver) uma regra `banco` foi promovida.

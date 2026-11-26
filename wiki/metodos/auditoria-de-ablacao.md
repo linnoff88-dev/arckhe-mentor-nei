@@ -1,18 +1,18 @@
-# Auditoria de ablação de CLAUDE.md e skills
+# Auditoria de ablaçêo de CLAUDE.md e skills
 
 - Tipo: metodo
 
 ## O que é
 
-Ele audita a configuração para cortar instruções redundantes, antigas ou prescritivas demais, sem perder o que é obrigatório, rodando primeiro só em leitura.
+Ele audita a configuraçêo para cortar instruções redundantes, antigas ou prescritivas demais, sem perder o que é obrigatório, rodando primeiro só em leitura.
 
 ## Passos
 
 1. Estudar a fonte (entrevista do criador) e testar com e sem instruções
-2. Rodar o prompt de auditoria de ablação sobre CLAUDE.md e skills, deixando explícito que nada será alterado
+2. Rodar o prompt de auditoria de ablaçêo sobre CLAUDE.md e skills, deixando explícito que nada será alterado
 3. Ler o relatório: custo das descrições, famílias canibais, bugs (caminhos), playbooks obsoletos
 4. Desativar ou mover skills raras para chamada por /nome; consolidar versões
-5. Só então alterar, depois de ler e entender, para não quebrar o que funciona
+5. Só entêo alterar, depois de ler e entender, para nêo quebrar o que funciona
 
 ## Exemplos (trechos)
 
@@ -22,7 +22,7 @@ Ele audita a configuração para cortar instruções redundantes, antigas ou pre
 
 ## Fontes
 
-- [[video-live-fim-dos-skills-auditoria-de-ablacao-no-claude-cod]] — LIVE： Fim dos Skills？ Auditoria de Ablação no Claude Code
+- [[video-live-fim-dos-skills-auditoria-de-ablacao-no-claude-cod]] — LIVE： Fim dos Skills？ Auditoria de Ablaçêo no Claude Code
 
 ## Relacionados
 

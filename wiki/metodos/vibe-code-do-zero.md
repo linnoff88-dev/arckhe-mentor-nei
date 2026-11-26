@@ -1,4 +1,4 @@
-# Vibe code do zero: ideia → contexto → plano → implementação → teste → git → deploy
+# Vibe code do zero: ideia → contexto → plano → implementaçêo → teste → git → deploy
 
 - Tipo: metodo
 
@@ -10,15 +10,15 @@ O fluxo que ele ensina para construir com IA: estruturar a ideia como contexto n
 
 1. Criar a pasta do projeto dentro de projetos/ e, dentro dela, a pasta doc (privada, no .gitignore) com referências, prints, links e o que foi discutido no chat
 2. Brainstorm da ideia no chat com esforço alto, buscando opiniões e pesquisas diferentes
-3. Pedir um plano em MD e validá-lo em outro modelo (Claudex/Codex, ChatGPT ou outra versão de LLM)
-4. Implementar com esforço menor, dando instrução curta que aponta para o contexto (@doc)
+3. Pedir um plano em MD e validá-lo em outro modelo (Claudex/Codex, ChatGPT ou outra versêo de LLM)
+4. Implementar com esforço menor, dando instruçêo curta que aponta para o contexto (@doc)
 5. Testar/validar, de preferência com outra IA que questiona tudo; definir claramente o que testar
 6. Commitar e dar push no GitHub (SSH configurado, .env fora do git)
 7. Publicar: GitHub Pages (main + root) se público, ou importar no Vercel configurando variáveis, diretório raiz e domínio
 
 ## Exemplos (trechos)
 
-- "todo. Então, o processo é você ter uma" (@00:01:51) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
+- "todo. Entêo, o processo é você ter uma" (@00:01:51) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
 - "plano, validar de novo para outros" (@00:07:30) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
 - "joga pro git, certo? E transforma aquilo" (@01:19:28) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`
 - "Tu pega o plano e leva no Codex." (@02:49:42) — [[video-inema-vibecode-do-zero-dia-1-infra-git-e-vercel]] `raw/videos/inema-vibecode-do-zero-dia-1-infra-git-e-vercel.txt`

@@ -9,13 +9,13 @@ Agente = instruções + inteligência com liberdade dentro de um harness. Camada
 ### Por fonte (o que cada lote observou)
 
 - **Agentes de IA (arquitetura e harness)** — Agente = instruções + inteligência com liberdade, dentro de um harness: motores LLM trocáveis, roteador de provedores, ferramentas, skills e memória, filas, cron, worker, subagentes e checkpoints.
-- **Evolução dos agentes: prompt, contexto, skill, harness, loop, grafo** — Camadas que se somam: o prompt define o que fazer, o contexto dá base, a skill é o manual, o harness é a cebola de controles, o loop avalia e corrige, e o grafo escolhe caminhos por relações com peso. Nenhuma camada elimina a anterior.
+- **Evoluçêo dos agentes: prompt, contexto, skill, harness, loop, grafo** — Camadas que se somam: o prompt define o que fazer, o contexto dá base, a skill é o manual, o harness é a cebola de controles, o loop avalia e corrige, e o grafo escolhe caminhos por relações com peso. Nenhuma camada elimina a anterior.
 
 ## Trechos
 
-- "Então, agentes são sistemas com liberdade." (@00:03:07) — [[video-transcript]] `raw/videos/transcript.txt`
+- "Entêo, agentes sêo sistemas com liberdade." (@00:03:07) — [[video-transcript]] `raw/videos/transcript.txt`
 - "que vai buscar na fila e vai mandar executar pelos subagentes, certo?" (@00:13:10) — [[video-transcript]] `raw/videos/transcript.txt`
-- "Quero entender o que você lê quando inicializa uma sessão." (@00:39:35) — [[video-transcript]] `raw/videos/transcript.txt`
+- "Quero entender o que você lê quando inicializa uma sessêo." (@00:39:35) — [[video-transcript]] `raw/videos/transcript.txt`
 - "Ele é a base para contexto e o harness." (@00:06:14) — [[video-live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia]] `raw/videos/live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia.txt`
 - "Ele é resiliente porque tu tem vários" (@00:17:54) — [[video-live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia]] `raw/videos/live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia.txt`
 

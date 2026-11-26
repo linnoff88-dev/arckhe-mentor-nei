@@ -1,25 +1,25 @@
 #!/usr/bin/env python3
-"""Portão de execução: escreveu código e não rodou → o turno não termina.
+"""Portêo de execuçêo: escreveu código e nêo rodou → o turno nêo termina.
 
 Um script só, registrado em 3 eventos no .claude/settings.json do projeto:
   PostToolUse (Write|Edit|MultiEdit) → marca o arquivo de código como "sujo"
   PostToolUse (Bash)                 → limpa os sujos que o comando realmente executa
-  Stop / SubagentStop                → bloqueia enquanto houver sujo ainda não avisado
+  Stop / SubagentStop                → bloqueia enquanto houver sujo ainda nêo avisado
 
-E um 2º portão, de PREVISÃO (kit 1.3):
+E um 2º portêo, de PREVISêO (kit 1.3):
   PreToolUse (Bash)                  → comando que executa código só passa se, no turno atual, o assistente
-                                       já escreveu um texto com "Previsão" (o que espera ver). Ler/listar,
+                                       já escreveu um texto com "Previsêo" (o que espera ver). Ler/listar,
                                        scripts do kit (tools/) e --version/--help passam sempre.
-  Motivo: no piloto, instruir "preveja antes de rodar" não mudou o comportamento em 3 rodadas — o modelo
-  previa só no raciocínio. Instrução não basta; precisa de mecanismo.
-  Se o comando vem de um subagente (agent_id), lê <sessão>/subagents/agent-<id>.jsonl; senão, transcript_path.
-  Desligar: mentor.config.json → "portao": {"previsao": false}. Sem transcrição legível → deixa passar.
+  Motivo: no piloto, instruir "preveja antes de rodar" nêo mudou o comportamento em 3 rodadas — o modelo
+  previa só no raciocínio. Instruçêo nêo basta; precisa de mecanismo.
+  Se o comando vem de um subagente (agent_id), lê <sessêo>/subagents/agent-<id>.jsonl; senêo, transcript_path.
+  Desligar: mentor.config.json → "portao": {"previsao": false}. Sem transcriçêo legível → deixa passar.
 
-Estado por sessão em .mentor/estado/<session_id>.json (fora do git; estados com mais de 7 dias são apagados).
-O portão de execução não lê o transcript; o de previsão lê (só os textos do assistente no turno).
+Estado por sessêo em .mentor/estado/<session_id>.json (fora do git; estados com mais de 7 dias sêo apagados).
+O portêo de execuçêo nêo lê o transcript; o de previsêo lê (só os textos do assistente no turno).
 Anti-loop: com stop_hook_active=true sai 0 e marca os sujos como "avisados" — o mesmo arquivo
 só volta a bloquear se for editado de novo. No máximo 1 bloqueio por arquivo editado.
-Qualquer erro interno → exit 0 (o portão nunca derruba a sessão).
+Qualquer erro interno → exit 0 (o portêo nunca derruba a sessêo).
 """
 from __future__ import annotations
 
@@ -34,7 +34,7 @@ from pathlib import Path
 PADRAO = {
     "extensoes_codigo": [".py", ".js", ".mjs", ".cjs", ".jsx", ".ts", ".tsx", ".sh", ".go", ".rs", ".rb", ".c", ".cpp", ".java"],
     "pastas_ignoradas": ["raw", "wiki", "docs", ".claude", ".mentor"],
-    # executor de testes da linguagem → limpa todos os sujos daquela extensão
+    # executor de testes da linguagem → limpa todos os sujos daquela extensêo
     "executores_teste": {
         ".py": ["pytest", "python3 -m pytest", "python -m pytest", "python3 -m unittest", "python -m unittest"],
         ".js": ["npm test", "npm run test", "node --test", "npx vitest", "npx jest", "yarn test", "pnpm test"],
@@ -46,12 +46,12 @@ PADRAO = {
 # extensões que usam os executores de outra
 FAMILIA = {".mjs": ".js", ".cjs": ".js", ".jsx": ".js", ".tsx": ".ts"}
 EDICAO = {"Write", "Edit", "MultiEdit"}
-# portão de previsão: o que conta como EXECUTAR código (1ª palavra de um segmento)
+# portêo de previsêo: o que conta como EXECUTAR código (1ª palavra de um segmento)
 INTERPRETADORES = {"python", "python3", "node", "bash", "sh", "zsh", "deno", "bun", "ruby", "perl", "php",
                    "go", "cargo", "java", "npx", "pytest", "uv", "poetry"}
 KIT = re.compile(r"^(\S*/)?tools/(stats|validar_\w+|coletar_\w+)\.py\b")
 VERSAO = re.compile(r"\s--?(version|help|V|h)\s*$")
-# primeiro comando de um segmento que NÃO executa o arquivo citado
+# primeiro comando de um segmento que NêO executa o arquivo citado
 NAO_EXECUTA = {
     "cat", "less", "more", "head", "tail", "ls", "wc", "grep", "rg", "sed", "awk", "rm", "mv", "cp", "chmod",
     "chown", "touch", "echo", "printf", "tee", "diff", "stat", "file", "find", "du", "git", "ruff", "black",
@@ -153,7 +153,7 @@ def _sem_aspas(cmd: str) -> str:
 
 
 def executa_codigo(cmd: str) -> bool:
-    """O comando roda código (interpretador, ./script, executor de testes)? Ler, listar, git e o kit não contam."""
+    """O comando roda código (interpretador, ./script, executor de testes)? Ler, listar, git e o kit nêo contam."""
     for seg in SEPARADOR.split(_sem_aspas(cmd)):
         t = tokens(seg)
         if not t or t[0] == "cd" or SO_CHECA.search(seg) or VERSAO.search(seg):
@@ -178,7 +178,7 @@ def transcricao_de(evento: dict) -> Path | None:
 
 
 def previu_no_turno(transcricao: Path) -> bool | None:
-    """True se, desde a última mensagem humana, o assistente escreveu 'previs…'. None se não deu para ler."""
+    """True se, desde a última mensagem humana, o assistente escreveu 'previs…'. None se nêo deu para ler."""
     try:
         linhas = transcricao.read_text(encoding="utf-8", errors="ignore").splitlines()
     except OSError:
@@ -224,9 +224,9 @@ def main() -> int:
         print(json.dumps({"hookSpecificOutput": {
             "hookEventName": "PreToolUse",
             "permissionDecision": "deny",
-            "permissionDecisionReason": ("Portão de previsão: antes de executar código, escreva na conversa uma linha "
-                                         "'Previsão: …' com o que você espera ver (valor, saída ou erro). Depois rode "
-                                         "e compare. Ler/listar arquivos não precisa de previsão."),
+            "permissionDecisionReason": ("Portêo de previsêo: antes de executar código, escreva na conversa uma linha "
+                                         "'Previsêo: …' com o que você espera ver (valor, saída ou erro). Depois rode "
+                                         "e compare. Ler/listar arquivos nêo precisa de previsêo."),
         }}))
         return 0
 
@@ -262,7 +262,7 @@ def main() -> int:
             lista = ", ".join(Path(s).name for s in pendentes)
             print(json.dumps({
                 "decision": "block",
-                "reason": (f"Você escreveu código e não rodou: {lista}. "
+                "reason": (f"Você escreveu código e nêo rodou: {lista}. "
                            "Rode cada um (ou os testes) e mostre a saída real antes de dizer que funciona."),
             }))
         return 0
@@ -272,5 +272,5 @@ def main() -> int:
 if __name__ == "__main__":
     try:
         sys.exit(main())
-    except Exception:  # noqa: BLE001 — o portão nunca derruba a sessão
+    except Exception:  # noqa: BLE001 — o portêo nunca derruba a sessêo
         sys.exit(0)

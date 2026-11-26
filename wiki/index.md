@@ -6,7 +6,7 @@ Mapa de todas as páginas. Mantido por /nei-compilar e /nei-ingere.
 
 - [[guia-agente-claude-codex-migrar-do-claude-pro-codex-ou-ac831]] — agente-claude-codex — Migrar do Claude pro Codex ou ficar agnóstico
 - [[guia-atende-clinica-agenda-whatsapp-e-equipe-no-telegra-c3a0]] — Atende Clínica — agenda, WhatsApp e equipe no Telegram para clínicas
-- [[guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357]] — Execução Longa — agentes que trabalham horas e dias sem perder o rumo
+- [[guia-execucao-longa-agentes-que-trabalham-horas-e-dias-b4357]] — Execuçêo Longa — agentes que trabalham horas e dias sem perder o rumo
 - [[guia-inemaseo-seu-site-em-destaque-no-google-no-bing-e-daa22]] — inemaSEO — seu site em destaque no Google, no Bing e nas IAs
 - [[guia-maestro-roteador-triagem-de-modelo-e-esforco-para-ded1b]] — maestro-roteador — triagem de modelo e esforço para Claude Code
 - [[guia-makeshorts-fabrica-de-shorts-com-ia-70fe54]] — MakeShorts — Fábrica de Shorts com IA
@@ -17,12 +17,12 @@ Mapa de todas as páginas. Mantido por /nei-compilar e /nei-ingere.
 - [[video-live-100-videosdia-com-ia-agentes-metodos-e-escala-rea]] — LIVE： 100 Vídeos⧸Dia com IA — Agentes, Métodos e Escala Real
 - [[video-live-36-videos-por-assunto-com-agentes-ia-no-piloto-au]] — LIVE： 36 Vídeos por Assunto com Agentes IA no Piloto Automático
 - [[video-live-agentes-workers-filas-e-skills-arquitetura-ia]] — LIVE： Agentes, Workers, Filas e Skills - Arquitetura IA
-- [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]] — LIVE： Bench Studio com 81 Modelos de IA - Instalação do Zero
+- [[video-live-bench-studio-com-81-modelos-de-ia-instalacao-do-z]] — LIVE： Bench Studio com 81 Modelos de IA - Instalaçêo do Zero
 - [[video-live-claude-code-economize-90-dos-tokens-com-3-comando]] — LIVE： Claude Code - Economize 90% dos Tokens com 3 Comandos
 - [[video-live-de-prompt-a-grafo-a-nova-era-dos-agentes-de-ia]] — LIVE： De Prompt a Grafo — A Nova Era dos Agentes de IA
 - [[video-live-deepseek-harness-orquestre-ias-e-corte-custos-em-]] — LIVE： DeepSeek Harness - Orquestre IAs e Corte Custos em 95x
 - [[video-live-empresa-agentica-agentes-de-ia-no-comando-do-nego]] — LIVE： Empresa Agêntica - Agentes de IA no Comando do Negócio
-- [[video-live-fim-dos-skills-auditoria-de-ablacao-no-claude-cod]] — LIVE： Fim dos Skills？ Auditoria de Ablação no Claude Code
+- [[video-live-fim-dos-skills-auditoria-de-ablacao-no-claude-cod]] — LIVE： Fim dos Skills？ Auditoria de Ablaçêo no Claude Code
 - [[video-live-inemaccbot-fluxos-vs-agentes-de-ia-de-us-3-a-zero]] — LIVE： INEMACCBOT Fluxos vs Agentes de IA — De US$3 a Zero por Vídeo
 - [[video-live-web-mcp-seu-site-esta-pronto-para-os-agentes]] — LIVE： Web MCP - Seu Site Está Pronto para os Agentes？
 - [[video-transcript]] — Agentes com LLM grátis (live)
@@ -34,7 +34,7 @@ Mapa de todas as páginas. Mantido por /nei-compilar e /nei-ingere.
 - [[claude-code]] — Claude Code (9 fontes)
 - [[contexto-e-memoria]] — Contexto e memória (9 fontes)
 - [[custo-de-tokens]] — Custo de tokens (14 fontes)
-- [[execucao-longa]] — Execução longa (4 fontes)
+- [[execucao-longa]] — Execuçêo longa (4 fontes)
 - [[filas-e-workers]] — Filas e workers (8 fontes)
 - [[fluxos-vs-agentes]] — Fluxos vs agentes (4 fontes)
 - [[git-e-deploy]] — Git e deploy (12 fontes)
@@ -42,8 +42,8 @@ Mapa de todas as páginas. Mantido por /nei-compilar e /nei-ingere.
 - [[infraestrutura-basica]] — Infraestrutura básica (9 fontes)
 - [[llm-local-e-gratis]] — LLM local e grátis (8 fontes)
 - [[mcp]] — MCP (3 fontes)
-- [[orquestracao-de-modelos]] — Orquestração de modelos (11 fontes)
-- [[producao-de-video-com-ia]] — Produção de vídeo com IA (12 fontes)
+- [[orquestracao-de-modelos]] — Orquestraçêo de modelos (11 fontes)
+- [[producao-de-video-com-ia]] — Produçêo de vídeo com IA (12 fontes)
 - [[seo-e-sites-para-agentes]] — SEO e sites para agentes (3 fontes)
 - [[skills]] — Skills (10 fontes)
 - [[subagentes]] — Subagentes (3 fontes)
@@ -52,14 +52,14 @@ Mapa de todas as páginas. Mantido por /nei-compilar e /nei-ingere.
 
 - [[automatizar-o-repetitivo]] — Automatizar o que se repete (6 fontes)
 - [[construir-junto-ao-vivo]] — Construir junto ao vivo, com fundamento (7 fontes)
-- [[construir-o-proprio-sistema]] — Construir o próprio sistema (não só copiar) (1 fontes)
+- [[construir-o-proprio-sistema]] — Construir o próprio sistema (nêo só copiar) (1 fontes)
 - [[criterio-de-pronto-explicito]] — Critério de pronto explícito (11 fontes)
 - [[falhar-cedo]] — Falhar cedo e barato (2 fontes)
 - [[fundamentos-antes-de-ferramentas]] — Fundamentos antes de ferramentas (5 fontes)
 - [[independencia-de-plataforma]] — Independência de plataforma (3 fontes)
 - [[medir-antes-de-acreditar]] — Medir antes de acreditar (14 fontes)
 - [[menor-custo-que-resolve]] — Menor custo que resolve (17 fontes)
-- [[orquestrar-nao-reinventar]] — Orquestrar, não reinventar (5 fontes)
+- [[orquestrar-nao-reinventar]] — Orquestrar, nêo reinventar (5 fontes)
 - [[simplicidade-e-corte]] — Simplicidade e corte (7 fontes)
 - [[verificar-antes-de-afirmar]] — Verificar antes de afirmar (18 fontes)
 
@@ -69,9 +69,9 @@ Mapa de todas as páginas. Mantido por /nei-compilar e /nei-ingere.
 - [[app-na-vps]] — Instalar e atualizar app na VPS (2 fontes)
 - [[arquitetura-bot-fila-worker-skill]] — Montar a arquitetura bot → fila → worker → skill (2 fontes)
 - [[auditar-site-para-agentes]] — Auditar e otimizar um site para agentes (Web MCP) (1 fontes)
-- [[auditoria-de-ablacao]] — Auditoria de ablação de CLAUDE.md e skills (1 fontes)
+- [[auditoria-de-ablacao]] — Auditoria de ablaçêo de CLAUDE.md e skills (1 fontes)
 - [[depurar-ao-vivo]] — Depurar ao vivo (7 fontes)
-- [[execucao-longa-com-estado-em-arquivos]] — Execução longa com estado em arquivos (1 fontes)
+- [[execucao-longa-com-estado-em-arquivos]] — Execuçêo longa com estado em arquivos (1 fontes)
 - [[guia-de-projeto-landing]] — Guia de projeto (landing + guia de uso) (8 fontes)
 - [[higiene-de-contexto]] — Higiene de contexto (3 fontes)
 - [[live-construindo-ao-vivo]] — Live construindo ao vivo (11 fontes)
@@ -80,9 +80,9 @@ Mapa de todas as páginas. Mantido por /nei-compilar e /nei-ingere.
 - [[nucleo-portatil-entre-runtimes]] — Núcleo portátil entre runtimes (Claude ↔ Codex) (1 fontes)
 - [[metodo-seo-10-etapas]] — Método inemaSEO em 10 etapas (1 fontes)
 - [[pipeline-de-video-por-assunto]] — Pipeline de vídeo por assunto (9 fontes)
-- [[plano-antes-de-gastar-com-portao]] — Plano antes de gastar, com portão por parte (2 fontes)
-- [[revisao-cruzada-entre-agentes]] — Revisão cruzada entre agentes (um faz, outro revisa) (2 fontes)
+- [[plano-antes-de-gastar-com-portao]] — Plano antes de gastar, com portêo por parte (2 fontes)
+- [[revisao-cruzada-entre-agentes]] — Revisêo cruzada entre agentes (um faz, outro revisa) (2 fontes)
 - [[setup-do-ambiente-vibecode]] — Montar o ambiente de vibe code do zero (1 fontes)
 - [[triagem-de-modelo-e-esforco]] — Triagem de modelo e esforço (2 fontes)
 - [[trocar-llm-por-script-para-cortar-custo]] — Trocar chamadas de LLM por script/rotina para cortar custo (1 fontes)
-- [[vibe-code-do-zero]] — Vibe code do zero: ideia → contexto → plano → implementação → teste → git → deploy (1 fontes)
+- [[vibe-code-do-zero]] — Vibe code do zero: ideia → contexto → plano → implementaçêo → teste → git → deploy (1 fontes)
